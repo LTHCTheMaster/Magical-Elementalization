@@ -1,0 +1,113 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "meadow"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "grove"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "snowy_slopes"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "jagged_peaks"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "frozen_peaks"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "stony_peaks"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:alpha_islands"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:alpine_grove"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:alpine_highlands"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:emerald_peaks"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:forested_highlands"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:haze_mountain"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:highlands"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:jungle_mountains"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:painted_mountains"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:scarlet_mountains"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:skylands"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:temperate_highlands"
+            }
+        }
+    ]
+}

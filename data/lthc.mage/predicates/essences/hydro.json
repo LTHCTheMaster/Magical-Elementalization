@@ -1,0 +1,179 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "river"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "frozen_river"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "cold_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "deep_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "warm_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "frozen_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "lukewarm_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "deep_cold_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "deep_frozen_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "deep_lukewarm_ocean"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "beach"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "snowy_beach"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "stony_shore"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "dripstone_caves"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:cave/ice_caves"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:cold_shrubland"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:frozen_cliffs"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:glacial_chasm"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:ice_marsh"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:orchid_swamp"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:siberian_grove"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:siberian_taiga"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:snowy_badlands"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:snowy_maple_forest"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:snowy_shield"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:warm_river"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:wintry_forest"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:alpha_islands_winter"
+            }
+        }
+    ]
+}

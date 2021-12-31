@@ -1,0 +1,17 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "mushroom_fields"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "biome": "terralith:cave/fungal_caves"
+            }
+        }
+    ]
+}
