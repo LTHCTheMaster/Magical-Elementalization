@@ -1,5 +1,4 @@
 {
-    "type": "minecraft:generic",
     "pools": [
       {
         "rolls": 1,
@@ -10,19 +9,19 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{ctc: {traits: {\"magic/collector/pylon\":1b, \"magic/functional/block\":1b, \"block\":1b}, id: \"jungle_collector_pylon\", from: \"lthc.mage\"}}"
+                "tag": "{ctc: {traits: {\"magic/collector/pylon\":1b, \"magic/functional/block\":1b, \"block\":1b}, id: \"birch_collector_pylon\", from: \"lthc.mage\"}}"
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData: 170004}"
+                "tag": "{CustomModelData: 170001}"
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{display: {Name:'{\"translate\": \"Jungle Collector Pylon\", \"color\": \"#DDEEFF\"}'}}"
+                "tag": "{display: {Name:'{\"translate\": \"Birch Collector Pylon\", \"color\": \"#DDEEFF\"}'}}"
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{EntityTag: {ItemRotation:0b, Tags:[\"lthc.mage.pylon.jungle\",\"global.ignore\"],Invisible:1b,Invulnerable:1b,Fixed:1b,Silent:1b,Facing:1b,Item:{id:\"glow_item_frame\",Count:1b,tag:{CustomModelData:170004}}}}}"
+                "tag": "{EntityTag: {ItemRotation:0b, Tags:[\"lthc.mage.pylon.birch\",\"global.ignore\"],Invisible:1b,Invulnerable:1b,Fixed:1b,Silent:1b,Facing:1b,Item:{id:\"glow_item_frame\",Count:1b,tag:{CustomModelData:170001}}}}}"
               },
               {
                 "function": "minecraft:set_count",

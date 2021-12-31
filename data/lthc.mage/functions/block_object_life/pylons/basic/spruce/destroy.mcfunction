@@ -1,3 +1,3 @@
 kill @s
 kill @e[type=item,sort=nearest,limit=1,nbt={Item:{id:"minecraft:oak_log"}}]
-loot spawn ~ ~ ~ loot lthc.mage:pylons/basic/spruce
+loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/spruce
