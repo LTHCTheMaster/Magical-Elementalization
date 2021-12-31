@@ -1,3 +1,14 @@
 {
-    "A really good magic datapack for you": "Un très bon datapack de magie pour toi"
+    "__comments": "advancements",
+    "A really good magic datapack for you": "Un très bon datapack de magie pour toi",
+
+    "__comments": "items",
+    "Acacia Collector Pylon": "Pylône Collecteur Acacia",
+    "Birch Collector Pylon": "Pylône Collecteur Bouleau",
+    "Crimson Collector Pylon": "Pylône Collecteur Carmin",
+    "Dark Oak Collector Pylon": "Pylône Collecteur Chêne Noir",
+    "Jungle Collector Pylon": "Pylône Collecteur Jungle",
+    "Oak Collector Pylon": "Pylône Collecteur Chêne",
+    "Spruce Collector Pylon": "Pylône Collecteur Sapin",
+    "Warped Collector Pylon": "Pylône Collecteur Biscornu"
 }

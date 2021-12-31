@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag" : "{ctc: {traits: {\"magic/essences\":1b, item:1b}, id: \"aero_essence\", from: \"lthc.mage\"}}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{CustomModelData: 170000}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{display: {Name:'{\"translate\": \"Aero Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        },
+                        {
+                          "function": "minecraft:set_count",
+                          "count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

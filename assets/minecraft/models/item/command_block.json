@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:block/command_block",
+    
+    "overrides": [
+        {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:essences/aero"},
+        {"predicate": {"custom_model_data":170001}, "model": "lthc.mage:essences/celestial"},
+        {"predicate": {"custom_model_data":170002}, "model": "lthc.mage:essences/color"},
+        {"predicate": {"custom_model_data":170003}, "model": "lthc.mage:essences/end"},
+        {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:essences/fungus"},
+        {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:essences/gas"},
+        {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:essences/hydro"},
+        {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:essences/phyto"},
+        {"predicate": {"custom_model_data":170008}, "model": "lthc.mage:essences/thermo"}
+    ]
+  }

@@ -9,7 +9,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{ctc: {traits: {\"magic/collector/pylon\":1b, \"magic/functional/block\":1b, \"block\":1b}, id: \"birch_collector_pylon\", from: \"lthc.mage\"}}"
+                "tag": "{ctc: {traits: {\"magic/collector/pylon\":1b, \"magic/functional/block\":1b, block:1b}, id: \"birch_collector_pylon\", from: \"lthc.mage\"}}"
               },
               {
                 "function": "minecraft:set_nbt",
@@ -17,7 +17,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{display: {Name:'{\"translate\": \"Birch Collector Pylon\", \"color\": \"#DDEEFF\"}'}}"
+                "tag": "{display: {Name:'{\"translate\": \"Birch Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
               },
               {
                 "function": "minecraft:set_nbt",
