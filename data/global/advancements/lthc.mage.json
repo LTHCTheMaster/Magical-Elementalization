@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "",
+        "description": "",
+        "icon": {
+            "item": "minecraft:glass_bottle"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/glow_item_frame"
+    },
+  
+    "overrides": [
+          {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:pylons/basic/acacia_pylon"},
+          {"predicate": {"custom_model_data":170001}, "model": "lthc.mage:pylons/basic/birch_pylon"},
+          {"predicate": {"custom_model_data":170002}, "model": "lthc.mage:pylons/basic/crimson_pylon"},
+          {"predicate": {"custom_model_data":170003}, "model": "lthc.mage:pylons/basic/dark_oak_pylon"},
+          {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:pylons/basic/jungle_pylon"},
+          {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:pylons/basic/oak_pylon"},
+          {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/spruce_pylon"},
+          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped_pylon"}
+    ]
+}

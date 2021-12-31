@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Mage of LTHC",
+            "color": "#DDEEFF"
+        },
+        "description": {
+            "translate": "A really good magic datapack for you",
+            "color": "#DDEEFF"
+        },
+        "icon": {
+            "item": "stick"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:lthc.mage",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            "",
+            {
+                "text": "Mage",
+                "color": "yellow"
+            },
+            {
+                "text": "of",
+                "color": "aqua"
+            },
+            {
+                "text": " LTHC",
+                "color": "light_purple"
+            }
+        ]
+    }
+}
