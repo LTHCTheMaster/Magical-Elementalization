@@ -22,7 +22,7 @@
         {
             "condition": "location_check",
             "predicate": {
-                "biome": "wooded_badlands*"
+                "biome": "wooded_badlands"
             }
         },
         {
@@ -41,12 +41,6 @@
             "condition": "location_check",
             "predicate": {
                 "biome": "windswept_savanna"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "dimension": "the_nether"
             }
         },
         {
