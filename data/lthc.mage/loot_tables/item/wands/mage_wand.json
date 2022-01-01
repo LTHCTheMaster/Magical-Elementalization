@@ -16,6 +16,10 @@
                           "tag": "{CustomModelData: 170000}"
                         },
                         {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Unbreakable: 1b}"
+                        },
+                        {
                           "function": "minecraft:set_nbt",
                           "tag": "{display: {Name:'{\"translate\": \"Mage Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },

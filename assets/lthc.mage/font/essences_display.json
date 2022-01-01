@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "lthc.mage:essences/aero.png","chars":["\uec00"] },
+        {"type": "bitmap","file": "lthc.mage:essences/celestial.png","chars":["\uec01\uec01"] },
+        {"type": "bitmap","file": "lthc.mage:essences/color.png","chars":["\uec02"] },
+        {"type": "bitmap","file": "lthc.mage:essences/end.png","chars":["\uec03"] },
+        {"type": "bitmap","file": "lthc.mage:essences/fungus.png","chars":["\uec04"] },
+        {"type": "bitmap","file": "lthc.mage:essences/gas.png","chars":["\uec05"] },
+        {"type": "bitmap","file": "lthc.mage:essences/hydro.png","chars":["\uec06"] },
+        {"type": "bitmap","file": "lthc.mage:essences/phyto.png","chars":["\uec07"] },
+        {"type": "bitmap","file": "lthc.mage:essences/thermo.png","chars":["\uec08"] }
+    ]
+}
