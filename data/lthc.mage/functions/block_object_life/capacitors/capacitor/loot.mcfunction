@@ -6,4 +6,4 @@ execute if score @s lthc.mage.data matches 5 run function lthc.mage:block_object
 execute if score @s lthc.mage.data matches 6 run function lthc.mage:block_object_life/capacitors/capacitor/loot/gas
 execute if score @s lthc.mage.data matches 7 run function lthc.mage:block_object_life/capacitors/capacitor/loot/hydro
 execute if score @s lthc.mage.data matches 8 run function lthc.mage:block_object_life/capacitors/capacitor/loot/phyto
-execute if score @s lthc.mage.data matches 8 run function lthc.mage:block_object_life/capacitors/capacitor/loot/thermo
+execute if score @s lthc.mage.data matches 9 run function lthc.mage:block_object_life/capacitors/capacitor/loot/thermo
