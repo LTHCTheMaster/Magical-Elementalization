@@ -12,6 +12,7 @@
           {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:pylons/basic/jungle"},
           {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:pylons/basic/oak"},
           {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/spruce"},
-          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped"}
+          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped"},
+          {"predicate": {"custom_model_data":170009}, "model": "lthc.mage:capacitors/capacitor"}
     ]
 }

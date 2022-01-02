@@ -1,0 +1,93 @@
+[
+    {
+        "condition": "location_check",
+        "offsetY": -1,
+        "predicate": {
+            "block": {
+                "blocks": [
+                    "crafting_table"
+                ]
+            }
+        }
+    },
+    {
+        "condition": "location_check",
+        "offsetY": -1,
+        "offsetX": 2,
+        "offsetZ": 2,
+        "predicate": {
+            "block": {
+                "blocks": [
+                    "acacia_log",
+                    "birch_log",
+                    "crimson_stem",
+                    "dark_oak_log",
+                    "jungle_log",
+                    "oak_log",
+                    "spruce_log",
+                    "warped_stem"
+                ]
+            }
+        }
+    },
+    {
+        "condition": "location_check",
+        "offsetY": -1,
+        "offsetX": -2,
+        "offsetZ": 2,
+        "predicate": {
+            "block": {
+                "blocks": [
+                    "acacia_log",
+                    "birch_log",
+                    "crimson_stem",
+                    "dark_oak_log",
+                    "jungle_log",
+                    "oak_log",
+                    "spruce_log",
+                    "warped_stem"
+                ]
+            }
+        }
+    },
+    {
+        "condition": "location_check",
+        "offsetY": -1,
+        "offsetX": 2,
+        "offsetZ": -2,
+        "predicate": {
+            "block": {
+                "blocks": [
+                    "acacia_log",
+                    "birch_log",
+                    "crimson_stem",
+                    "dark_oak_log",
+                    "jungle_log",
+                    "oak_log",
+                    "spruce_log",
+                    "warped_stem"
+                ]
+            }
+        }
+    },
+    {
+        "condition": "location_check",
+        "offsetY": -1,
+        "offsetX": -2,
+        "offsetZ": -2,
+        "predicate": {
+            "block": {
+                "blocks": [
+                    "acacia_log",
+                    "birch_log",
+                    "crimson_stem",
+                    "dark_oak_log",
+                    "jungle_log",
+                    "oak_log",
+                    "spruce_log",
+                    "warped_stem"
+                ]
+            }
+        }
+    }
+]

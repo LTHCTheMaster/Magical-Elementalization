@@ -33,3 +33,9 @@ execute as @e[type=glow_item_frame,tag=lthc.mage.pylon.spruce_placed] at @s unle
 # Warped
 execute as @e[type=glow_item_frame,tag=lthc.mage.pylon.warped] at @s run function lthc.mage:block_object_life/pylons/basic/warped/place
 execute as @e[type=glow_item_frame,tag=lthc.mage.pylon.warped_placed] at @s unless block ~ ~ ~ oak_log run function lthc.mage:block_object_life/pylons/basic/warped/destroy
+
+### CAPACITORS
+
+# Capacitor
+execute as @e[type=glow_item_frame,tag=lthc.mage.capacitor] at @s run function lthc.mage:block_object_life/capacitors/capacitor/place
+execute as @e[type=glow_item_frame,tag=lthc.mage.capacitor_placed] at @s unless block ~ ~ ~ note_block run function lthc.mage:block_object_life/capacitors/capacitor/destroy

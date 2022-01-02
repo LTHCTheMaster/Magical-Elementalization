@@ -6,8 +6,7 @@ execute unless score #lthc.mage.first_run lthc.mage.data matches 1 run function 
 execute if score #lthc.mage.first_run lthc.mage.data matches 1 unless score #lthc.mage.version lthc.mage.data matches 010000 run function lthc.mage:loading/first_run/update
 
 # Summon a marker at the worldspawn for something
-execute as @e[type=marker,tag=lthc.mage] at @s run forceload remove ~ ~ ~ ~
-kill @e[type=marker,tag=lthc.mage]
+execute as @e[type=marker,tag=lthc.mage] run function lthc.mage:try_unload
 summon marker ~ ~1 ~ {UUID: [I; 1711620132, -220536430, -1552235827, 1782617117],Tags:["lthc.mage","global.ignore","global.forceload"]}
 execute as @e[type=marker,tag=lthc.mage] at @s run forceload add ~ ~ ~ ~
 
