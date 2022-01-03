@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Magic : Age 0",
+            "color": "#DDEEFF"
+        },
+        "description": {
+            "translate": "The most simple base is waiting Magical Trader",
+            "color": "#DDEEFF"
+        },
+        "icon": {
+            "item": "emerald"
+        },
+        "background": "minecraft:textures/block/blue_concrete.png",
+        "announce_to_chat": false,
+        "show_toast": true
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

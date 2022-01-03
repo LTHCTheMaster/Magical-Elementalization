@@ -1,6 +1,7 @@
 {
     "__comments": "advancements",
     "A really good magic datapack for you": "Un très bon datapack de magie pour toi",
+    "The most simple base is waiting Magical Trader": "La base la plus simple est d'attendre Marchand Magique",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -21,5 +22,8 @@
     "Hydro Essence": "Essence Hydro",
     "Phyto Essence": "Essence Phyto",
     "Thermo Essence": "Essence Thermo",
-    "Capacitor": "Condensateur"
+    "Capacitor": "Condensateur",
+
+    "__comments": "entities",
+    "Magical Trader": "Marchand Magique"
 }
