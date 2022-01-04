@@ -18,4 +18,4 @@ This datapack is inspired of the Thaumcraft mod (by Azanor (<a href="https://www
 
 ## Credits
 
-Thank you to the DataWorld discord (<a href="https://discord.me/dataworld">link</a>)
+Thank you to the DataWorld discord (<a href="https://discord.me/dataworld">link</a>). Also thank you to Azanor and Hashs for their works which inspire me
