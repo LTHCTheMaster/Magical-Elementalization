@@ -1,0 +1,35 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"color_wand\", from: \"lthc.mage\"}}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{CustomModelData: 170001}"
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Unbreakable: 1b}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{display: {Name:'{\"translate\": \"Color Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        },
+                        {
+                          "function": "minecraft:set_count",
+                          "count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -4,6 +4,7 @@
         "layer0": "item/warped_fungus_on_a_stick"
     },
     "overrides": [
-		{"predicate":{"custom_model_data":170000},"model":"lthc.mage:wands/mage_wand"}
+		{"predicate":{"custom_model_data":170000},"model":"lthc.mage:wands/mage_wand"},
+		{"predicate":{"custom_model_data":170001},"model":"lthc.mage:wands/color_wand"}
 	]
 }
