@@ -9,7 +9,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/essences\":1b, item:1b}, id: \"hydro_essence\", from: \"lthc.mage\"}}"
+                            "tag" : "{ctc: {traits: {\"magic/essences\":1b, item:1b, hydro:1b}, id: \"hydro_essence\", from: \"lthc.mage\"}}"
                         },
                         {
                           "function": "minecraft:set_nbt",
