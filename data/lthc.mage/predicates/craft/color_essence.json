@@ -1,0 +1,7 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "nbt": "{Item:{tag:{ctc: {traits: {\"magic/essences\":1b, item:1b, color:1b}, id: \"color_essence\", from: \"lthc.mage\"}}}}"
+    }
+}

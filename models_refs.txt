@@ -1,0 +1,27 @@
+warped_fungus_on_a_stick:
+    170000 : mage wand
+    170001 : color wand
+    170002 : teleport wand
+
+command_block:
+    170000 : aero essence
+    170001 : celestial essence
+    170002 : color essence
+    170003 : end essence
+    170004 : fungus essence
+    170005 : gas essence
+    170006 : hydro essence
+    170007 : phyto essence
+    170008 : thermo essence
+
+glow_item_frame:
+    170000 : acacia pylon
+    170001 : birch pylon
+    170002 : crimson pylon
+    170003 : dark oak pylon
+    170004 : jungle pylon
+    170005 : oak pylon
+    170006 : spruce pylon
+    170007 : warped pylon
+    -------------------------------------------------------------------------------
+    170009 : capacitor
