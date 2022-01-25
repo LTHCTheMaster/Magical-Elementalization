@@ -19,6 +19,8 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:brown_wool",Count:1b}},predicat
 execute as @e[type=item,nbt={Item:{id:"minecraft:light_gray_wool",Count:1b}},predicate=lthc.mage:casc/casc] at @s run function lthc.mage:craft/check/color_wand_check/light_gray
 execute as @e[type=item,nbt={Item:{id:"minecraft:gray_wool",Count:1b}},predicate=lthc.mage:casc/casc] at @s run function lthc.mage:craft/check/color_wand_check/gray
 execute as @e[type=item,nbt={Item:{id:"minecraft:purple_wool",Count:1b}},predicate=lthc.mage:casc/casc] at @s run function lthc.mage:craft/check/color_wand_check/purple
+# Teleport Wand craft checking
+execute as @e[type=item,nbt={Item:{id:"minecraft:ender_pearl",Count:1b}},predicate=lthc.mage:casc/casc] at @s run function lthc.mage:craft/check/teleport_wand_check
 
 # Auto schedule
 schedule function lthc.mage:craft/check 15t replace

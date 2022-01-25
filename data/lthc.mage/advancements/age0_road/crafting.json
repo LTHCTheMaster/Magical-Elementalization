@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:stick"
+            "item": "minecraft:knowledge_book"
         },
         "title": {
-            "translate": "First Wands"
+            "translate": "Crafts/Recipes"
         },
         "description": "",
         "show_toast": false,
@@ -16,5 +16,5 @@
             "trigger": "tick"
         }
     },
-    "parent": "lthc.mage:age0_road/crafting"
+    "parent": "lthc.mage:age0_road/crafting_altar"
 }

@@ -3,6 +3,10 @@
     "A really good magic datapack for you": "Un très bon datapack de magie pour toi",
     "The most simple base is waiting Magical Trader": "La base la plus simple est d'attendre Marchand Magique",
     "\n\nL: Log\nA: Not important\nC: Crafting table": "\n\nL: Bûche\nA: Pas d'importance\nC: Table de craft",
+    "Crafts/Recipes": "Crafts/Recettes",
+    "First Wands": "Premières Baguettes",
+    "1 wool (dropped at center) + 4 Color Essence (item frames)": "1 laine (droppé au centre) + 4 Essences Couleur (item frames)",
+    "Magic : Age 0": "Magie : Âge 0",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -26,6 +30,7 @@
     "Capacitor": "Condensateur",
     "Color Wand": "Baguette Couleur",
     "Teleport Wand": "Baguette Téléportation",
+    "&7&oRight-click and also have color essence in offhand to change the color of some distant sheeps.": "&7&oRight-click et ayez aussi une Essence Couleur dans la seconde main pour changer la couleur de moutons distants.",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique"

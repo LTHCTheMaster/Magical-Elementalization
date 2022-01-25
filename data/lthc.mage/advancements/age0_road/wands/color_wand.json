@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:170001}"
+        },
+        "title": {
+            "translate": "Color Wand"
+        },
+        "description": "1 wool (dropped at center) + 4 Color Essence (item frames)"
+    },
+    "parent": "lthc.mage:age0_road/wands"
+}

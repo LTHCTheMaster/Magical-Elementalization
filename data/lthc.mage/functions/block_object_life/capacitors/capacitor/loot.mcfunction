@@ -1,3 +1,4 @@
+# Check the content of the capacitor to loot correctly the essences
 execute if score @s lthc.mage.data matches 1 run function lthc.mage:block_object_life/capacitors/capacitor/loot/aero
 execute if score @s lthc.mage.data matches 2 run function lthc.mage:block_object_life/capacitors/capacitor/loot/celestial
 execute if score @s lthc.mage.data matches 3 run function lthc.mage:block_object_life/capacitors/capacitor/loot/color

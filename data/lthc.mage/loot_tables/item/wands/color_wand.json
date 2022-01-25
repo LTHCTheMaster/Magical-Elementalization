@@ -24,6 +24,12 @@
                           "tag": "{display: {Name:'{\"translate\": \"Color Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
+                            "function": "set_lore",
+                            "lore": [
+                                "&7&oRight-click and also have color essence in offhand to change the color of some distant sheeps."
+                            ]
+                        },
+                        {
                           "function": "minecraft:set_count",
                           "count": 1
                         }
