@@ -1,3 +1,6 @@
+# Lock the raycast
+scoreboard players set #lthc.mage.rc lthc.mage.data 200000
+
 # AERO
 execute if predicate lthc.mage:essences/aero run title @p[scores={lthc.mage.wand_click_detect=1..},tag=!global.ignore,tag=!global.ignore.gui] actionbar {"text": "\ue000", "italic": false, "font": "lthc.mage:essences_display"}
 

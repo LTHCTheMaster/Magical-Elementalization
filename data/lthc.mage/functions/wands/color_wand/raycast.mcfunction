@@ -1,3 +1,7 @@
-execute if entity @p[scores={lthc.mage.wand_click_detect=1..},distance=..5.5] positioned ^ ^ ^0.1 run function lthc.mage:wands/color_wand/raycast
+# Increment the score
+scoreboard players add #lthc.mage.rc lthc.mage.data 1
 
-execute unless entity @p[scores={lthc.mage.wand_click_detect=1..},distance=..5.5] positioned ^ ^ ^0.1 run function lthc.mage:wands/color_wand/detect_sheep
+# Raycast
+execute if score #lthc.mage.rc lthc.mage.data matches ..55 positioned ^ ^ ^0.1 run function lthc.mage:wands/color_wand/raycast
+
+execute unless score #lthc.mage.rc lthc.mage.data matches ..55 positioned ^ ^ ^0.1 run function lthc.mage:wands/color_wand/detect_sheep
