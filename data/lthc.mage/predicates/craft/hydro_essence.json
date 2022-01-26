@@ -2,6 +2,6 @@
     "condition": "entity_properties",
     "entity": "this",
     "predicate": {
-        "nbt": "{Item:{tag:{ctc: {traits: {\"magic/essences\":1b, item:1b, color:1b}, id: \"hydro_essence\", from: \"lthc.mage\"}}}}"
+        "nbt": "{Item:{tag:{ctc: {traits: {\"magic/essences\":1b, item:1b, hydro:1b}, id: \"hydro_essence\", from: \"lthc.mage\"}}}}"
     }
 }
