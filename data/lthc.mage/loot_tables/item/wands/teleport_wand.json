@@ -24,6 +24,12 @@
                           "tag": "{display: {Name:'{\"translate\": \"Teleport Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
+                            "function": "set_lore",
+                            "lore": [
+                                "click and also have hydro essence in offhand to teleport yourself further."
+                            ]
+                        },
+                        {
                           "function": "minecraft:set_count",
                           "count": 1
                         }

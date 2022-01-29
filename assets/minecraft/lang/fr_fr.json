@@ -6,6 +6,7 @@
     "Crafts/Recipes": "Crafts/Recettes",
     "First Wands": "Premières Baguettes",
     "1 wool (dropped at center) + 4 Color Essence (item frames)": "1 laine (droppé au centre) + 4 Essences Couleur (item frames)",
+    "1 ender pearl (dropped at center) + 4 Hydro Essence (item frames)": "1 ender pearl (droppé au centre) + 4 Essences Hydro (item frames)",
     "Magic : Age 0": "Magie : Âge 0",
 
     "__comments": "items",
@@ -31,6 +32,7 @@
     "Color Wand": "Baguette Couleur",
     "Teleport Wand": "Baguette Téléportation",
     "click and also have color essence in offhand to change the color of some distant sheeps.": "cliquez et ayez aussi une Essence Couleur dans la seconde main pour changer la couleur de moutons distants.",
+    "click and also have hydro essence in offhand to teleport yourself further.": "cliquez et ayez aussi une Essence Hydro dans la seconde main pour vous téléporter plus loin.",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique"
