@@ -13,15 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{CustomModelData: 170008}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{display: {Name:'{\"translate\": \"Thermo Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                          "function": "minecraft:set_count",
-                          "count": 1
+                          "tag": "{CustomModelData: 170008,display: {Name:'{\"translate\": \"Thermo Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         }
                     ]
                 }

@@ -12,20 +12,12 @@
                             "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"mage_wand\", from: \"lthc.mage\"}}"
                         },
                         {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{CustomModelData: 170000}"
-                        },
-                        {
                             "function": "minecraft:set_nbt",
                             "tag": "{Unbreakable: 1b}"
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{display: {Name:'{\"translate\": \"Mage Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                          "function": "minecraft:set_count",
-                          "count": 1
+                          "tag": "{CustomModelData: 170000,Unbreakable: 1b,display: {Name:'{\"translate\": \"Mage Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         }
                     ]
                 }

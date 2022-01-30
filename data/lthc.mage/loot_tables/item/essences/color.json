@@ -13,15 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{CustomModelData: 170002}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{display: {Name:'{\"translate\": \"Color Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                          "function": "minecraft:set_count",
-                          "count": 1
+                          "tag": "{CustomModelData: 170002,display: {Name:'{\"translate\": \"Color Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         }
                     ]
                 }

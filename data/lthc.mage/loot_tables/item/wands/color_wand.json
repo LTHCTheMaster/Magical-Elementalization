@@ -13,25 +13,13 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{CustomModelData: 170001}"
-                        },
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag": "{Unbreakable: 1b}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{display: {Name:'{\"translate\": \"Color Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{CustomModelData: 170001,Unbreakable: 1b,display: {Name:'{\"translate\": \"Color Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",
                             "lore": [
                                 "click and also have color essence in offhand to change the color of some distant sheeps."
                             ]
-                        },
-                        {
-                          "function": "minecraft:set_count",
-                          "count": 1
                         }
                     ]
                 }
