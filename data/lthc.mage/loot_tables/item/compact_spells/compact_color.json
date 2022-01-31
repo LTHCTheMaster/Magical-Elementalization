@@ -1,0 +1,23 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag" : "{ctc: {traits: {\"magic/spells\":1b, \"magic/functional/item\":1b, item:1b}, id: \"compact_color_spells\", from: \"lthc.mage\"}}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{CustomModelData: 170003,Unbreakable: 1b,display: {Name:'{\"translate\": \"Compact Color Spells\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
