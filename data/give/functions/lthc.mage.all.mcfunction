@@ -21,5 +21,7 @@ loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/warped
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/mage_wand
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/color_wand
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/teleport_wand
+# SPELLS
+loot spawn ~ ~ ~ loot lthc.mage:item/compact_spells/compact_color
 # CAPACITORS
 loot spawn ~ ~ ~ loot lthc.mage:item/capacitors/capacitor

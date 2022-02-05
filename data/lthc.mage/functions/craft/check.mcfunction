@@ -21,6 +21,8 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:gray_wool",Count:1b}},predicate
 execute as @e[type=item,nbt={Item:{id:"minecraft:purple_wool",Count:1b}},predicate=lthc.mage:casc/casc] at @s run function lthc.mage:craft/check/color_wand_check/purple
 # Teleport Wand craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:ender_pearl",Count:1b}},predicate=lthc.mage:casc/casc] at @s run function lthc.mage:craft/check/teleport_wand_check
+# Compact Color Spell craft checking
+execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.color at @s run function lthc.mage:craft/check/compact_color_spell_check
 
 # Auto schedule
 schedule function lthc.mage:craft/check 15t replace
