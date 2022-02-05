@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:glow_item_frame",
+            "nbt": "{CustomModelData:170009}"
+        },
+        "title": {
+            "translate": "Capacitor"
+        },
+        "description": "1 redstone block (dropped at center) + 4 essences (item frames)"
+    },
+    "parent": "lthc.mage:age0_road/capacitors"
+}
