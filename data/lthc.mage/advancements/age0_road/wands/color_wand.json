@@ -12,7 +12,9 @@
         "title": {
             "translate": "Color Wand"
         },
-        "description": "1 wool (dropped at center) + 4 Color Essence (item frames)"
+        "description": "1 wool (dropped at center) + 4 Color Essence (item frames)",
+        "show_toast": false,
+        "announce_to_chat": false
     },
     "parent": "lthc.mage:age0_road/wands"
 }
