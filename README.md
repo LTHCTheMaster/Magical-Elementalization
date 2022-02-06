@@ -1,8 +1,8 @@
-# Mage of LTHC
+# Magical Elementalization
 
 ## What is this?
 
-***Mage of LTHC*** is a magic datapack for <u>Minecraft</u> which use a resources pack to have the best experience.
+***Magical Elementalization*** is a magic datapack for <u>Minecraft</u> which use a resources pack to have the best experience.
 
 This datapack add content based on magic essences (based on biomes).
 
