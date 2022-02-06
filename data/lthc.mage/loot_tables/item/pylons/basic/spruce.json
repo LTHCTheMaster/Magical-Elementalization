@@ -13,7 +13,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData: 170006,display: {Name:'{\"translate\": \"Spruce Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170006,display: {Name:'{\"translate\": \"Spruce Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
               },
               {
                 "function": "minecraft:set_nbt",

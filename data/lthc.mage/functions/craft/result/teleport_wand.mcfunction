@@ -10,4 +10,3 @@ execute positioned ~2 ~ ~-2 if entity @e[type=#lthc.mage:allowed_frame,distance=
 kill @s
 # Give the result of the craft by looting this result
 loot spawn ~ ~1 ~ loot lthc.mage:item/wands/teleport_wand
-

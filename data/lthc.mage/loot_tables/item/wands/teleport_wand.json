@@ -13,7 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{CustomModelData: 170002,Unbreakable: 1b,display: {Name:'{\"translate\": \"Teleport Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170002,Unbreakable: 1b,display: {Name:'{\"translate\": \"Teleport Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",

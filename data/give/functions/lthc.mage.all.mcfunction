@@ -8,6 +8,16 @@ loot spawn ~ ~ ~ loot lthc.mage:item/essences/gas
 loot spawn ~ ~ ~ loot lthc.mage:item/essences/hydro
 loot spawn ~ ~ ~ loot lthc.mage:item/essences/phyto
 loot spawn ~ ~ ~ loot lthc.mage:item/essences/thermo
+# COMPACT ESSENCES
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_aero
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_celestial
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_color
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_end
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_fungus
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_gas
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_hydro
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_phyto
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_thermo
 # PYLONS
 loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/acacia
 loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/birch

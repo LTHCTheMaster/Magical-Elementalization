@@ -13,7 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{CustomModelData: 170002,display: {Name:'{\"translate\": \"Color Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170002,display: {Name:'{\"translate\": \"Color Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         }
                     ]
                 }

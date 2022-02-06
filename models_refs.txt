@@ -16,6 +16,16 @@ command_block:
     170006 : hydro essence
     170007 : phyto essence
     170008 : thermo essence
+    -------------------------------------------------------------------------------
+    170010 : compact aero essence
+    170011 : compact celestial essence
+    170012 : compact color essence
+    170013 : compact end essence
+    170014 : compact fungus essence
+    170015 : compact gas essence
+    170016 : compact hydro essence
+    170017 : compact phyto essence
+    170018 : compact thermo essence
 
 glow_item_frame:
     170000 : acacia pylon
