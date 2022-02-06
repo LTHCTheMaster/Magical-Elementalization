@@ -12,7 +12,7 @@
         {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:essences/phyto"},
         {"predicate": {"custom_model_data":170008}, "model": "lthc.mage:essences/thermo"},
         {"predicate": {"custom_model_data":170010}, "model": "lthc.mage:essences/compact_aero"},
-        {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:essences/compact_clestial"},
+        {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:essences/compact_celestial"},
         {"predicate": {"custom_model_data":170012}, "model": "lthc.mage:essences/compact_color"},
         {"predicate": {"custom_model_data":170013}, "model": "lthc.mage:essences/compact_end"},
         {"predicate": {"custom_model_data":170014}, "model": "lthc.mage:essences/compact_fungus"},
