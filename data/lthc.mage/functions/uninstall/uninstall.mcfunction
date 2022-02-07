@@ -23,7 +23,7 @@ schedule clear lthc.mage:craft/check
 schedule clear lthc.mage:craft/check2
 
 # Try disable the pack if the name didn't changed
-datapack disable "file/lthc-mage-v1.0b.zip"
-datapack disable "file/lthc-mage-v1.0b"
+datapack disable "file/lthc-mage-v1.0b2.zip"
+datapack disable "file/lthc-mage-v1.0b2"
 datapack disable "file/lthc-mage.zip"
 datapack disable "file/lthc-mage"

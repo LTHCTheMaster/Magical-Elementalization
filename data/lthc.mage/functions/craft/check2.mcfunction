@@ -22,4 +22,4 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predi
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_phyto at @s run function lthc.mage:craft/check/forest_clearer
 
 # Auto schedule
-schedule function lthc.mage:craft/check2 15t replace
+schedule function lthc.mage:craft/check2 25t replace

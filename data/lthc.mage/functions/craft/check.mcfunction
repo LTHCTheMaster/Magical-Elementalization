@@ -25,4 +25,4 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:ender_pearl",Count:1b}},predica
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.color at @s run function lthc.mage:craft/check/compact_color_spell_check
 
 # Auto schedule
-schedule function lthc.mage:craft/check 15t replace
+schedule function lthc.mage:craft/check 25t replace
