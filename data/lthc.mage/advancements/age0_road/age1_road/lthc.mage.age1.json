@@ -1,23 +1,23 @@
 {
     "display": {
         "title": {
-            "translate": "Magic",
+            "translate": "Magic (2)",
             "color": "#DDEEFF"
         },
         "description": {
-            "translate": "The most simple base is waiting Magical Trader",
+            "translate": "",
             "color": "#DDEEFF"
         },
         "icon": {
-            "item": "emerald"
+            "item": "emerald_block"
         },
-        "background": "minecraft:textures/block/blue_concrete.png",
         "announce_to_chat": false,
-        "show_toast": true
+        "show_toast": false
     },
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"
         }
-    }
+    },
+    "parent": "lthc.mage:age0_road/lthc.mage.age0"
 }

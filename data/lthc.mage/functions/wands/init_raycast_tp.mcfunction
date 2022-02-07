@@ -4,3 +4,5 @@ clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, hydro:1b}, i
 scoreboard players set #lthc.mage.rc lthc.mage.data -1
 # Run the function
 function lthc.mage:wands/raycast_tp
+# Give the advancement
+advancement grant @s only lthc.mage:age0_road/use_magic/color_wand
