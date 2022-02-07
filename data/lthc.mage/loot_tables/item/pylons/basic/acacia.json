@@ -5,7 +5,7 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "name": "minecraft:glow_item_frame",
+            "name": "minecraft:barrel",
             "functions": [
               {
                 "function": "minecraft:set_nbt",
@@ -13,11 +13,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170000,display: {Name:'{\"translate\": \"Acacia Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-              },
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{EntityTag: {ItemRotation:0b, Tags:[\"lthc.mage.pylon.acacia\",\"global.ignore\",\"lthc.mage.destroyable\",\"lthc.mage.pylon\"],Invisible:1b,Invulnerable:1b,Fixed:1b,Silent:1b,Facing:1b,Item:{id:\"glow_item_frame\",Count:1b,tag:{CustomModelData:170000}}}}"
+                "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170000,display: {Name:'{\"translate\": \"Acacia Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
               }
             ]
           }

@@ -1,0 +1,15 @@
+{
+    "parent": "block/barrel",
+  
+    "overrides": [
+          {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:pylons/basic/acacia"},
+          {"predicate": {"custom_model_data":170001}, "model": "lthc.mage:pylons/basic/birch"},
+          {"predicate": {"custom_model_data":170002}, "model": "lthc.mage:pylons/basic/crimson"},
+          {"predicate": {"custom_model_data":170003}, "model": "lthc.mage:pylons/basic/dark_oak"},
+          {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:pylons/basic/jungle"},
+          {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:pylons/basic/oak"},
+          {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/spruce"},
+          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped"},
+          {"predicate": {"custom_model_data":170009}, "model": "lthc.mage:capacitors/capacitor"}
+    ]
+}

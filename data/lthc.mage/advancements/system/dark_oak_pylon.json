@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:barrel",
+				"item": {
+					"nbt": "{ctc:{id: \"dark_oak_collector_pylon\", from: \"lthc.mage\"}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.mage:block_object_life/place/dark_oak_pylon/1"
+	}
+}

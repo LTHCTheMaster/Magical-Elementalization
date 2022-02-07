@@ -2,8 +2,13 @@
 	"essences": {
 		"subtitle":"Essences Generation",
 		"sounds": [
-            "lthc.mage:essences",
-            "lthc.mage:essences2"
+			"lthc.mage:essences"
+        ]
+	},
+	"essences2": {
+		"subtitle":"Essences Generation",
+		"sounds": [
+			"lthc.mage:essences2"
         ]
 	}
 }
