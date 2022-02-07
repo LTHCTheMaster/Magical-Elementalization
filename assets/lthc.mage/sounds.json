@@ -1,0 +1,9 @@
+{
+	"essences": {
+		"subtitle":"Essences Generation",
+		"sounds": [
+            "lthc.mage:essences",
+            "lthc.mage:essences2"
+        ]
+	}
+}
