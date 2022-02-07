@@ -18,10 +18,10 @@
                         {
                             "function": "set_lore",
                             "lore": [
-                                "\n",
+                                " ",
                                 {"translate":"click and also have color essence in offhand to change the color of some distant sheeps."},
-                                "\n",
-                                {"text": "\u0020\u0020\ue002", "font": "lthc.mage:essences_display"}
+                                " ",
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue002", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
                             ]
                         }
                     ]

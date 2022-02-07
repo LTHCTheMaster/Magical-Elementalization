@@ -18,10 +18,10 @@
                         {
                             "function": "set_lore",
                             "lore": [
-                                "\n",
+                                " ",
                                 {"translate":"click and also have hydro essence in offhand to teleport yourself further."},
-                                "\n",
-                                {"text": "\u0020\u0020\ue006", "font": "lthc.mage:essences_display"}
+                                " ",
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue006", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
                             ]
                         }
                     ]
