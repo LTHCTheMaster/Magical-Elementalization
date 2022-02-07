@@ -12,6 +12,9 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 # Compact Color Spells
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/compact_color] at @s run function lthc.mage:spells/compact_color
 
+# Forest Clearer
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/forest_clearer,predicate=lthc.mage:selected/phyto_essences] at @s anchored eyes run function lthc.mage:wands/forest_clearer
+
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 

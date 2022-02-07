@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:emerald_block"
+            "item": "minecraft:red_concrete"
         },
         "title": {
-            "translate": "First Compact Spells"
+            "translate": "Compact Essences"
         },
         "description": "",
         "show_toast": false,

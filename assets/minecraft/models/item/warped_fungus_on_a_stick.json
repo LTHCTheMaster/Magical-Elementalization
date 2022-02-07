@@ -7,6 +7,7 @@
 		{"predicate":{"custom_model_data":170000},"model":"lthc.mage:wands/mage_wand"},
 		{"predicate":{"custom_model_data":170001},"model":"lthc.mage:wands/color_wand"},
         {"predicate":{"custom_model_data":170002},"model":"lthc.mage:wands/teleport_wand"},
-        {"predicate":{"custom_model_data":170003},"model":"lthc.mage:compact_spells/compact_color"}
+        {"predicate":{"custom_model_data":170003},"model":"lthc.mage:compact_spells/compact_color"},
+        {"predicate":{"custom_model_data":170020},"model":"lthc.mage:compact_spells/forest_clearer"}
 	]
 }

@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:emerald_block"
+            "item": "minecraft:black_concrete"
         },
         "title": {
-            "translate": "First Compact Spells"
+            "translate": "Compacted"
         },
         "description": "",
         "show_toast": false,
@@ -16,5 +16,5 @@
             "trigger": "tick"
         }
     },
-    "parent": "lthc.mage:age0_road/compact"
+    "parent": "lthc.mage:age0_road/crafting"
 }

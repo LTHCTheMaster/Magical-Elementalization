@@ -1,0 +1,20 @@
+{
+    "values": [
+        "#acacia_logs",
+        "#birch_logs",
+        "#crimson_stems",
+        "#dark_oak_logs",
+        "#jungle_logs",
+        "#oak_logs",
+        "#spruce_logs",
+        "#warped_stems",
+        "acacia_leaves",
+        "birch_leaves",
+        "nether_wart_block",
+        "dark_oak_leaves",
+        "jungle_leaves",
+        "oak_leaves",
+        "spruce_leaves",
+        "warped_wart_block"
+    ]
+}

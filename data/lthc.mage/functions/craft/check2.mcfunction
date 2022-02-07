@@ -18,6 +18,8 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predi
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.phyto at @s run function lthc.mage:craft/check/compact_phyto_essence
 # Compact Thermo Essence craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.thermo at @s run function lthc.mage:craft/check/compact_thermo_essence
+# Forest Clearer craft checking
+execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_phyto at @s run function lthc.mage:craft/check/forest_clearer
 
 # Auto schedule
 schedule function lthc.mage:craft/check2 15t replace

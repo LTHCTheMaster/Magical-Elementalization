@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:170012}"
+        },
+        "title": {
+            "translate": "Compact Color Essence"
+        },
+        "description": "1 Color Essence (dropped at center) + 4 Color Essence (item frames)",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "lthc.mage:age0_road/compact_essences"
+}
