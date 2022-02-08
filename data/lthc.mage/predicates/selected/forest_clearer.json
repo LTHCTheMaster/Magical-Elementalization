@@ -1,33 +1,14 @@
 {
-    "condition": "alternative",
-    "terms": [
-        {
-            "condition": "entity_properties",
-            "entity": "this",
-            "predicate": {
-                "equipment": {
-                    "mainhand": {
-                        "items": [
-                            "warped_fungus_on_a_stick"
-                        ],
-                        "nbt": "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"forest_clearer\", from: \"lthc.mage\"}}"
-                    }
-                }
-            }
-        },
-        {
-            "condition": "entity_properties",
-            "entity": "this",
-            "predicate": {
-                "equipment": {
-                    "offhand": {
-                        "items": [
-                            "warped_fungus_on_a_stick"
-                        ],
-                        "nbt": "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"forest_clearer\", from: \"lthc.mage\"}}"
-                    }
-                }
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "warped_fungus_on_a_stick"
+                ],
+                "nbt": "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"forest_clearer\", from: \"lthc.mage\"}}"
             }
         }
-    ]
+    }
 }

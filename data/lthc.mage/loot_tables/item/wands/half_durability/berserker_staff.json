@@ -9,19 +9,19 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"color_wand\", from: \"lthc.mage\"}}"
+                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"berserker_staff\", from: \"lthc.mage\"}}"
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.all_durability:1b,CustomModelData: 170001,display: {Name:'{\"translate\": \"Color Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.half_durability:1b,CustomModelData: 170021,display: {Name:'{\"translate\": \"Berserker Staff\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",
                             "lore": [
                                 " ",
-                                {"translate":"click and also have color essence in offhand to change the color of some distant sheeps."},
+                                {"translate":"click and also have thermo essence in offhand to use your internal power"},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue002", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue008", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
                             ]
                         }
                     ]

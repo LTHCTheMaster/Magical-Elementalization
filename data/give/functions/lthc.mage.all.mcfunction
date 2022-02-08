@@ -32,6 +32,7 @@ loot spawn ~ ~ ~ loot lthc.mage:item/wands/mage_wand
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/color_wand
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/teleport_wand
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/forest_clearer
+loot spawn ~ ~ ~ loot lthc.mage:item/wands/berserker_staff
 # SPELLS
 loot spawn ~ ~ ~ loot lthc.mage:item/compact_spells/compact_color
 # CAPACITORS
