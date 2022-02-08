@@ -76,5 +76,14 @@
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",
-    "Mangrove Guardian": "Gardien de la Mangrove"
+    "Mangrove Guardian": "Gardien de la Mangrove",
+
+    "__comments": "subtitles",
+    "subtitles.essences": "Génération d'Essences",
+    "subtitles.essences2": "Génération d'Essences",
+    "subtitles.boss_sound": "Boss de Magical Elementalization",
+    "subtitles.mangrove_axe": "Pouvoir de la Hache de la Mangrove",
+    "subtitles.tp_wand": "Téléportation avec une baguette",
+    "subtitles.color_wand": "Utilisation d'une Baguette Couleur",
+    "subtitles.forest_clearer": "Efface la forêt"
 }

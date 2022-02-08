@@ -22,5 +22,23 @@
 		"sounds": [
 			"lthc.mage:mangrove_axe"
 		]
+	},
+	"tp_wand": {
+		"subtitle":"Teleporting with wand",
+		"sounds": [
+			"lthc.mage:tp_wand"
+		]
+	},
+	"color_wand": {
+		"subtitle":"Color Wand used",
+		"sounds": [
+			"lthc.mage:color_wand"
+		]
+	},
+	"forest_clearer": {
+		"subtitle":"Clearing the forest",
+		"sounds": [
+			"lthc.mage:forest_clearer"
+		]
 	}
 }

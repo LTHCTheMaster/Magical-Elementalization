@@ -24,4 +24,4 @@ execute as @a[scores={lthc.mage.capacitor_interact_detect=1..}] at @s anchored e
 execute as @a[scores={lthc.mage.capacitor_interact_detect=1..}] run scoreboard players set @s lthc.mage.capacitor_interact_detect 0
 
 # Auto schedule
-schedule function lthc.mage:loops/4ticks 8t replace
+schedule function lthc.mage:loops/8ticks 8t replace
