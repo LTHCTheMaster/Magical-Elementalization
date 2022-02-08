@@ -29,7 +29,22 @@ command_block:
     170017 : compact phyto essence
     170018 : compact thermo essence
 
+iron_axe:
+    170000 : mangrove axe
+
 glow_item_frame:
+    170000 : acacia pylon
+    170001 : birch pylon
+    170002 : crimson pylon
+    170003 : dark oak pylon
+    170004 : jungle pylon
+    170005 : oak pylon
+    170006 : spruce pylon
+    170007 : warped pylon
+    -------------------------------------------------------------------------------
+    170009 : capacitor
+
+barrel:
     170000 : acacia pylon
     170001 : birch pylon
     170002 : crimson pylon

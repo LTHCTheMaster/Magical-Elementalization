@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "lthc.mage:boss_item/mangrove_axe"
+    }
+  }
