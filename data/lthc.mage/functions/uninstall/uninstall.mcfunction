@@ -17,10 +17,12 @@ kill @e[type=glow_item_frame,tag=lthc.mage.destroyable]
 
 # Clear schedule
 schedule clear lthc.mage:loops/300ticks
-schedule clear lthc.mage:loops/4ticks
+schedule clear lthc.mage:loops/8ticks
+schedule clear lthc.mage:loops/2ticks
 schedule clear lthc.mage:loops/tick
 schedule clear lthc.mage:craft/check
 schedule clear lthc.mage:craft/check2
+schedule clear lthc.mage:entities/boss/manage_summon_boss
 
 # Try disable the pack if the name didn't changed
 datapack disable "file/magical_elementalization_v1.0b2.zip"

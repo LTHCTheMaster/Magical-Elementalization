@@ -10,5 +10,11 @@
 		"sounds": [
 			"lthc.mage:essences2"
         ]
+	},
+	"boss_sound": {
+		"subtitle":"Magical Elementalization's Boss",
+		"sounds": [
+			"lthc.mage:boss_sound"
+		]
 	}
 }
