@@ -16,5 +16,11 @@
 		"sounds": [
 			"lthc.mage:boss_sound"
 		]
+	},
+	"mangrove_axe": {
+		"subtitle":"Mangrove Axe Power",
+		"sounds": [
+			"lthc.mage:mangrove_axe"
+		]
 	}
 }

@@ -54,3 +54,5 @@ execute at @s positioned ~-4 ~ ~3 run function lthc.mage:entities/boss/mangrove_
 execute at @s positioned ~3 ~ ~4 run function lthc.mage:entities/boss/mangrove_guardian_effects/trees/tree1
 
 advancement revoke @s only lthc.mage:system/mangrove_axe_power
+
+execute at @s run playsound lthc.mage:mangrove_axe master @a[distance=..9] ~ ~ ~ 0.98 1.0 0.53
