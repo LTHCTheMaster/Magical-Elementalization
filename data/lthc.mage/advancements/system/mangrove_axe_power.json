@@ -1,0 +1,31 @@
+{
+    "criteria": {
+        "using": {
+            "trigger": "item_used_on_block",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:iron_axe"
+                    ],
+                    "nbt": "{lthc.mage.m_axe:1b}"
+                },
+                "player": [
+                    {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "player": {
+                                "advancements": {
+                                    "lthc.mage:age0_road/age1_road/boss/mangrove_guardian": true
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "lthc.mage:boss_objects/mangrove_axe"
+    }
+}

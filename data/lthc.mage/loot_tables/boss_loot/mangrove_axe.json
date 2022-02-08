@@ -9,7 +9,7 @@
                     "functions": [
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{Unbreakable:1b,lthc.mage.to_kill:1b,display:{Name:'{\"translate\":\"Mangrove Axe\",\"color\":\"#527C3D\",\"bold\":true,\"underlined\":true}'},Enchantments:[{id:\"minecraft:sharpness\",lvl:3s},{id:\"minecraft:smite\",lvl:1s},{id:\"minecraft:bane_of_arthropods\",lvl:1s},{id:\"minecraft:efficiency\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}]}"
+                          "tag": "{Unbreakable:1b,lthc.mage.to_kill:1b,lthc.mage.m_axe:1b,display:{Name:'{\"translate\":\"Mangrove Axe\",\"color\":\"#527C3D\",\"bold\":true,\"underlined\":true}'},Enchantments:[{id:\"minecraft:sharpness\",lvl:3s},{id:\"minecraft:smite\",lvl:1s},{id:\"minecraft:bane_of_arthropods\",lvl:1s},{id:\"minecraft:efficiency\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}]}"
                         }
                     ]
                 }
