@@ -4,7 +4,7 @@ scoreboard players set #lthc.mage.rc lthc.mage.data -1
 # Run the raycast
 function lthc.mage:wands/forest_clearer/raycast
 # Give the advancement
-advancement grant @s only lthc.mage:age0_road/use_magic/color_wand
+advancement grant @s only lthc.mage:age0_road/age1_road/use_magic/forest_clearer
 # Play the sound
 playsound lthc.mage:forest_clearer master @a[distance=..6] ~ ~ ~ 0.97 1.0 0.2
 

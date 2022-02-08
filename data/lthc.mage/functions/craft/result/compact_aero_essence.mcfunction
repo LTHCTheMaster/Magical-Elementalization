@@ -10,3 +10,6 @@ execute positioned ~2 ~ ~-2 if entity @e[type=#lthc.mage:allowed_frame,distance=
 kill @s
 # Give the result of the craft by looting this result
 loot spawn ~ ~1 ~ loot lthc.mage:item/essences/compact_aero
+
+# Play the sound of the craft
+playsound lthc.mage:craft master @a[distance=..7] ~ ~ ~ 1.0 1.0 0.5

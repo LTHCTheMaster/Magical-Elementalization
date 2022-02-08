@@ -40,5 +40,17 @@
 		"sounds": [
 			"lthc.mage:forest_clearer"
 		]
+	},
+	"craft": {
+		"subtitle": "Magic Craft",
+		"sounds": [
+			"lthc.mage:craft"
+		]
+	},
+	"berserker_staff": {
+		"subtitle": "Berserker Staff",
+		"sounds": [
+			"lthc.mage:berserker_staff"
+		]
 	}
 }
