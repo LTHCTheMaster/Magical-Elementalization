@@ -4,5 +4,5 @@ execute unless score #lthc.mage.snd lthc.mage.data matches 2 run scoreboard play
 
 particle enchant ~ ~1.1 ~ 0 0 0 1.5 8
 
-execute if score #lthc.mage.snd lthc.mage.data matches 1 at @s run playsound lthc.mage:essences master @a[distance=..7] ~ ~1 ~ 0.75 1.0 0.75
-execute if score #lthc.mage.snd lthc.mage.data matches 2 at @s run playsound lthc.mage:essences2 master @a[distance=..7] ~ ~1 ~ 0.75 1.0 0.75
+execute if score #lthc.mage.snd lthc.mage.data matches 1 at @s run playsound lthc.mage:essences master @a[distance=..7] ~ ~1 ~ 0.75 1.0 0.45
+execute if score #lthc.mage.snd lthc.mage.data matches 2 at @s run playsound lthc.mage:essences2 master @a[distance=..7] ~ ~1 ~ 0.75 1.0 0.45

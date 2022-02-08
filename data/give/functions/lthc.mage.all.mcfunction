@@ -36,3 +36,5 @@ loot spawn ~ ~ ~ loot lthc.mage:item/wands/forest_clearer
 loot spawn ~ ~ ~ loot lthc.mage:item/compact_spells/compact_color
 # CAPACITORS
 loot spawn ~ ~ ~ loot lthc.mage:item/capacitors/capacitor
+# BOSSES LOOT
+loot spawn ~ ~ ~ loot lthc.mage:boss_loot/mangrove_axe

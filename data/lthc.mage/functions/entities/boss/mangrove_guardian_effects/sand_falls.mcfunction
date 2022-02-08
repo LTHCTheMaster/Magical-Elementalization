@@ -1,0 +1,16 @@
+execute positioned ~-3 ~3 ~-1 run setblock ~ ~ ~ sand replace
+execute positioned ~-4 ~3 ~-1 run setblock ~ ~ ~ sand replace
+execute positioned ~-4 ~3 ~-2 run setblock ~ ~ ~ red_sand replace
+execute positioned ~-4 ~3 ~-3 run setblock ~ ~ ~ sand replace
+execute positioned ~-1 ~3 ~-3 run setblock ~ ~ ~ sand replace
+execute positioned ~-5 ~3 ~-3 run setblock ~ ~ ~ red_sand replace
+execute positioned ~-3 ~3 ~-3 run setblock ~ ~ ~ sand replace
+execute positioned ~1 ~3 ~-1 run setblock ~ ~ ~ sand replace
+execute positioned ~5 ~3 ~-1 run setblock ~ ~ ~ red_sand replace
+execute positioned ~2 ~3 ~-1 run setblock ~ ~ ~ sand replace
+execute positioned ~-3 ~3 ~6 run setblock ~ ~ ~ sand replace
+execute positioned ~-3 ~3 ~4 run setblock ~ ~ ~ red_sand replace
+execute positioned ~2 ~3 ~2 run setblock ~ ~ ~ sand replace
+execute positioned ~ ~3 ~2 run setblock ~ ~ ~ sand replace
+execute positioned ~3 ~3 ~4 run setblock ~ ~ ~ red_sand replace
+execute positioned ~7 ~3 ~ run setblock ~ ~ ~ sand replace
