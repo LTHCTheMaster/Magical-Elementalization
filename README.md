@@ -19,3 +19,7 @@ This datapack is inspired of the Thaumcraft mod (by Azanor (<a href="https://www
 ## Credits
 
 Thanks to DataWorld discord (<a href="https://discord.me/dataworld">link</a>). Also thanks to Azanor and Hashs for their works which inspired me
+
+## Wiki
+
+<a href="https://magical-elementalization.fandom.com/wiki/Magical_Elementalization_Wiki">Wiki here!</a>
