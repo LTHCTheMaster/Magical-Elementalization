@@ -13,7 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.all_durability:1b,CustomModelData: 170021,display: {Name:'{\"translate\": \"Wall Staff\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.all_durability:1b,CustomModelData: 170023,display: {Name:'{\"translate\": \"Wall Staff\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",

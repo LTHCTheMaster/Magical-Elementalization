@@ -10,6 +10,7 @@ warped_fungus_on_a_stick:
     170021 : berserker staff
     170022 : wind force
     170023 : wall staff
+    170024 : oxyheal staff
 
 command_block:
     170000 : aero essence

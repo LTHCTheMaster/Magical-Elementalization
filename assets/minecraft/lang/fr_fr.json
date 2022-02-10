@@ -41,6 +41,8 @@
     "1 Compact Aero Essence (dropped at center) + 4 piston (item frames)": "1 Essence Aero Compacte (droppé au centre) + 4 piston (item frames)",
     "Use Wall Staff": "Utiliser le Sceptre du Mur",
     "1 Compact Celestial Essence (dropped at center) + 4 stone bricks (item frames)": "1 Essence Celeste Compacte (droppé au centre) + 4 stone bricks (item frames)",
+    "Use OxyHeal Staff": "Utiliser le Sceptre OxySoin",
+    "1 Compact Gas Essence (dropped at center) + 4 gold ingot (item frames)": "1 Essence Gaz Compacte (droppé au centre) + 4 lingot d'or (item frames)",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -85,6 +87,8 @@
     "click and also have aero essence in offhand to use the wind's power.": "cliquez et ayez aussi une Essence Aero dans la seconde main pour utiliser la puissance du vent.",
     "Wall Staff": "Sceptre du Mur",
     "click and also have celestial essence in offhand to become a wall": "cliquez et ayez aussi une Essence Celeste dans la seconde main pour devenir un mur",
+    "OxyHeal Staff": "Sceptre OxySoin",
+    "click and also have gas essence in offhand to heal yourself": "cliquez et ayez aussi une Essence Gaz dans la seconde main pour vous soigner",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",

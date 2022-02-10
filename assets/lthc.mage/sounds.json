@@ -64,5 +64,11 @@
 		"sounds": [
 			"lthc.mage:wall_staff"
 		]
+	},
+	"oxyheal_staff": {
+		"subtitle": "Someone is healing himself with oxygen",
+		"sounds": [
+			"lthc.mage:oxyheal_staff"
+		]
 	}
 }

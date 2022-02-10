@@ -10,6 +10,8 @@
         {"predicate":{"custom_model_data":170003},"model":"lthc.mage:compact_spells/compact_color"},
         {"predicate":{"custom_model_data":170020},"model":"lthc.mage:wands/forest_clearer"},
         {"predicate":{"custom_model_data":170021},"model":"lthc.mage:wands/berserker_staff"},
-        {"predicate":{"custom_model_data":170022},"model":"lthc.mage:wands/wind_force"}
+        {"predicate":{"custom_model_data":170022},"model":"lthc.mage:wands/wind_force"},
+        {"predicate":{"custom_model_data":170023},"model":"lthc.mage:wands/wall_staff"},
+        {"predicate":{"custom_model_data":170024},"model":"lthc.mage:wands/oxyheal_staff"}
 	]
 }
