@@ -1,4 +1,4 @@
-## Craft checking
+## Craft checking (12 craft)
 
 # Compact Aero Essence craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.aero at @s run function lthc.mage:craft/check/compact_aero_essence
@@ -22,6 +22,8 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predi
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_phyto at @s run function lthc.mage:craft/check/forest_clearer
 # Berserker Staff craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_thermo at @s run function lthc.mage:craft/check/berserker_staff
+# Wind Force craft checking
+execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_aero at @s run function lthc.mage:craft/check/wind_force
 
 # Auto schedule
 schedule function lthc.mage:craft/check2 25t replace

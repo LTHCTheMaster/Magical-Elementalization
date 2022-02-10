@@ -18,6 +18,9 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 # Berserker Staff
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/berserker_staff,predicate=lthc.mage:selected/thermo_essences] run function lthc.mage:staff/berserker_staff
 
+# Wind Force
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/wind_force,predicate=lthc.mage:selected/aero_essences] at @s run function lthc.mage:wands/wind_force
+
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 

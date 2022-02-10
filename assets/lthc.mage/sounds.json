@@ -52,5 +52,11 @@
 		"sounds": [
 			"lthc.mage:berserker_staff"
 		]
+	},
+	"wind_force": {
+		"subtitle": "Wind Force",
+		"sounds": [
+			"lthc.mage:wind_force"
+		]
 	}
 }
