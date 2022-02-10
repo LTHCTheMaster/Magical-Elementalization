@@ -9,19 +9,19 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"wind_force\", from: \"lthc.mage\"}}"
+                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"wall_staff\", from: \"lthc.mage\"}}"
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.all_durability:1b,CustomModelData: 170022,display: {Name:'{\"translate\": \"Wind Force\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.last_durability:1b,CustomModelData: 170021,display: {Name:'{\"translate\": \"Wall Staff\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",
                             "lore": [
                                 " ",
-                                {"translate":"click and also have aero essence in offhand to use the wind's power."},
+                                {"translate":"click and also have celestial essence in offhand to become a wall"},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue000", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue001", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
                             ]
                         }
                     ]

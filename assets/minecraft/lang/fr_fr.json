@@ -39,6 +39,8 @@
     "1 Compact Thermo Essence (dropped at center) + 4 quartz (item frames)": "1 Essence Thermo Compacte (droppé au centre) + 4 quartz (item frames)",
     "Use Wind Force": "Utiliser la Force du Vent",
     "1 Compact Aero Essence (dropped at center) + 4 piston (item frames)": "1 Essence Aero Compacte (droppé au centre) + 4 piston (item frames)",
+    "Use Wall Staff": "Utiliser le Sceptre du Mur",
+    "1 Compact Celestial Essence (dropped at center) + 4 stone bricks (item frames)": "1 Essence Celeste Compacte (droppé au centre) + 4 stone bricks (item frames)",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -81,6 +83,8 @@
     "click and also have thermo essence in offhand to use your internal power": "cliquez et ayez aussi une Essence Thermo dans la seconde main pour utiliser votre puissance interne",
     "Wind Force": "Force du Vent",
     "click and also have aero essence in offhand to use the wind's power.": "cliquez et ayez aussi une Essence Aero dans la seconde main pour utiliser la puissance du vent.",
+    "Wall Staff": "Sceptre du Mur",
+    "click and also have celestial essence in offhand to become a wall": "cliquez et ayez aussi une Essence Celeste dans la seconde main pour devenir un mur",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",

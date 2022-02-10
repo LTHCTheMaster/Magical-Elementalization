@@ -58,5 +58,11 @@
 		"sounds": [
 			"lthc.mage:wind_force"
 		]
+	},
+	"wall_staff": {
+		"subtitle": "Someone is becoming a wall",
+		"sounds": [
+			"lthc.mage:wall_staff"
+		]
 	}
 }

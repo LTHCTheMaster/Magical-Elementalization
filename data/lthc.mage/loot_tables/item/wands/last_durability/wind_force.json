@@ -21,7 +21,7 @@
                                 " ",
                                 {"translate":"click and also have aero essence in offhand to use the wind's power."},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue007", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue000", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
                             ]
                         }
                     ]

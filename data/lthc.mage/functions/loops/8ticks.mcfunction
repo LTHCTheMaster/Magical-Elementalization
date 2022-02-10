@@ -21,6 +21,9 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 # Wind Force
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/wind_force,predicate=lthc.mage:selected/aero_essences] at @s run function lthc.mage:wands/wind_force
 
+# Wall Staff
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/wall_staff,predicate=lthc.mage:selected/celestial_essences] run function lthc.mage:staff/wall_staff
+
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 
