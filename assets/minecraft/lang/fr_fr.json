@@ -50,6 +50,8 @@
     "1 Compact Phyto Essence (dropped at center) + 4 quartz (item frames)": "1 Essence Phyto Compacte (droppé au centre) + 4 quartz (item frames)",
     "Use Black Hole": "Utiliser Trou Noir",
     "1 Compact End Essence (dropped at center) + 4 gunpowder (item frames)": "1 Essence End Compacte (droppé au centre) + 4 poudre à canon (item frames)",
+    "Use Burning Problem": "Utiliser Problème de Brûlure",
+    "1 Compact Gas Essence (dropped at center) + 4 gunpowder (item frames)": "1 Essence Gaz Compacte (droppé au centre) + 4 poudre à canon (item frames)",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -102,6 +104,8 @@
     "click and also have compact phyto essence in offhand to sacrifice animals to create trees": "cliquez et ayez aussi une Essence Phyto Compacte dans la seconde main pour sacrifier des animaux pour créer des arbres",
     "Black Hole": "Trou Noir",
     "click and also have compact end essence in offhand to call the black hole's power": "cliquez et ayez aussi une Essence Fin Compacte dans la seconde main pour appeler la puissance du trou noir",
+    "Burning Problem": "Problème de Brûlure",
+    "click and also have compact gas essence in offhand to burn a lot of things": "cliquez et ayez aussi une Essence Gaz Compacte dans la seconde main pour brûler beaucoup de chose",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",

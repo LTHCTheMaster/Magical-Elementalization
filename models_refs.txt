@@ -1,4 +1,4 @@
-Custom Items: 40
+Custom Items: 41
 
 warped_fungus_on_a_stick:
     170000 : mage wand
@@ -16,6 +16,7 @@ warped_fungus_on_a_stick:
     170040 : life bring
     170041 : sacrifices to trees
     170042 : black hole
+    170043 : burning problem
 
 command_block:
     170000 : aero essence

@@ -88,5 +88,11 @@
 		"sounds": [
 			"lthc.mage:black_hole"
 		]
+	},
+	"burning_problem": {
+		"subtitle": "There is a Burning Issue",
+		"sounds": [
+			"lthc.mage:burning_problem"
+		]
 	}
 }
