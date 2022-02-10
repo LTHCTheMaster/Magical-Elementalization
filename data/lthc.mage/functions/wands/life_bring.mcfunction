@@ -14,6 +14,7 @@ summon sheep ~ ~ ~
 summon pig ~ ~ ~
 summon pig ~ ~ ~
 summon pig ~ ~ ~
+# Give the advancement
 advancement grant @s only lthc.mage:age0_road/age1_road/age2_road/use_magic/life_bring
 # Play the sound
 playsound lthc.mage:life_bring master @a[distance=..6] ~ ~ ~ 0.97 1.0 0.2

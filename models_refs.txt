@@ -1,3 +1,5 @@
+Custom Items: 39
+
 warped_fungus_on_a_stick:
     170000 : mage wand
     -------------------------------------------------------------------------------
@@ -12,6 +14,7 @@ warped_fungus_on_a_stick:
     170023 : wall staff
     170024 : oxyheal staff
     170040 : life bring
+    170041 : sacrifices to trees
 
 command_block:
     170000 : aero essence

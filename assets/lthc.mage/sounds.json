@@ -76,5 +76,11 @@
 		"sounds": [
 			"lthc.mage:life_bring"
 		]
+	},
+	"sacrifices_to_trees": {
+		"subtitle": "Scrifices for the God of Trees",
+		"sounds": [
+			"lthc.mage:sacrifices_to_trees"
+		]
 	}
 }
