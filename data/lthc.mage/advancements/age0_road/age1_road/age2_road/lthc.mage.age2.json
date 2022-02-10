@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "translate": "Magic (3)",
+            "color": "#DDEEFF"
+        },
+        "description": {
+            "translate": "",
+            "color": "#DDEEFF"
+        },
+        "icon": {
+            "item": "smooth_quartz"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "lthc.mage:age0_road/age1_road/lthc.mage.age1"
+}

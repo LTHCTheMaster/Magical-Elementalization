@@ -8,6 +8,15 @@
         {"type": "bitmap","file": "lthc.mage:essences/gas.png", "ascent":12, "height":16, "chars":["\ue005"] },
         {"type": "bitmap","file": "lthc.mage:essences/hydro.png", "ascent":12, "height":16, "chars":["\ue006"] },
         {"type": "bitmap","file": "lthc.mage:essences/phyto.png", "ascent":12, "height":16, "chars":["\ue007"] },
-        {"type": "bitmap","file": "lthc.mage:essences/thermo.png", "ascent":12, "height":16, "chars":["\ue008"] }
+        {"type": "bitmap","file": "lthc.mage:essences/thermo.png", "ascent":12, "height":16, "chars":["\ue008"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_aero.png", "ascent":12, "height":16, "chars":["\ue010"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_celestial.png", "ascent":12, "height":16, "chars":["\ue011"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_color.png", "ascent":12, "height":16, "chars":["\ue012"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_end.png", "ascent":12, "height":16, "chars":["\ue013"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_fungus.png", "ascent":12, "height":16, "chars":["\ue014"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_gas.png", "ascent":12, "height":16, "chars":["\ue015"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_hydro.png", "ascent":12, "height":16, "chars":["\ue016"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_phyto.png", "ascent":12, "height":16, "chars":["\ue017"] },
+        {"type": "bitmap","file": "lthc.mage:essences/compact_thermo.png", "ascent":12, "height":16, "chars":["\ue018"] }
     ]
 }

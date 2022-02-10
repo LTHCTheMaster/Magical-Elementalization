@@ -27,6 +27,9 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 # OxyHeal Staff
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/oxyheal_staff,predicate=lthc.mage:selected/gas_essences] run function lthc.mage:staff/oxyheal_staff
 
+# Life Bring
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/life_bring,predicate=lthc.mage:selected/compact_phyto_essences] run function lthc.mage:wands/life_bring
+
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 

@@ -11,6 +11,7 @@ warped_fungus_on_a_stick:
     170022 : wind force
     170023 : wall staff
     170024 : oxyheal staff
+    170040 : life bring
 
 command_block:
     170000 : aero essence

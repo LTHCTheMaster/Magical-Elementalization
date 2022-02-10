@@ -1,0 +1,32 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:warped_fungus_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"life_bring\", from: \"lthc.mage\"}}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.last_durability:1b,CustomModelData: 170040,display: {Name:'{\"translate\": \"Life Bring\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        },
+                        {
+                            "function": "set_lore",
+                            "lore": [
+                                " ",
+                                {"translate":"click and also have compact phyto essence in offhand to bring the life arround you"},
+                                " ",
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue017", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

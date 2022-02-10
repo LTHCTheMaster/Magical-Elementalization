@@ -27,6 +27,7 @@
     "Use Color Wand": "Utiliser la Baguette Couleur",
     "Use Teleport Wand": "Utiliser la Baguette Téléportation",
     "Magic (2)": "Magie (2)",
+    "Magic (3)": "Magie (3)",
     "Second Wands": "Secondes Baguettes",
     "1 Compact Phyto Essence (dropped at center) + 4 gunpowder (item frames)": "1 Essence Phyto Compacte (droppé au centre) + 4 poudre à canon (item frames)",
     "Use Forest Clearer": "Utiliser l'Effaceur de Forêt",
@@ -43,6 +44,8 @@
     "1 Compact Celestial Essence (dropped at center) + 4 stone bricks (item frames)": "1 Essence Celeste Compacte (droppé au centre) + 4 stone bricks (item frames)",
     "Use OxyHeal Staff": "Utiliser le Sceptre OxySoin",
     "1 Compact Gas Essence (dropped at center) + 4 gold ingot (item frames)": "1 Essence Gaz Compacte (droppé au centre) + 4 lingot d'or (item frames)",
+    "Use Life Bring": "Utiliser l'Apport Vivant",
+    "1 Compact Phyto Essence (dropped at center) + 4 sugar cane (item frames)": "1 Essence Phyto Compacte (droppé au centre) + 4 cane à sucre (item frames)",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -89,6 +92,8 @@
     "click and also have celestial essence in offhand to become a wall": "cliquez et ayez aussi une Essence Celeste dans la seconde main pour devenir un mur",
     "OxyHeal Staff": "Sceptre OxySoin",
     "click and also have gas essence in offhand to heal yourself": "cliquez et ayez aussi une Essence Gaz dans la seconde main pour vous soigner",
+    "Life Bring": "Apport Vivant",
+    "click and also have compact phyto essence in offhand to bring the life arround you": "cliquez et ayez aussi une Essence Phyto Compacte dans la seconde main pour apporter la vie autour de vous",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",

@@ -70,5 +70,11 @@
 		"sounds": [
 			"lthc.mage:oxyheal_staff"
 		]
+	},
+	"life_bring": {
+		"subtitle": "Bringing the life",
+		"sounds": [
+			"lthc.mage:life_bring"
+		]
 	}
 }
