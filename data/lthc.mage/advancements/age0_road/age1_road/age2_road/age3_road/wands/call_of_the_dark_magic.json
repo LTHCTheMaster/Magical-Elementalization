@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:170100}"
+        },
+        "title": {
+            "translate": "Call of the Dark Magic"
+        },
+        "description": "1 Compact Color Essence (dropped at center) + 4 Compact Color Essence (item frames)",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "lthc.mage:age0_road/age1_road/age2_road/age3_road/wands"
+}

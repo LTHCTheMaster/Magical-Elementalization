@@ -94,5 +94,11 @@
 		"sounds": [
 			"lthc.mage:burning_problem"
 		]
+	},
+	"call_of_the_dark_magic": {
+		"subtitle": "Strange dark magic",
+		"sounds": [
+			"lthc.mage:call_of_the_dark_magic"
+		]
 	}
 }

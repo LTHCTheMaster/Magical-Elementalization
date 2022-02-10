@@ -1,4 +1,4 @@
-Custom Items: 41
+Custom Items: 42
 
 warped_fungus_on_a_stick:
     170000 : mage wand
@@ -17,6 +17,8 @@ warped_fungus_on_a_stick:
     170041 : sacrifices to trees
     170042 : black hole
     170043 : burning problem
+    -------------------------------------------------------------------------------
+    170100 : call of the dark magic
 
 command_block:
     170000 : aero essence

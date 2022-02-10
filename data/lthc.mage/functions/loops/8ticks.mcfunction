@@ -39,6 +39,9 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 # Burning Problem
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/burning_problem,predicate=lthc.mage:selected/compact_gas_essences] at @s run function lthc.mage:wands/burning_problem
 
+# Call of the Dark Magic
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/call_of_the_dark_magic,predicate=lthc.mage:selected/compact_fungus_essences] at @s run function lthc.mage:call_of_the_dark_magic/call_of_the_dark_magic
+
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 
