@@ -48,6 +48,8 @@
     "1 Compact Phyto Essence (dropped at center) + 4 sugar cane (item frames)": "1 Essence Phyto Compacte (droppé au centre) + 4 cane à sucre (item frames)",
     "Use Sacrifices to Trees": "Utiliser Sacrifices aux Arbres",
     "1 Compact Phyto Essence (dropped at center) + 4 quartz (item frames)": "1 Essence Phyto Compacte (droppé au centre) + 4 quartz (item frames)",
+    "Use Black Hole": "Utiliser Trou Noir",
+    "1 Compact End Essence (dropped at center) + 4 gunpowder (item frames)": "1 Essence End Compacte (droppé au centre) + 4 poudre à canon (item frames)",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -98,6 +100,8 @@
     "click and also have compact phyto essence in offhand to bring the life arround you": "cliquez et ayez aussi une Essence Phyto Compacte dans la seconde main pour apporter la vie autour de vous",
     "Sacrifices to Trees": "Sacrifices aux Arbres",
     "click and also have compact phyto essence in offhand to sacrifice animals to create trees": "cliquez et ayez aussi une Essence Phyto Compacte dans la seconde main pour sacrifier des animaux pour créer des arbres",
+    "Black Hole": "Trou Noir",
+    "click and also have compact end essence in offhand to call the black hole's power": "cliquez et ayez aussi une Essence Fin Compacte dans la seconde main pour appeler la puissance du trou noir",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",

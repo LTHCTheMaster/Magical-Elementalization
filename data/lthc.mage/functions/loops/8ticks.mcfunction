@@ -33,6 +33,9 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 # Sacrifice to Trees
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/sacrifices_to_trees,predicate=lthc.mage:selected/compact_phyto_essences] at @s run function lthc.mage:wands/sacrifices_to_trees
 
+# Black Hole
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/black_hole,predicate=lthc.mage:selected/compact_end_essences] at @s run function lthc.mage:wands/black_hole
+
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 

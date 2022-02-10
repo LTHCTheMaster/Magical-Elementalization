@@ -1,4 +1,4 @@
-## Craft checking (16 craft)
+## Craft checking (17 craft)
 
 # Compact Aero Essence craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.aero at @s run function lthc.mage:craft/check/compact_aero_essence
@@ -32,6 +32,8 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predi
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_phyto at @s run function lthc.mage:craft/check/life_bring
 # Sacrifices to Trees craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_phyto at @s run function lthc.mage:craft/check/sacrifices_to_trees
+# Black Hole craft checking
+execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_end at @s run function lthc.mage:craft/check/black_hole
 
 # Auto schedule
 schedule function lthc.mage:craft/check2 25t replace

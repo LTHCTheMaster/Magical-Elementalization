@@ -78,9 +78,15 @@
 		]
 	},
 	"sacrifices_to_trees": {
-		"subtitle": "Scrifices for the God of Trees",
+		"subtitle": "Sacrifices for the God of Trees",
 		"sounds": [
 			"lthc.mage:sacrifices_to_trees"
+		]
+	},
+	"black_hole": {
+		"subtitle": "Black Hole using",
+		"sounds": [
+			"lthc.mage:black_hole"
 		]
 	}
 }

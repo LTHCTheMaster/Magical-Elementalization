@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:170042}"
+        },
+        "title": {
+            "translate": "Use Black Hole"
+        },
+        "description": "",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "auto":{
+            "trigger": "impossible"
+        }
+    },
+    "parent": "lthc.mage:age0_road/age1_road/age2_road/use_magic"
+}
