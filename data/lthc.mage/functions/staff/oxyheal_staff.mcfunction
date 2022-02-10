@@ -1,4 +1,4 @@
-clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, thermo:1b}, id: "thermo_essence", from: "lthc.mage"}} 1
+clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, gas:1b}, id: "gas_essence", from: "lthc.mage"}} 1
 # Give the regeneration effect
 effect give @s regeneration 3 3 true
 # Give the advancement

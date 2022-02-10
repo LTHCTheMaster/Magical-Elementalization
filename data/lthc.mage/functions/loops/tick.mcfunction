@@ -12,6 +12,7 @@ execute as @e[type=vindicator,tag=lthc.mage.entities.mangrove_guardian,predicate
 execute as @e[type=vindicator,tag=lthc.mage.entities.mangrove_guardian,predicate=lthc.mage:boss/nether] run function lthc.mage:entities/boss/delete_mangrove_guardian
 execute unless score #lthc.mage.b1 lthc.mage.current_charged matches 1080.. as @e[type=vindicator, tag=lthc.mage.entities.mangrove_guardian] at @s run function lthc.mage:entities/boss/mangrove_guardian_gameplay
 execute if score #lthc.mage.b1 lthc.mage.current_charged matches 1080.. unless entity @e[type=vindicator,tag=lthc.mage.entities.mangrove_guardian] run scoreboard players set #lthc.mage.b1 lthc.mage.data 0
+execute unless entity @e[type=vindicator,tag=lthc.mage.entities.mangrove_guardian] run bossbar remove lthc.mage:mangrove_guardian
 
 # Auto schedule
 schedule function lthc.mage:loops/tick 1t replace
