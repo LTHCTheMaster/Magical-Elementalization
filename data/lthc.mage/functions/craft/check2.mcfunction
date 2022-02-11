@@ -1,4 +1,4 @@
-## Craft checking (18 craft)
+## Craft checking (19 craft)
 
 # Compact Aero Essence craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.aero at @s run function lthc.mage:craft/check/compact_aero_essence
@@ -36,6 +36,8 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predi
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_end at @s run function lthc.mage:craft/check/black_hole
 # Burning Problem craft checking
 execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_gas at @s run function lthc.mage:craft/check/burning_problem
+# Call of the Dark Magic craft checking
+execute as @e[type=item,nbt={Item:{id:"minecraft:command_block",Count:1b}},predicate=lthc.mage:casc/casc] if data entity @s Item.tag.ctc.traits.compact_fungus at @s run function lthc.mage:craft/check/call_of_the_dark_magic
 
 # Auto schedule
 schedule function lthc.mage:craft/check2 25t replace

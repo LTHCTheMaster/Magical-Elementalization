@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:barrier"
+        },
+        "title": "Elementalized Fight",
+        "description": {
+            "translate": "Defeat the Elementalized Boss, a rar boss"
+        },
+        "show_toast": true,
+        "announce_to_chat": true,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "unlock": {
+            "trigger": "player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:pillager",
+                    "nbt": "{Tags:[\"lthc.mage.entities.elementalized_boss\"]}"
+                }
+            }
+        }
+    },
+    "parent": "lthc.mage:age0_road/age1_road/age2_road/age3_road/lthc.mage.age3"
+}

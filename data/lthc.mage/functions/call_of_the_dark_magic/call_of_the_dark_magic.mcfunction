@@ -1,4 +1,4 @@
-clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, compact_end:1b}, id: "compact_end_essence", from: "lthc.mage"}} 1
+clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, compact_fungus:1b}, id: "compact_fungus_essence", from: "lthc.mage"}} 1
 
 # Run the effect
 scoreboard players set #lthc.mage.cotdm lthc.mage.data 0
