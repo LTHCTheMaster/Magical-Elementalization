@@ -25,7 +25,7 @@ schedule clear lthc.mage:craft/check2
 schedule clear lthc.mage:entities/boss/manage_summon_boss
 
 # Try disable the pack if the name didn't changed
-datapack disable "file/magical_elementalization_v1.0b2.zip"
-datapack disable "file/magical_elementalization_v1.0b2"
+datapack disable "file/magical_elementalization_v1.0.zip"
+datapack disable "file/magical_elementalization_v1.0"
 datapack disable "file/magical_elementalization.zip"
 datapack disable "file/magical_elementalization"
