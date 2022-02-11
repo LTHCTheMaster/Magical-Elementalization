@@ -1,6 +1,6 @@
 clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, compact_phyto:1b}, id: "compact_phyto_essence", from: "lthc.mage"}} 1
 # Create trees by sacrifices
-execute as @e[type=#lthc.mage:animals,distance=..10] at @s run function lthc.mage:wands/sacrifices_to_trees/create_trees
+execute as @e[type=#lthc.mage:animals,distance=..10,tag=!global.ignore,tag=!global.ignore.kill] at @s run function lthc.mage:wands/sacrifices_to_trees/create_trees
 # Give the advancement
 advancement grant @s only lthc.mage:age0_road/age1_road/age2_road/use_magic/sacrifices_to_trees
 # Play the sound

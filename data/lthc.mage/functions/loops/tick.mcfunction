@@ -14,5 +14,11 @@ execute unless score #lthc.mage.b1 lthc.mage.current_charged matches 1080.. as @
 execute if score #lthc.mage.b1 lthc.mage.current_charged matches 1080.. unless entity @e[type=vindicator,tag=lthc.mage.entities.mangrove_guardian] run scoreboard players set #lthc.mage.b1 lthc.mage.data 0
 execute unless entity @e[type=vindicator,tag=lthc.mage.entities.mangrove_guardian] run bossbar remove lthc.mage:mangrove_guardian
 
+# Check Elementalized Boss
+execute if score #lthc.mage.b2 lthc.mage.data matches 1 run scoreboard players add #lthc.mage.b2 lthc.mage.current_charged 1
+execute unless entity @e[type=pillager,tag=lthc.mage.entities.elementalized_boss] run scoreboard players set #lthc.mage.b2 lthc.mage.data 0
+execute as @e[type=pillager, tag=lthc.mage.entities.elementalized_boss] at @s run function lthc.mage:entities/boss/elementalized_boss_gameplay
+execute unless entity @e[type=pillager,tag=lthc.mage.entities.elementalized_boss] run bossbar remove lthc.mage:elementalized_boss
+
 # Auto schedule
 schedule function lthc.mage:loops/tick 1t replace

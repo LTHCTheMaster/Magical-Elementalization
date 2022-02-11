@@ -100,5 +100,11 @@
 		"sounds": [
 			"lthc.mage:call_of_the_dark_magic"
 		]
+	},
+	"elementalized_boss": {
+		"subtitle": "Elementalized Boss",
+		"sounds": [
+			"lthc.mage:elementalized_boss"
+		]
 	}
 }
