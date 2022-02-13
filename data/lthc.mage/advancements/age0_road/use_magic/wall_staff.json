@@ -2,10 +2,10 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170024}"
+            "nbt": "{CustomModelData:170023}"
         },
         "title": {
-            "translate": "Use OxyHeal Staff"
+            "translate": "Use Wall Staff"
         },
         "description": "",
         "show_toast": true,
@@ -17,5 +17,5 @@
             "trigger": "impossible"
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/use_magic"
+    "parent": "lthc.mage:age0_road/sub_parts/staff"
 }

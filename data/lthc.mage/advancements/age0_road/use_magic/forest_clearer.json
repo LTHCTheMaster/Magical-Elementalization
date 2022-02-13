@@ -2,10 +2,10 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170041}"
+            "nbt": "{CustomModelData:170020}"
         },
         "title": {
-            "translate": "Use Sacrifices to Trees"
+            "translate": "Use Forest Clearer"
         },
         "description": "",
         "show_toast": true,
@@ -17,5 +17,5 @@
             "trigger": "impossible"
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/age2_road/use_magic"
+    "parent": "lthc.mage:age0_road/sub_parts/various"
 }

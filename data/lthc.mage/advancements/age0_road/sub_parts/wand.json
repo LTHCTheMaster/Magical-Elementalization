@@ -1,11 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170000}"
+            "item": "minecraft:blaze_rod"
         },
         "title": {
-            "translate": "Use Magic"
+            "translate": "Wands"
         },
         "description": "",
         "show_toast": false,
@@ -17,5 +16,5 @@
             "trigger": "tick"
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/age2_road/lthc.mage.age2"
+    "parent": "lthc.mage:age0_road/lthc.mage"
 }

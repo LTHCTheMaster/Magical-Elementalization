@@ -2,10 +2,10 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170040}"
+            "nbt": "{CustomModelData:170024}"
         },
         "title": {
-            "translate": "Use Life Bring"
+            "translate": "Use OxyHeal Staff"
         },
         "description": "",
         "show_toast": true,
@@ -17,5 +17,5 @@
             "trigger": "impossible"
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/age2_road/use_magic"
+    "parent": "lthc.mage:age0_road/sub_parts/staff"
 }

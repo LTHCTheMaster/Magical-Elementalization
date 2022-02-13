@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "lthc.mage:ancient_magic/essences/logical_magic_essences"
+	}
+}

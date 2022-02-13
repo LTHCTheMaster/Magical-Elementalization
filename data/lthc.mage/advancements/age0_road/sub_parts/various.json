@@ -1,11 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170000}"
+            "item": "minecraft:enchanted_book"
         },
         "title": {
-            "translate": "Use Magic"
+            "translate": "Various"
         },
         "description": "",
         "show_toast": false,
@@ -17,5 +16,5 @@
             "trigger": "tick"
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/age2_road/age3_road/lthc.mage.age3"
+    "parent": "lthc.mage:age0_road/lthc.mage"
 }

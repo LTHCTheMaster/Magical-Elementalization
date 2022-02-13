@@ -1,11 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170000}"
+            "item": "minecraft:honey_bottle"
         },
         "title": {
-            "translate": "Use Magic"
+            "translate": "Staff"
         },
         "description": "",
         "show_toast": false,

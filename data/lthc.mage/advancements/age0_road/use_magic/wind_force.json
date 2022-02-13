@@ -17,5 +17,5 @@
             "trigger": "impossible"
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/use_magic"
+    "parent": "lthc.mage:age0_road/sub_parts/various"
 }
