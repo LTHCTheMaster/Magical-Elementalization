@@ -11,7 +11,7 @@
         "icon": {
             "item": "emerald"
         },
-        "background": "minecraft:textures/block/blue_concrete.png",
+        "background": "lthc.mage:textures/advancements/background.png",
         "announce_to_chat": false,
         "show_toast": true
     },

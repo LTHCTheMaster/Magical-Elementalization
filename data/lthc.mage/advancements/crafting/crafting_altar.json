@@ -1,0 +1,45 @@
+{
+    "display": {
+        "title": {
+            "text": "Crafting Altar",
+            "color": "#DDEEFF"
+        },
+        "description": {
+            "text": "LAAAL",
+            "extra": [
+                {
+                    "text": "\nAAAAA",
+                    "color": "#DDEEFF"
+                },
+                {
+                    "text": "\nAACAA",
+                    "color": "#DDEEFF"
+                },
+                {
+                    "text": "\nAAAAA",
+                    "color": "#DDEEFF"
+                },
+                {
+                    "text": "\nLAAAL",
+                    "color": "#DDEEFF"
+                },
+                {
+                    "translate": "\n\nL: Log with item frame over it\nA: Not important\nC: Crafting table",
+                    "color": "#DDEEFF"
+                }
+            ],
+            "color": "#DDEEFF"
+        },
+        "icon": {
+            "item": "crafting_table"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "lthc.mage:crafting/crafting"
+}

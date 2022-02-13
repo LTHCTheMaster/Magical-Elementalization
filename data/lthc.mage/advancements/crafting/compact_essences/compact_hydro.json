@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:command_block",
+            "nbt": "{CustomModelData:170016}"
+        },
+        "title": {
+            "translate": "Compact Hydro Essence"
+        },
+        "description": "1 Hydro Essence (dropped at center) + 4 Hydro Essence (item frames)",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "lthc.mage:crafting/compact_essences"
+}

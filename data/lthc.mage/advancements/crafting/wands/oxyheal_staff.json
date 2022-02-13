@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    },
+    "display": {
+        "icon": {
+            "item": "minecraft:warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:170024}"
+        },
+        "title": {
+            "translate": "OxyHeal Staff"
+        },
+        "description": "1 Compact Gas Essence (dropped at center) + 4 gold ingot (item frames)",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "lthc.mage:crafting/wands"
+}

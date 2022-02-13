@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:black_concrete"
+        },
+        "title": {
+            "translate": "Compacted"
+        },
+        "description": "",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "auto":{
+            "trigger": "tick"
+        }
+    },
+    "parent": "lthc.mage:crafting/crafting"
+}
