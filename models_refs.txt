@@ -40,6 +40,9 @@ command_block:
     170016 : compact hydro essence
     170017 : compact phyto essence
     170018 : compact thermo essence
+    -------------------------------------------------------------------------------
+    170020 : logical magic essence
+    170021 : paradoxal magic essence
 
 iron_axe:
     170000 : mangrove axe

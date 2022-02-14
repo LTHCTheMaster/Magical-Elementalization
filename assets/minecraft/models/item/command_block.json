@@ -19,6 +19,8 @@
         {"predicate": {"custom_model_data":170015}, "model": "lthc.mage:essences/compact_gas"},
         {"predicate": {"custom_model_data":170016}, "model": "lthc.mage:essences/compact_hydro"},
         {"predicate": {"custom_model_data":170017}, "model": "lthc.mage:essences/compact_phyto"},
-        {"predicate": {"custom_model_data":170018}, "model": "lthc.mage:essences/compact_thermo"}
+        {"predicate": {"custom_model_data":170018}, "model": "lthc.mage:essences/compact_thermo"},
+        {"predicate": {"custom_model_data":170020}, "model": "lthc.mage:ancient_magic/essences/logical_magic_essences"},
+        {"predicate": {"custom_model_data":170021}, "model": "lthc.mage:ancient_magic/essences/paradoxal_magic_essences"}
     ]
   }
