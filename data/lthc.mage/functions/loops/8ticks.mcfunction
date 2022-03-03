@@ -46,7 +46,7 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0
 
 # Capacitor controlling
-execute as @a[scores={lthc.mage.capacitor_interact_detect=1..}] at @s anchored eyes run function lthc.mage:capacitors/raycast_to_entity_detect
+execute as @a[scores={lthc.mage.capacitor_interact_detect=1..}] at @s anchored eyes run function lthc.mage:capacitors/init_capacitor
 
 execute as @a[scores={lthc.mage.capacitor_interact_detect=1..}] run scoreboard players set @s lthc.mage.capacitor_interact_detect 0
 
