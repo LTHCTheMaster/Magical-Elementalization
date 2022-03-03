@@ -1,10 +1,9 @@
-clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, thermo:1b}, id: "thermo_essence", from: "lthc.mage"}} 1
 # Give the strength effect
 effect give @s strength 10 4 true
 # Give the poison effect
 effect give @s poison 3 1 true
 # Give the advancement
-advancement grant @s only lthc.mage:age0_road/age1_road/use_magic/berserker_staff
+advancement grant @s only lthc.mage:age0_road/use_magic/berserker_staff
 # Play the sound
 playsound lthc.mage:berserker_staff master @a[distance=..6] ~ ~ ~ 0.97 1.0 0.2
 

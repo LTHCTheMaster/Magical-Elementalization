@@ -1,8 +1,7 @@
-clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, celestial:1b}, id: "celestial_essence", from: "lthc.mage"}} 1
 # Give the resistance effect
 effect give @s resistance 15 2 true
 # Give the advancement
-advancement grant @s only lthc.mage:age0_road/age1_road/use_magic/wall_staff
+advancement grant @s only lthc.mage:age0_road/use_magic/wall_staff
 # Play the sound
 playsound lthc.mage:wall_staff master @a[distance=..6] ~ ~ ~ 0.97 1.0 0.2
 

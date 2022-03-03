@@ -1,46 +1,10 @@
 # Mage Wand effects
 execute as @a[scores={lthc.mage.wand_click_detect=0},tag=!global.ignore,tag=!global.ignore.gui,predicate=lthc.mage:selected/mage_wand] at @s run function lthc.mage:essences/display
 
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/mage_wand] at @s anchored eyes run function lthc.mage:wands/init_raycast_block
-
-# Color Wand effect
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/color_wand,predicate=lthc.mage:selected/color_essences] at @s anchored eyes run function lthc.mage:wands/color_init
-
-# Teleport Wand effect
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/teleport_wand,predicate=lthc.mage:selected/hydro_essences] at @s anchored eyes run function lthc.mage:wands/init_raycast_tp
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/mage_wand] at @s anchored eyes run function lthc.mage:wands/src/init_raycast_block
 
 # Compact Color Spells
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/compact_color] at @s run function lthc.mage:spells/compact_color
-
-# Forest Clearer
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/forest_clearer,predicate=lthc.mage:selected/phyto_essences] at @s anchored eyes run function lthc.mage:wands/forest_clearer
-
-# Berserker Staff
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/berserker_staff,predicate=lthc.mage:selected/thermo_essences] run function lthc.mage:staff/berserker_staff
-
-# Wind Force
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/wind_force,predicate=lthc.mage:selected/aero_essences] at @s run function lthc.mage:wands/wind_force
-
-# Wall Staff
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/wall_staff,predicate=lthc.mage:selected/celestial_essences] run function lthc.mage:staff/wall_staff
-
-# OxyHeal Staff
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/oxyheal_staff,predicate=lthc.mage:selected/gas_essences] run function lthc.mage:staff/oxyheal_staff
-
-# Life Bring
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/life_bring,predicate=lthc.mage:selected/compact_phyto_essences] at @s run function lthc.mage:wands/life_bring
-
-# Sacrifice to Trees
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/sacrifices_to_trees,predicate=lthc.mage:selected/compact_phyto_essences] at @s run function lthc.mage:wands/sacrifices_to_trees
-
-# Black Hole
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/black_hole,predicate=lthc.mage:selected/compact_end_essences] at @s run function lthc.mage:wands/black_hole
-
-# Burning Problem
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/burning_problem,predicate=lthc.mage:selected/compact_gas_essences] at @s run function lthc.mage:wands/burning_problem
-
-# Call of the Dark Magic
-execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/call_of_the_dark_magic,predicate=lthc.mage:selected/compact_fungus_essences] at @s run function lthc.mage:call_of_the_dark_magic/call_of_the_dark_magic
 
 # Reset wand and spells using detection
 execute as @a[scores={lthc.mage.wand_click_detect=1..}] run scoreboard players set @s lthc.mage.wand_click_detect 0

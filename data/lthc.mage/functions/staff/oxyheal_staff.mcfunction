@@ -1,8 +1,7 @@
-clear @s command_block{ctc: {traits: {"magic/essences":1b, item:1b, gas:1b}, id: "gas_essence", from: "lthc.mage"}} 1
 # Give the regeneration effect
 effect give @s regeneration 3 3 true
 # Give the advancement
-advancement grant @s only lthc.mage:age0_road/age1_road/use_magic/oxyheal_staff
+advancement grant @s only lthc.mage:age0_road/use_magic/oxyheal_staff
 # Play the sound
 playsound lthc.mage:oxyheal_staff master @a[distance=..6] ~ ~ ~ 0.97 1.0 0.2
 
