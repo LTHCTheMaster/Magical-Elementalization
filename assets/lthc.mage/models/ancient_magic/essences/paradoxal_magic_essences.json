@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-	"textures": {
-		"layer0": "lthc.mage:ancient_magic/essences/paradoxal_magic_essences"
-	}
-}

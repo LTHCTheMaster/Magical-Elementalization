@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
 	"textures": {
-		"layer0": "lthc.mage:essences/phyto"
+		"layer0": "lthc.mage:essences/pure/end"
 	}
 }

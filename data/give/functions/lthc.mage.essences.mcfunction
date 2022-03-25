@@ -19,5 +19,5 @@ loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_hydro
 loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_phyto
 loot spawn ~ ~ ~ loot lthc.mage:item/essences/compact_thermo
 # ADVANCED ESSENCES
-loot spawn ~ ~ ~ loot lthc.mage:ancient_magic/essences/logical_magic
-loot spawn ~ ~ ~ loot lthc.mage:ancient_magic/essences/paradoxal_magic
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/logical_magic
+loot spawn ~ ~ ~ loot lthc.mage:item/essences/paradoxal_magic

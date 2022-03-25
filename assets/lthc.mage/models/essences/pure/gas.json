@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
 	"textures": {
-		"layer0": "lthc.mage:essences/compact_celestial"
+		"layer0": "lthc.mage:essences/pure/gas"
 	}
 }
