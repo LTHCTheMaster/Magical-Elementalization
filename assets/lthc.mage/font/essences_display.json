@@ -17,6 +17,8 @@
         {"type": "bitmap","file": "lthc.mage:essences/compact/compact_gas.png", "ascent":12, "height":16, "chars":["\ue015"] },
         {"type": "bitmap","file": "lthc.mage:essences/compact/compact_hydro.png", "ascent":12, "height":16, "chars":["\ue016"] },
         {"type": "bitmap","file": "lthc.mage:essences/compact/compact_phyto.png", "ascent":12, "height":16, "chars":["\ue017"] },
-        {"type": "bitmap","file": "lthc.mage:essences/compact/compact_thermo.png", "ascent":12, "height":16, "chars":["\ue018"] }
+        {"type": "bitmap","file": "lthc.mage:essences/compact/compact_thermo.png", "ascent":12, "height":16, "chars":["\ue018"] },
+        {"type": "bitmap","file": "lthc.mage:essences/ancient/logical_magic_essences.png", "ascent":12, "height":16, "chars":["\ue020"] },
+        {"type": "bitmap","file": "lthc.mage:essences/ancient/paradoxal_magic_essences.png", "ascent":12, "height":16, "chars":["\ue021"] }
     ]
 }

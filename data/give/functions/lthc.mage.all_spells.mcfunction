@@ -12,5 +12,6 @@ loot spawn ~ ~ ~ loot lthc.mage:item/wands/oxyheal_staff
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/sacrifices_to_trees
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/wall_staff
 loot spawn ~ ~ ~ loot lthc.mage:item/wands/call_of_the_dark_magic
+loot spawn ~ ~ ~ loot lthc.mage:item/wands/logical_wand
 # SPELLS
 loot spawn ~ ~ ~ loot lthc.mage:item/compact_spells/compact_color
