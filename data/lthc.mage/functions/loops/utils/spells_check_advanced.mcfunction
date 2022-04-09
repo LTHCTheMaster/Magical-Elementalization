@@ -33,3 +33,6 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 
 # Call of the Dark Magic
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/call_of_the_dark_magic,predicate=lthc.mage:selected/paradoxal_magic_essences] at @s run function lthc.mage:call_of_the_dark_magic/init/advanced
+
+# Logical Wand
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/logical_wand,predicate=lthc.mage:selected/logical_magic_essences] at @s run function lthc.mage:wands/init/logical_wand/init_advanced

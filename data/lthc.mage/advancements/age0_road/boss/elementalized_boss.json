@@ -22,5 +22,5 @@
             }
         }
     },
-    "parent": "lthc.mage:age0_road/age1_road/age2_road/age3_road/lthc.mage.age3"
+    "parent": "lthc.mage:age0_road/lthc.mage"
 }

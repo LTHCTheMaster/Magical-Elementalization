@@ -106,5 +106,11 @@
 		"sounds": [
 			"lthc.mage:elementalized_boss"
 		]
+	},
+	"logical_wand": {
+		"subtitle": "Logical Power",
+		"sounds": [
+			"lthc.mage:logical_wand"
+		]
 	}
 }
