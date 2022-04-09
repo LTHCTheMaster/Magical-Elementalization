@@ -27,3 +27,5 @@ summon lightning_bolt ~-3 ~ ~-7
 summon lightning_bolt ~3 ~ ~7
 summon lightning_bolt ~-7 ~ ~3
 summon lightning_bolt ~7 ~ ~-3
+
+scoreboard players set #lthc.mage.b2 lthc.mage.current_charged 0
