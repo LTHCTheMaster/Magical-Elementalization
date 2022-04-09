@@ -36,3 +36,6 @@ execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selec
 
 # Logical Wand
 execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/logical_wand,predicate=lthc.mage:selected/logical_magic_essences] at @s run function lthc.mage:wands/init/logical_wand/init_advanced
+
+# Paradoxal Wand
+execute as @a[scores={lthc.mage.wand_click_detect=1..},predicate=lthc.mage:selected/paradoxal_wand,predicate=lthc.mage:selected/paradoxal_magic_essences] at @s run function lthc.mage:wands/init/paradoxal_wand/init_advanced

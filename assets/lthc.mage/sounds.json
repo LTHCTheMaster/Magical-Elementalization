@@ -112,5 +112,11 @@
 		"sounds": [
 			"lthc.mage:logical_wand"
 		]
+	},
+	"paradoxal_wand": {
+		"subtitle": "Paradoxal Power",
+		"sounds": [
+			"lthc.mage:paradoxal_wand"
+		]
 	}
 }
