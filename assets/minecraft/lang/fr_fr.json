@@ -60,6 +60,7 @@
     "Various": "Variés",
     "Unsafe Power": "Pouvoir Non Sûr",
     "1 Logical Magic Essence (dropped at center) + 4 quartz (item frames)": "1 Essence de Magie Logique (droppé au centre) + 4 quartz (item frames)",
+    "1 Paradoxal Magic Essence (dropped at center) + 4 quartz (item frames)": "1 Essence de Magie Paradoxale (droppé au centre) + 4 quartz (item frames)",
 
     "__comments": "items",
     "Acacia Collector Pylon": "Pylône Collecteur Acacia",
@@ -120,6 +121,8 @@
     "Paradoxal Magic Essence": "Essence de Magie Paradoxale",
     "Logical Wand": "Baguette Logique",
     "click and also have logical magic essence in offhand to use this ancient power.": "cliquez et ayez aussi une Essence de Magie Logique dans la seconde main pour utiliser cette puissance ancienne.",
+    "Paradoxal Wand": "Baguette Paradoxale",
+    "click and also have paradoxal magic essence in offhand to use this ancient power.": "cliquez et ayez aussi une Essence de Magie Paradoxale dans la seconde main pour utiliser cette puissance ancienne.",
 
     "__comments": "entities",
     "Magical Trader": "Marchand Magique",
