@@ -9,19 +9,19 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"logical_wand\", from: \"lthc.mage\"}}"
+                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"paradoxal_wand\", from: \"lthc.mage\"}}"
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170110,display: {Name:'{\"translate\": \"Logical Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170111,display: {Name:'{\"translate\": \"Paradoxal Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",
                             "lore": [
                                 " ",
-                                {"translate":"click and also have logical magic essence in offhand to use this ancient power."},
+                                {"translate":"click and also have paradoxal magic essence in offhand to use this ancient power."},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue020", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue021", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
                             ]
                         }
                     ]

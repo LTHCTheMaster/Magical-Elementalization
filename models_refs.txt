@@ -21,6 +21,7 @@ warped_fungus_on_a_stick:
     170100 : call of the dark magic
     -------------------------------------------------------------------------------
     170110 : logical wand
+    170111 : paradoxal wand
 
 command_block:
     170000 : aero essence
