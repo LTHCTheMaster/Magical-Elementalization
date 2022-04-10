@@ -1,4 +1,4 @@
-Custom Items: 45
+Custom Items: 46
 
 warped_fungus_on_a_stick:
     170000 : mage wand

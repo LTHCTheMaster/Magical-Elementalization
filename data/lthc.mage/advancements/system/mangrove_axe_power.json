@@ -16,7 +16,7 @@
                         "predicate": {
                             "player": {
                                 "advancements": {
-                                    "lthc.mage:age0_road/age1_road/boss/mangrove_guardian": true
+                                    "lthc.mage:age0_road/boss/mangrove_guardian": true
                                 }
                             }
                         }
