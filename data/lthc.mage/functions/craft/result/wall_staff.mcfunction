@@ -1,10 +1,10 @@
 ## Craft the wall staff
 
 # Remove all items in the four item_frames/glow_item_frames
-execute positioned ~-2 ~ ~-2 if entity @e[type=#lthc.mage:allowed_frame,distance=..1] as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
-execute positioned ~2 ~ ~2 if entity @e[type=#lthc.mage:allowed_frame,distance=..1] as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
-execute positioned ~-2 ~ ~2 if entity @e[type=#lthc.mage:allowed_frame,distance=..1] as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
-execute positioned ~2 ~ ~-2 if entity @e[type=#lthc.mage:allowed_frame,distance=..1] as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
+execute positioned ~-2 ~ ~-2 as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
+execute positioned ~2 ~ ~2 as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
+execute positioned ~-2 ~ ~2 as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
+execute positioned ~2 ~ ~-2 as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1,nbt={Item:{id:"minecraft:stone_bricks"}}] run data modify entity @s Item.id set value "air"
 
 # Kill self
 kill @s
