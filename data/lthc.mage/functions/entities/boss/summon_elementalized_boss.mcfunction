@@ -8,6 +8,7 @@ scoreboard players set #lthc.mage.b2 lthc.mage.data 1
 scoreboard players set #lthc.mage.b2 lthc.mage.current_charged 0
 playsound lthc.mage:elementalized_boss master @a[distance=..19] ~ ~1 ~ 0.72 1.0 0.42
 fill ~-3 ~-2 ~-3 ~3 ~2 ~3 air destroy
+fill ~-4 ~-1 ~-4 ~4 ~1 ~4 air destroy
 bossbar add lthc.mage:elementalized_boss {"translate":"Elementalized Boss", "color": "#DDDDDD"}
 bossbar set lthc.mage:elementalized_boss color white
 bossbar set lthc.mage:elementalized_boss max 1000
