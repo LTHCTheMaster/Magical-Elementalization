@@ -3,7 +3,8 @@
         "title": "",
         "description": "",
         "icon": {
-            "item": "minecraft:glass_bottle"
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: \"LTHCTheMaster\"}"
         },
         "show_toast": false,
         "announce_to_chat": false
