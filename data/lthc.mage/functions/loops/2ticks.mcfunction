@@ -1,3 +1,5 @@
+# Check custom block
+function lthc.mage:block_object_life/check_destroy
 # Trigger info checking
 scoreboard players add @a lthc.mage.info 0
 scoreboard players enable @a lthc.mage.info

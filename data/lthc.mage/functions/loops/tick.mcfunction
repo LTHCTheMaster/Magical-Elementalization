@@ -1,5 +1,3 @@
-# Check custom block
-function lthc.mage:block_object_life/check_destroy
 # Data managing
 scoreboard players add @a lthc.mage.wand_click_detect 0
 scoreboard players add #lthc.mage.tmt lthc.mage.data 1
