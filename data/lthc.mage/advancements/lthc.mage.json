@@ -9,7 +9,8 @@
             "color": "#DDEEFF"
         },
         "icon": {
-            "item": "stick"
+            "item": "warped_fungus_on_a_stick",
+            "nbt": "{CustomModelData:170000}"
         },
         "announce_to_chat": false,
         "show_toast": false
