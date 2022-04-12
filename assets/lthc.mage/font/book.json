@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "lthc.mage:fonts/crafting_altar.png", "ascent": 5, "height": 45, "chars": ["\uea00"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/capacitor.png", "ascent": 12, "height": 70, "chars": ["\uea01"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/compact_essences.png", "ascent": 12, "height": 70, "chars": ["\uea02"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/black_hole.png", "ascent": 12, "height": 70, "chars": ["\uea03"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/burning_problem.png", "ascent": 12, "height": 70, "chars": ["\uea04"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/color_wand.png", "ascent": 12, "height": 70, "chars": ["\uea05"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/compact_color_spell.png", "ascent": 12, "height": 70, "chars": ["\uea06"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/forest_clearer.png", "ascent": 12, "height": 70, "chars": ["\uea07"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/life_bring.png", "ascent": 12, "height": 70, "chars": ["\uea08"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/sacrifices_to_trees.png", "ascent": 12, "height": 70, "chars": ["\uea09"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/teleport_wand.png", "ascent": 12, "height": 70, "chars": ["\uea10"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/wind_force.png", "ascent": 12, "height": 70, "chars": ["\uea11"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/berserker_staff.png", "ascent": 12, "height": 70, "chars": ["\uea12"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/oxyheal_staff.png", "ascent": 12, "height": 70, "chars": ["\uea13"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/wall_staff.png", "ascent": 12, "height": 70, "chars": ["\uea14"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/call_of_the_dark_magic.png", "ascent": 12, "height": 70, "chars": ["\uea15"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/logical_wand.png", "ascent": 12, "height": 70, "chars": ["\uea16"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/paradoxal_wand.png", "ascent": 12, "height": 70, "chars": ["\uea17"] }
+    ]
+}
