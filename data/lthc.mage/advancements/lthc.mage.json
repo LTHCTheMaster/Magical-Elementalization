@@ -14,7 +14,7 @@
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "global:lthc.mage",
+    "parent": "global:lthcthemaster",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"
