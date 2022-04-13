@@ -17,16 +17,7 @@
         "offsetZ": 2,
         "predicate": {
             "block": {
-                "blocks": [
-                    "acacia_log",
-                    "birch_log",
-                    "crimson_stem",
-                    "dark_oak_log",
-                    "jungle_log",
-                    "oak_log",
-                    "spruce_log",
-                    "warped_stem"
-                ]
+                "tag": "lthc.mage:logs_cftalt"
             }
         }
     },
@@ -37,16 +28,7 @@
         "offsetZ": 2,
         "predicate": {
             "block": {
-                "blocks": [
-                    "acacia_log",
-                    "birch_log",
-                    "crimson_stem",
-                    "dark_oak_log",
-                    "jungle_log",
-                    "oak_log",
-                    "spruce_log",
-                    "warped_stem"
-                ]
+                "tag": "lthc.mage:logs_cftalt"
             }
         }
     },
@@ -57,16 +39,7 @@
         "offsetZ": -2,
         "predicate": {
             "block": {
-                "blocks": [
-                    "acacia_log",
-                    "birch_log",
-                    "crimson_stem",
-                    "dark_oak_log",
-                    "jungle_log",
-                    "oak_log",
-                    "spruce_log",
-                    "warped_stem"
-                ]
+                "tag": "lthc.mage:logs_cftalt"
             }
         }
     },
@@ -77,16 +50,7 @@
         "offsetZ": -2,
         "predicate": {
             "block": {
-                "blocks": [
-                    "acacia_log",
-                    "birch_log",
-                    "crimson_stem",
-                    "dark_oak_log",
-                    "jungle_log",
-                    "oak_log",
-                    "spruce_log",
-                    "warped_stem"
-                ]
+                "tag": "lthc.mage:logs_cftalt"
             }
         }
     }

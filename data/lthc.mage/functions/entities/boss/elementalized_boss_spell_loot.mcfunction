@@ -1,6 +1,6 @@
-execute run summon marker ~ ~1 ~ {Tags:["global.ignore","lthc.mage.loot_calculate.elementalized_boss"]}
+execute run summon area_effect_cloud ~ ~1 ~ {Tags:["global.ignore","lthc.mage.loot_calculate.elementalized_boss"],Duration:0}
 scoreboard players set #lthc.mage.12 lthc.mage.data 12
-execute store result score #lthc.mage.eblc lthc.mage.data run data get entity @e[type=marker,tag=lthc.mage.loot_calculate.elementalized_boss,limit=1] UUID[0]
+execute store result score #lthc.mage.eblc lthc.mage.data run data get entity @e[type=area_effect_cloud,tag=lthc.mage.loot_calculate.elementalized_boss,limit=1] UUID[0]
 scoreboard players operation #lthc.mage.eblc lthc.mage.data %= #lthc.mage.12 lthc.mage.data
 execute if score #lthc.mage.eblc lthc.mage.data matches 0 run loot spawn ~ ~1 ~ loot lthc.mage:item/wands/berserker_staff
 execute if score #lthc.mage.eblc lthc.mage.data matches 1 run loot spawn ~ ~1 ~ loot lthc.mage:item/wands/black_hole
@@ -14,4 +14,4 @@ execute if score #lthc.mage.eblc lthc.mage.data matches 8 run loot spawn ~ ~1 ~ 
 execute if score #lthc.mage.eblc lthc.mage.data matches 9 run loot spawn ~ ~1 ~ loot lthc.mage:item/wands/wall_staff
 execute if score #lthc.mage.eblc lthc.mage.data matches 10 run loot spawn ~ ~1 ~ loot lthc.mage:item/wands/wind_force
 execute if score #lthc.mage.eblc lthc.mage.data matches 11 run loot spawn ~ ~1 ~ loot lthc.mage:item/compact_spells/compact_color
-kill @e[type=marker,tag=lthc.mage.loot_calculate.elementalized_boss]
+kill @e[type=area_effect_cloud,tag=lthc.mage.loot_calculate.elementalized_boss]
