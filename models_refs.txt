@@ -1,4 +1,4 @@
-Custom Items: 46
+Custom Items: 47
 
 warped_fungus_on_a_stick:
     170000 : mage wand
@@ -46,6 +46,8 @@ command_block:
     -------------------------------------------------------------------------------
     170020 : logical magic essence
     170021 : paradoxal magic essence
+    -------------------------------------------------------------------------------
+    170030 : ritual core component
 
 iron_axe:
     170000 : mangrove axe
