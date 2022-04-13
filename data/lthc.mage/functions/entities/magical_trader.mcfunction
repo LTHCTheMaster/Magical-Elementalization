@@ -5,3 +5,5 @@ kill @e[type=villager,tag=lthc.mage.magical_trader]
 
 # Summon new Magical Trader
 execute if predicate lthc.mage:luck/25 run function lthc.mage:entities/summon_magical_trader
+
+scoreboard players set #lthc.mage.tmt lthc.mage.data 0
