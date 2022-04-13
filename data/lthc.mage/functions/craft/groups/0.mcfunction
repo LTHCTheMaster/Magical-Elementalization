@@ -25,4 +25,4 @@ execute if data storage lthc.mage:crafting_altar Item{id:"minecraft:purple_wool"
 # Teleport Wand craft checking
 execute if data storage lthc.mage:crafting_altar Item{id:"minecraft:ender_pearl"} run function lthc.mage:craft/check/teleport_wand_check
 # Compact Color Spell craft checking
-execute if data storage lthc.mage:crafting_altar Item{Count:1b,tag:{ctc:{traits:{color:1b}}}} run function lthc.mage:craft/check/compact_color_spell_check
+execute if data storage lthc.mage:crafting_altar Item{tag:{ctc:{traits:{color:1b}}}} run function lthc.mage:craft/check/compact_color_spell_check
