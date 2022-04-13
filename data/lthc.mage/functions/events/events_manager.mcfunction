@@ -1,1 +1,1 @@
-execute if predicate lthc.mage:luck/1 if predicate lthc.mage:boost/daytime if predicate lthc.mage:boost/rainy_thundery if predicate lthc.mage:selected/mage_wand as @r[gamemode=survival] run function lthc.mage:events/essences_events
+execute if predicate lthc.mage:luck/1 if predicate lthc.mage:boost/daytime if predicate lthc.mage:boost/rainy_thundery if predicate lthc.mage:selected/mage_wand at @r[gamemode=survival] run function lthc.mage:events/essences_events

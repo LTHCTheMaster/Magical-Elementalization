@@ -1,4 +1,4 @@
-execute run summon marker ~ ~1 ~ {Tags:["global.ignore","lthc.mage.loot_calculate.essences_events"]}
+summon marker ~ ~1 ~ {Tags:["global.ignore","lthc.mage.loot_calculate.essences_events"]}
 scoreboard players set #lthc.mage.2 lthc.mage.data 2
 execute store result score #lthc.mage.evlc lthc.mage.data run data get entity @e[type=marker,tag=lthc.mage.loot_calculate.essences_events,limit=1] UUID[0]
 scoreboard players operation #lthc.mage.evlc lthc.mage.data %= #lthc.mage.2 lthc.mage.data
