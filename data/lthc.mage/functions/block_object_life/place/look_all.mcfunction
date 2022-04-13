@@ -1,18 +1,15 @@
 #Look at where the block has been placed
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~8 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~7 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~6 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~5 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~4 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~3 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~2 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~1 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-1 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-2 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-3 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-4 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-5 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-6 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-7 ~ run function lthc.mage:block_object_life/place/look_layer
-	execute anchored eyes facing ^ ^ ^2 positioned ~ ~-8 ~ run function lthc.mage:block_object_life/place/look_layer
+execute align xyz positioned ~0.5 ~-6.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~-5.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~-4.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~-3.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~-2.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~-1.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~-0.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~0.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~1.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~2.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~3.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~4.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~5.5 ~0.5 run function lthc.mage:block_object_life/place/layer
+execute align xyz positioned ~0.5 ~6.5 ~0.5 run function lthc.mage:block_object_life/place/layer
