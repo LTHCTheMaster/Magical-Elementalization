@@ -1,0 +1,23 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:barrel",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{ctc: {traits: {\"magic/ritual\":1b, \"magic/functional/block\":1b, block:1b}, id: \"mining_ritual\", from: \"lthc.mage\"}}"
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170011,display: {Name:'{\"translate\": \"Mining Ritual\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
