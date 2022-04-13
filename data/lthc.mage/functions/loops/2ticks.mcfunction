@@ -1,5 +1,5 @@
 # Check custom block
-execute as @e[type=glow_item_frame,tag=lthc.mage.destroyable] unless block ~ ~ ~ #lthc.mage:custom_block_base run function lthc.mage:block_object_life/check_destroy
+execute as @e[type=glow_item_frame,tag=lthc.mage.destroyable] at @s unless block ~ ~ ~ #lthc.mage:custom_block_base run function lthc.mage:block_object_life/check_destroy
 # Trigger info checking
 scoreboard players add @a lthc.mage.info 0
 scoreboard players enable @a lthc.mage.info

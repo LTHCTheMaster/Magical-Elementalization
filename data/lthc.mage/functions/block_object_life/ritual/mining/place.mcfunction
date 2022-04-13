@@ -1,4 +1,5 @@
-setblock ~ ~ ~ barrel[facing=up]{CustomName:'{"translate":"Mining Ritual", "color":"#1d1d1d"}'}
+setblock ~ ~ ~ air replace
+setblock ~ ~ ~ barrel[facing=up]{CustomName:'{"translate":"Mining Ritual", "color":"#1d1d1d"}'} replace
 tag @s remove lthc.mage.mining_ritual
 tag @s add lthc.mage.mining_ritual_placed
 
