@@ -1,5 +1,6 @@
 # Remove spawn marker
 execute as @e[type=marker,tag=lthc.mage] run function lthc.mage:try_unload
+kill @e[type=marker,tag=lthc.mage]
 
 # Remove scores
 scoreboard objectives remove lthc.mage.wand_click_detect
