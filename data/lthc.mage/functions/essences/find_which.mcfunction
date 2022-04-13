@@ -6,4 +6,4 @@ execute at @e[type=glow_item_frame,tag=lthc.mage.pylons.thermo] at @s run loot s
 execute as @e[type=glow_item_frame,tag=lthc.mage.pylons.thermo2] at @s run function lthc.mage:essences/gen/thermo
 execute as @e[type=glow_item_frame,tag=lthc.mage.pylons.phyto] at @s run function lthc.mage:essences/gen/phyto
 
-execute as @e[type=glow_item_frame,tag=lthc.mage.pylon.function] run function lthc.mage:essences/effects
+execute as @e[type=glow_item_frame,tag=lthc.mage.pylon.function] at @s run function lthc.mage:essences/effects
