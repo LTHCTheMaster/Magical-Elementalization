@@ -14,7 +14,7 @@ execute if data storage lthc.mage:crafting_altar Item.end run function lthc.mage
 # Compact Fungus Essence craft checking
 execute if data storage lthc.mage:crafting_altar Item.fungus run function lthc.mage:craft/check/compact_fungus_essence
 # Compact Gas Essence craft checking
-execute if data storage lthc.mage:crafting_altar Item{gas:1b} run function lthc.mage:craft/check/compact_gas_essence
+execute if data storage lthc.mage:crafting_altar Item.gas run function lthc.mage:craft/check/compact_gas_essence
 # Compact Hydro Essence craft checking
 execute if data storage lthc.mage:crafting_altar Item.hydro run function lthc.mage:craft/check/compact_hydro_essence
 # Compact Phyto Essence craft checking
@@ -30,7 +30,7 @@ execute if data storage lthc.mage:crafting_altar Item.compact_aero run function 
 # Wall Staff craft checking
 execute if data storage lthc.mage:crafting_altar Item.compact_celestial run function lthc.mage:craft/check/wall_staff
 # Compact Gas Cored craft checking
-execute if data storage lthc.mage:crafting_altar Item{compact_gas:1b} run function #lthc.mage:crafts_sub_groups/compact_gas
+execute if data storage lthc.mage:crafting_altar Item.compact_gas run function #lthc.mage:crafts_sub_groups/compact_gas
 # Black Hole craft checking
 execute if data storage lthc.mage:crafting_altar Item.compact_end run function lthc.mage:craft/check/black_hole
 # Call of the Dark Magic craft checking

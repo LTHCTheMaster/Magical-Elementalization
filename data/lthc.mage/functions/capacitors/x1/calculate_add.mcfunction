@@ -21,8 +21,8 @@ execute if data storage lthc.mage:charging_capacitor Item.fungus if score @s lth
 execute if data storage lthc.mage:charging_capacitor Item.fungus if score @s lthc.mage.data matches 5 run function lthc.mage:capacitors/x1/essences/fungus
 
 # Gas
-execute if data storage lthc.mage:charging_capacitor Item{gas:1b} if score @s lthc.mage.data matches 0 run function lthc.mage:capacitors/x1/essences/gas
-execute if data storage lthc.mage:charging_capacitor Item{gas:1b} if score @s lthc.mage.data matches 6 run function lthc.mage:capacitors/x1/essences/gas
+execute if data storage lthc.mage:charging_capacitor Item.gas if score @s lthc.mage.data matches 0 run function lthc.mage:capacitors/x1/essences/gas
+execute if data storage lthc.mage:charging_capacitor Item.gas if score @s lthc.mage.data matches 6 run function lthc.mage:capacitors/x1/essences/gas
 
 # Hydro
 execute if data storage lthc.mage:charging_capacitor Item.hydro if score @s lthc.mage.data matches 0 run function lthc.mage:capacitors/x1/essences/hydro
