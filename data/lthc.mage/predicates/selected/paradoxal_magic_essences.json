@@ -7,7 +7,7 @@
                 "items": [
                     "command_block"
                 ],
-                "nbt": "{ctc: {traits: {\"magic/essences\":1b, item:1b}, id: \"paradoxal_magic_essence\", from: \"lthc.mage\"}}"
+                "nbt": "{ctc: {id: \"paradoxal_magic_essence\", from: \"lthc.mage\"}}"
             }
         }
     }
