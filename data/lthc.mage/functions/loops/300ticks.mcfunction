@@ -2,4 +2,4 @@ execute as @e[type=glow_item_frame,tag=lthc.mage.pylon.function] at @s run funct
 function lthc.mage:events/events_manager
 scoreboard players add @e[type=glow_item_frame,tag=lthc.mage.mining_ritual_placed] lthc.mage.data 1
 
-schedule function lthc.mage:loops/300ticks 300t replace
+scoreboard players set #lthc.mage.lm lthc.mage.current_charged 0
