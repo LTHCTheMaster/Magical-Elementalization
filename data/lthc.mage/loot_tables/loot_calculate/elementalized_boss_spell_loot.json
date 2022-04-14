@@ -1,0 +1,58 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/berserker_staff"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/black_hole"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/burning_problem"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/color_wand"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/forest_clearer"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/life_bring"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/oxyheal_staff"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/sacrifices_to_trees"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/teleport_wand"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/wall_staff"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/wands/wind_force"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/compact_spells/compact_color"
+                }
+            ]
+        }
+    ]
+}

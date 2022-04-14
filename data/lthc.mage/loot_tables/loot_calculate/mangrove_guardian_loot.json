@@ -1,0 +1,46 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/aero"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/celestial"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/color"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/end"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/fungus"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/gas"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/hydro"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/phyto"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/essences/thermo"
+                }
+            ]
+        }
+    ]
+}
