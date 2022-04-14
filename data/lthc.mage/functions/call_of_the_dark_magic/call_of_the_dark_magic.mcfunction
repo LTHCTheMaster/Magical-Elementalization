@@ -20,4 +20,4 @@ execute if score #lthc.mage.cotdm lthc.mage.data matches 5 if score #lthc.mage.b
 # Give the advancement
 advancement grant @s only lthc.mage:age0_road/use_magic/call_of_the_dark_magic
 # Play the sound
-playsound lthc.mage:call_of_the_dark_magic master @a ~ ~ ~ 0.85 1.0 0.85
+playsound lthc.mage:call_of_the_dark_magic master @a[distance=..9] ~ ~ ~ 0.85 1.0 0.85
