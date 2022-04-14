@@ -63,5 +63,5 @@ Also thanks to <a href="https://github.com/Stoupy51">Stoupy51</a> for helping me
 ## Contributors
 
 <a href = "https://github.com/LTHCTheMaster/Magical-Elementalization/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = LTHCTheMaster/Magical-Elementalization"/>
+  <img src = "https://contrib.rocks/image?repo=LTHCTheMaster/Magical-Elementalization"/>
 </a>
