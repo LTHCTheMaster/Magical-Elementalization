@@ -17,16 +17,17 @@ execute as @e[type=glow_item_frame,tag=lthc.mage.destroyable] run setblock ~ ~ ~
 kill @e[type=glow_item_frame,tag=lthc.mage.destroyable]
 
 # Clear schedule
-schedule clear lthc.mage:loops/300ticks
+schedule clear lthc.mage:loops/11ticks
 schedule clear lthc.mage:loops/8ticks
 schedule clear lthc.mage:loops/2ticks
 schedule clear lthc.mage:loops/tick
 schedule clear lthc.mage:craft/check
 schedule clear lthc.mage:craft/check2
+schedule clear lthc.mage:craft/check3
 schedule clear lthc.mage:entities/boss/manage_summon_boss
 
 # Try disable the pack if the name didn't changed
-datapack disable "file/magical_elementalization_v1.1.zip"
-datapack disable "file/magical_elementalization_v1.1"
+datapack disable "file/magical_elementalization_v1.2.zip"
+datapack disable "file/magical_elementalization_v1.2"
 datapack disable "file/magical_elementalization.zip"
 datapack disable "file/magical_elementalization"
