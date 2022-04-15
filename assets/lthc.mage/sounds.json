@@ -118,5 +118,11 @@
 		"sounds": [
 			"lthc.mage:paradoxal_wand"
 		]
+	},
+	"mental_reader": {
+		"subtitle": "Mental Reading",
+		"sounds": [
+			"lthc.mage:mental_reader"
+		]
 	}
 }

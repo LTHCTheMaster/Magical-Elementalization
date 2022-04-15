@@ -7,3 +7,6 @@ execute unless score @s lthc.mage.mental_state matches -2147483648..2147483647 r
 execute unless score @s lthc.mage.data matches -2147483648..2147483647 run scoreboard players set @s lthc.mage.data 0
 # Default count of last used : 0
 execute unless score @s lthc.mage.current_charged matches -2147483648..2147483647 run scoreboard players set @s lthc.mage.current_charged 0
+
+# Give the Mental Reader
+loot give @s loot lthc.mage:item/mental_state/mental_reader

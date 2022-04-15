@@ -7,7 +7,7 @@
                 "items": [
                     "warped_fungus_on_a_stick"
                 ],
-                "nbt": "{ctc: {id: \"burning_problem\", from: \"lthc.mage\"}}"
+                "nbt": "{ctc: {id: \"mental_reader\", from: \"lthc.mage\"}}"
             }
         }
     }

@@ -7,7 +7,7 @@
                 "items": [
                     "warped_fungus_on_a_stick"
                 ],
-                "nbt": "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"wall_staff\", from: \"lthc.mage\"}}"
+                "nbt": "{ctc: {id: \"wall_staff\", from: \"lthc.mage\"}}"
             }
         }
     }
