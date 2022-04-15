@@ -3,4 +3,6 @@ scoreboard objectives add lthc.mage.capacitor_interact_detect custom:tune_notebl
 scoreboard objectives add lthc.mage.mental_state dummy
 scoreboard objectives add lthc.mage.current_charged dummy
 
+scoreboard objectives add lthc.mage.secret dummy
+
 scoreboard objectives add lthc.mage.info trigger
