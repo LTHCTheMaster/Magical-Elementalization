@@ -9,7 +9,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{ctc: {traits: {\"magic/ritual\":1b, \"magic/functional/block\":1b, block:1b}, id: \"mining_ritual\", from: \"lthc.mage\"}}"
+                "tag": "{ctc: {traits: {\"magic/ritual\":1b, \"magic/functional/block\":1b, block:1b, mining_ritual:1b}, id: \"mining_ritual\", from: \"lthc.mage\"}}"
               },
               {
                 "function": "minecraft:set_nbt",
