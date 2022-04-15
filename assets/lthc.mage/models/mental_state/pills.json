@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "lthc.mage:mental_state/pills"
+    }
+  }

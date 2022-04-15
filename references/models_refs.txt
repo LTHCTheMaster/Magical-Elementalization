@@ -1,4 +1,4 @@
-Custom Items: 47
+Custom Items: 49
 
 warped_fungus_on_a_stick:
     170000 : mage wand
@@ -22,6 +22,9 @@ warped_fungus_on_a_stick:
     -------------------------------------------------------------------------------
     170110 : logical wand
     170111 : paradoxal wand
+
+apple:
+    170000 : pills
 
 command_block:
     170000 : aero essence
