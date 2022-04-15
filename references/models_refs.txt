@@ -1,4 +1,4 @@
-Custom Items: 51
+Custom Items: 53
 
 warped_fungus_on_a_stick:
     170000 : mage wand
@@ -71,6 +71,8 @@ glow_item_frame:
     -------------------------------------------------------------------------------
     170010 : mining ritual
     170011 : chopping ritual
+    170012 : multifarm ritual mk1
+    170013 : multifarm ritual mk2
 
 barrel:
     170000 : acacia pylon
@@ -86,3 +88,5 @@ barrel:
     -------------------------------------------------------------------------------
     170010 : mining ritual
     170011 : chopping ritual
+    170012 : multifarm ritual mk1
+    170013 : multifarm ritual mk2
