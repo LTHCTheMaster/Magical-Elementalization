@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:using_item",
+			"conditions": {
+				"block": "minecraft:apple",
+				"item": {
+					"nbt": "{ctc:{id: \"pills\", from: \"lthc.mage\"}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.mage:mental_state/pills"
+	}
+}

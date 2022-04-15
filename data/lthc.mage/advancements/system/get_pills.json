@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "get_pills": {
+            "trigger": "player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "#lthc.mage:animals"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "lthc.mage:mental_state/drop_pills"
+    }
+}
