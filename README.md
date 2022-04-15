@@ -23,6 +23,7 @@ This datapack add content based on magic essences (based on biomes).
 - Rituals
 - Custom Sounds
 - Translations
+- Mental State/Health System
 
 ### 💽 Versions
 | ✅   | 1.18.2 |
