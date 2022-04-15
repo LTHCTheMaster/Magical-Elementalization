@@ -14,6 +14,16 @@
               {
                 "function": "minecraft:set_nbt",
                 "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170003,display: {Name:'{\"translate\": \"Dark Oak Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+              },
+              {
+                  "function": "set_lore",
+                  "lore": [
+                      {
+                          "text": "Magical Elementalization",
+                          "color": "blue",
+                          "italic": true
+                      }
+                  ]
               }
             ]
           }

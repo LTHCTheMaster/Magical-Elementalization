@@ -21,7 +21,12 @@
                                 " ",
                                 {"translate":"click and also have compact fungus essence in offhand to use a strange dark power"},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue014", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue014", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+                                {
+                                    "text": "Magical Elementalization",
+                                    "color": "blue",
+                                    "italic": true
+                                }
                             ]
                         }
                     ]

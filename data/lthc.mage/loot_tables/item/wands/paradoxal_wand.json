@@ -21,7 +21,12 @@
                                 " ",
                                 {"translate":"click and also have paradoxal magic essence in offhand to use this ancient power."},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue021", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue021", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+                                {
+                                    "text": "Magical Elementalization",
+                                    "color": "blue",
+                                    "italic": true
+                                }
                             ]
                         }
                     ]

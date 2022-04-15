@@ -14,6 +14,16 @@
                         {
                           "function": "minecraft:set_nbt",
                           "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170101,display: {Name:'{\"translate\": \"Mental Reader\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        },
+                        {
+                            "function": "set_lore",
+                            "lore": [
+                                {
+                                    "text": "Magical Elementalization",
+                                    "color": "blue",
+                                    "italic": true
+                                }
+                            ]
                         }
                     ]
                 }

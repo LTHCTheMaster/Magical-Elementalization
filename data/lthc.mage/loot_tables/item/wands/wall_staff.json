@@ -21,7 +21,12 @@
                                 " ",
                                 {"translate":"click and also have celestial essence in offhand to become a wall"},
                                 " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue001", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue001", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+                                {
+                                    "text": "Magical Elementalization",
+                                    "color": "blue",
+                                    "italic": true
+                                }
                             ]
                         }
                     ]
