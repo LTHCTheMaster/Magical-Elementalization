@@ -19,6 +19,7 @@
         {"type": "bitmap","file": "lthc.mage:fonts/logical_wand.png", "ascent": 12, "height": 70, "chars": ["\uea16"] },
         {"type": "bitmap","file": "lthc.mage:fonts/paradoxal_wand.png", "ascent": 12, "height": 70, "chars": ["\uea17"] },
         {"type": "bitmap","file": "lthc.mage:fonts/ritual_core_component.png", "ascent": 12, "height": 70, "chars": ["\uea18"] },
-        {"type": "bitmap","file": "lthc.mage:fonts/mining_ritual.png", "ascent": 12, "height": 70, "chars": ["\uea19"] }
+        {"type": "bitmap","file": "lthc.mage:fonts/mining_ritual.png", "ascent": 12, "height": 70, "chars": ["\uea19"] },
+        {"type": "bitmap","file": "lthc.mage:fonts/chopping_ritual.png", "ascent": 12, "height": 70, "chars": ["\uea20"] }
     ]
 }
