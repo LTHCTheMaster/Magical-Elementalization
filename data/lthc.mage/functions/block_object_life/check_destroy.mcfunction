@@ -11,4 +11,4 @@ execute if entity @s[tag=lthc.mage.capacitor_placed] unless block ~ ~ ~ note_blo
 ### RITUALS
 
 # Mining Ritual
-execute if entity @s[tag=lthc.mage.mining_ritual_placed] unless block ~ ~ ~ barrel run function lthc.mage:block_object_life/ritual/mining/destroy
+execute if entity @s[tag=lthc.mage.is_ritual] unless block ~ ~ ~ barrel run function lthc.mage:block_object_life/check_destroy_ritual

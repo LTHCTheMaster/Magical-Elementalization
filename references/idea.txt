@@ -1,3 +1,1 @@
-add a "mental purity/mental illness" stats to each player and effects associated to this new stats and a special behaviour
 add a chopping ritual
-(? (add more translations) ?)

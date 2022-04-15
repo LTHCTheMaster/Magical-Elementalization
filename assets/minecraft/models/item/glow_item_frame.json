@@ -15,6 +15,7 @@
           {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/spruce"},
           {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped"},
           {"predicate": {"custom_model_data":170009}, "model": "lthc.mage:capacitors/capacitor"},
-          {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:ritual_core/mining_ritual"}
+          {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:ritual_core/mining_ritual"},
+          {"predicate": {"custom_model_data":170012}, "model": "lthc.mage:ritual_core/chopping_ritual"}
     ]
 }
