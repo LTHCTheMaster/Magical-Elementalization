@@ -2,16 +2,16 @@
     "parent": "block/barrel",
   
     "overrides": [
-          {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:pylons/basic/acacia"},
-          {"predicate": {"custom_model_data":170001}, "model": "lthc.mage:pylons/basic/birch"},
-          {"predicate": {"custom_model_data":170002}, "model": "lthc.mage:pylons/basic/crimson"},
-          {"predicate": {"custom_model_data":170003}, "model": "lthc.mage:pylons/basic/dark_oak"},
-          {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:pylons/basic/jungle"},
-          {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:pylons/basic/oak"},
-          {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/spruce"},
-          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped"},
-          {"predicate": {"custom_model_data":170009}, "model": "lthc.mage:capacitors/capacitor"},
-          {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:ritual_core/mining_ritual"},
-          {"predicate": {"custom_model_data":170012}, "model": "lthc.mage:ritual_core/chopping_ritual"}
+          {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:pylons/basic/barrel/acacia"},
+          {"predicate": {"custom_model_data":170001}, "model": "lthc.mage:pylons/basic/barrel/birch"},
+          {"predicate": {"custom_model_data":170002}, "model": "lthc.mage:pylons/basic/barrel/crimson"},
+          {"predicate": {"custom_model_data":170003}, "model": "lthc.mage:pylons/basic/barrel/dark_oak"},
+          {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:pylons/basic/barrel/jungle"},
+          {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:pylons/basic/barrel/oak"},
+          {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/barrel/spruce"},
+          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/barrel/warped"},
+          {"predicate": {"custom_model_data":170009}, "model": "lthc.mage:capacitors/barrel/capacitor"},
+          {"predicate": {"custom_model_data":170010}, "model": "lthc.mage:ritual_core/barrel/mining_ritual"},
+          {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:ritual_core/barrel/chopping_ritual"}
     ]
 }

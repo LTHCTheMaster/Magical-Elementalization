@@ -13,7 +13,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170011,display: {Name:'{\"translate\": \"Mining Ritual\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170010,display: {Name:'{\"translate\": \"Mining Ritual\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
               }
             ]
           }
