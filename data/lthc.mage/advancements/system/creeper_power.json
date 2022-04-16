@@ -1,0 +1,29 @@
+{
+    "criteria": {
+        "start": {
+            "trigger": "player_hurt_entity",
+            "conditions": {
+                "player": {
+                    "equipment": {
+                        "head": {
+                            "tag": "lthc.mage:helmets",
+                            "nbt": "{ctc: {traits: {creeper_power:1b}}}"
+                        },
+                        "mainhand": {
+                            "items": [
+                                "gunpowder"
+                            ],
+                            "count": {
+                                "min": 8,
+                                "max": 64
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "lthc.mage:upgrades/creeper_power"
+    }
+}
