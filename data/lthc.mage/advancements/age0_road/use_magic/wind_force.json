@@ -17,5 +17,5 @@
             "trigger": "impossible"
         }
     },
-    "parent": "lthc.mage:age0_road/sub_parts/various"
+    "parent": "lthc.mage:age0_road/sub_parts/sub_parts/gaseous"
 }
