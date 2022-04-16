@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": [
+            "",
+            {
+                "text": "Magical",
+                "color": "yellow"
+            },
+            {
+                "text": " Elementalization",
+                "color": "light_purple"
+            }
+        ]
+    }
+}
