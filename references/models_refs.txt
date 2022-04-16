@@ -53,6 +53,12 @@ command_block:
     170021 : paradoxal magic essence
     -------------------------------------------------------------------------------
     170030 : ritual core component
+    -------------------------------------------------------------------------------
+    170031 : poison protect upgrade
+    170032 : fall protect upgrade
+    170033 : magical knight upgrade
+    170034 : creeper power upgrade
+    170035 : secret upgrade
 
 iron_axe:
     170000 : mangrove axe

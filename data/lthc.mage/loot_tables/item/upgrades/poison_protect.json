@@ -1,0 +1,36 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag" : "{ctc: {traits: {\"magic/upgrade\":1b, \"armor/utils/upgrades\":1b, item:1b, poison_protect:1b}, id: \"poison_protect\", from: \"lthc.mage\"}}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170031,display: {Name:'{\"translate\": \"Poison Protect Upgrade\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        },
+                        {
+                            "function": "set_lore",
+                            "lore": [
+                                {
+                                    "translate": "Can sometimes save you from poison"
+                                },
+                                {
+                                    "text": "Magical Elementalization",
+                                    "color": "blue",
+                                    "italic": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

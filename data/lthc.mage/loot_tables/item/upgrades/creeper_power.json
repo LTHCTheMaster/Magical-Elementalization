@@ -1,0 +1,36 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag" : "{ctc: {traits: {\"magic/upgrade\":1b, \"armor/utils/upgrades\":1b, item:1b, creeper_power:1b}, id: \"creeper_power\", from: \"lthc.mage\"}}"
+                        },
+                        {
+                          "function": "minecraft:set_nbt",
+                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170034,display: {Name:'{\"translate\": \"Creeper Power Upgrade\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                        },
+                        {
+                            "function": "set_lore",
+                            "lore": [
+                                {
+                                    "translate": "You can do some explosive things with this upgrade"
+                                },
+                                {
+                                    "text": "Magical Elementalization",
+                                    "color": "blue",
+                                    "italic": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

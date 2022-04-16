@@ -22,6 +22,11 @@
         {"predicate": {"custom_model_data":170018}, "model": "lthc.mage:essences/compact/compact_thermo"},
         {"predicate": {"custom_model_data":170020}, "model": "lthc.mage:essences/ancient/logical_magic_essences"},
         {"predicate": {"custom_model_data":170021}, "model": "lthc.mage:essences/ancient/paradoxal_magic_essences"},
-        {"predicate": {"custom_model_data":170030}, "model": "lthc.mage:ritual_core/ritual_core_component"}
+        {"predicate": {"custom_model_data":170030}, "model": "lthc.mage:ritual_core/ritual_core_component"},
+        {"predicate": {"custom_model_data":170031}, "model": "lthc.mage:upgrades/poison_protect"},
+        {"predicate": {"custom_model_data":170032}, "model": "lthc.mage:upgrades/fall_protect"},
+        {"predicate": {"custom_model_data":170033}, "model": "lthc.mage:upgrades/magical_knight"},
+        {"predicate": {"custom_model_data":170034}, "model": "lthc.mage:upgrades/creeper_upgrade"},
+        {"predicate": {"custom_model_data":170035}, "model": "lthc.mage:upgrades/secret_upgrade"}
     ]
 }
