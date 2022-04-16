@@ -26,7 +26,7 @@
         {"predicate": {"custom_model_data":170031}, "model": "lthc.mage:upgrades/poison_protect"},
         {"predicate": {"custom_model_data":170032}, "model": "lthc.mage:upgrades/fall_protect"},
         {"predicate": {"custom_model_data":170033}, "model": "lthc.mage:upgrades/magical_knight"},
-        {"predicate": {"custom_model_data":170034}, "model": "lthc.mage:upgrades/creeper_upgrade"},
+        {"predicate": {"custom_model_data":170034}, "model": "lthc.mage:upgrades/creeper_power"},
         {"predicate": {"custom_model_data":170035}, "model": "lthc.mage:upgrades/secret_upgrade"}
     ]
 }
