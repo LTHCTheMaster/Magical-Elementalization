@@ -1,0 +1,12 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "head": {
+                "tag": "lthc.mage:helmets",
+                "nbt": "{ctc: {traits: {poison_protect:1b}}}"
+            }
+        }
+    }
+}

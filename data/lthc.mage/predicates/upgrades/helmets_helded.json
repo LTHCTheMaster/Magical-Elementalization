@@ -1,0 +1,12 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "head": {
+                "tag": "lthc.mage:helmets",
+                "nbt": "{ctc: {traits: {\"magic/magically_upgraded\": 1b}}}"
+            }
+        }
+    }
+}

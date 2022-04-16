@@ -2,4 +2,6 @@ execute as @e[type=glow_item_frame,tag=lthc.mage.is_ritual] at @s run function l
 
 execute as @a unless score @s lthc.mage.mental_state matches 281..334 run function lthc.mage:mental_state/mental_state_effects
 
+execute as @a[predicate=lthc.mage:upgrades/helmets_helded] run function lthc.mage:upgrades/work
+
 scoreboard players set #lthc.mage.lm lthc.mage.data 1
