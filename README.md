@@ -22,7 +22,7 @@ This datapack add content based on magic essences (based on biomes).
 - Capacitors
 - Rituals
 - <a href="./Resourcespack/assets/lthc.mage/sounds">Custom Sounds</a>
-- Translations
+- <a href="./Resourcespack/assets/minecraft/lang">Translations</a>
 - Mental State/Health System
 
 ### 💽 Versions
