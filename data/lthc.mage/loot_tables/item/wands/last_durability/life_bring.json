@@ -13,7 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.last_durability:1b,CustomModelData: 170040,display: {Name:'{\"translate\": \"Life Bring\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.last_durability:1b,CustomModelData: 170009,display: {Name:'{\"translate\": \"Life Bring\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",

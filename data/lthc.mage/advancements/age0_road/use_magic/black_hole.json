@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170042}"
+            "nbt": "{CustomModelData:170011}"
         },
         "title": {
             "translate": "Use Black Hole"

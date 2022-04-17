@@ -13,7 +13,7 @@
                         },
                         {
                           "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170031,display: {Name:'{\"translate\": \"Poison Protect Upgrade\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170021,display: {Name:'{\"translate\": \"Poison Protect Upgrade\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
                         },
                         {
                             "function": "set_lore",

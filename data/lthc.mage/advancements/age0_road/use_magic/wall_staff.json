@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170023}"
+            "nbt": "{CustomModelData:170007}"
         },
         "title": {
             "translate": "Use Wall Staff"

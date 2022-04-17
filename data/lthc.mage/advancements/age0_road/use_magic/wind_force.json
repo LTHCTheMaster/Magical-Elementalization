@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170022}"
+            "nbt": "{CustomModelData:170006}"
         },
         "title": {
             "translate": "Use Wind Force"

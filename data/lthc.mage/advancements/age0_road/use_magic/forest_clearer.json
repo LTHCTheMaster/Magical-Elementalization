@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170020}"
+            "nbt": "{CustomModelData:170004}"
         },
         "title": {
             "translate": "Use Forest Clearer"

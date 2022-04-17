@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170043}"
+            "nbt": "{CustomModelData:170012}"
         },
         "title": {
             "translate": "Use Burning Problem"

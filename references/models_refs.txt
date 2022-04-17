@@ -8,22 +8,22 @@ warped_fungus_on_a_stick:
     -------------------------------------------------------------------------------
     170003 : compact color spell
     -------------------------------------------------------------------------------
-    170020 : forest clearer
-    170021 : berserker staff
-    170022 : wind force
-    170023 : wall staff
-    170024 : oxyheal staff
-    170040 : life bring
-    170041 : sacrifices to trees
-    170042 : black hole
-    170043 : burning problem
+    170004 : forest clearer
+    170005 : berserker staff
+    170006 : wind force
+    170007 : wall staff
+    170008 : oxyheal staff
+    170009 : life bring
+    170010 : sacrifices to trees
+    170011 : black hole
+    170012 : burning problem
     -------------------------------------------------------------------------------
-    170100 : call of the dark magic
+    170013 : call of the dark magic
     -------------------------------------------------------------------------------
-    170101 : mental reader
+    170014 : mental reader
     -------------------------------------------------------------------------------
-    170110 : logical wand
-    170111 : paradoxal wand
+    170015 : logical wand
+    170016 : paradoxal wand
 
 apple:
     170000 : pills
@@ -39,26 +39,26 @@ command_block:
     170007 : phyto essence
     170008 : thermo essence
     -------------------------------------------------------------------------------
-    170010 : compact aero essence
-    170011 : compact celestial essence
-    170012 : compact color essence
-    170013 : compact end essence
-    170014 : compact fungus essence
-    170015 : compact gas essence
-    170016 : compact hydro essence
-    170017 : compact phyto essence
-    170018 : compact thermo essence
+    170009 : compact aero essence
+    170010 : compact celestial essence
+    170011 : compact color essence
+    170012 : compact end essence
+    170013 : compact fungus essence
+    170014 : compact gas essence
+    170015 : compact hydro essence
+    170016 : compact phyto essence
+    170017 : compact thermo essence
     -------------------------------------------------------------------------------
-    170020 : logical magic essence
-    170021 : paradoxal magic essence
+    170018 : logical magic essence
+    170019 : paradoxal magic essence
     -------------------------------------------------------------------------------
-    170030 : ritual core component
+    170020 : ritual core component
     -------------------------------------------------------------------------------
-    170031 : poison protect upgrade
-    170032 : fall protect upgrade
-    170033 : magical knight upgrade
-    170034 : creeper power upgrade
-    170035 : secret upgrade
+    170021 : poison protect upgrade
+    170022 : fall protect upgrade
+    170023 : magical knight upgrade
+    170024 : creeper power upgrade
+    170025 : secret upgrade
 
 iron_axe:
     170000 : mangrove axe

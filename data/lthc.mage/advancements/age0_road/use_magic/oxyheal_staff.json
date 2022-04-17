@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170024}"
+            "nbt": "{CustomModelData:170008}"
         },
         "title": {
             "translate": "Use OxyHeal Staff"

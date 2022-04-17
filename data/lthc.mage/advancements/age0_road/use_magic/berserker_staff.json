@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170021}"
+            "nbt": "{CustomModelData:170005}"
         },
         "title": {
             "translate": "Use Berserker Staff"

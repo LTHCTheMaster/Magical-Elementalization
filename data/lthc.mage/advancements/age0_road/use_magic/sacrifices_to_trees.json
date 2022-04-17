@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170041}"
+            "nbt": "{CustomModelData:170010}"
         },
         "title": {
             "translate": "Use Sacrifices to Trees"

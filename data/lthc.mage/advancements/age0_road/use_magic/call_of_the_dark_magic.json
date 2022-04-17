@@ -2,7 +2,7 @@
     "display": {
         "icon": {
             "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170100}"
+            "nbt": "{CustomModelData:170013}"
         },
         "title": {
             "translate": "Use Call of the Dark Magic"
