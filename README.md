@@ -68,3 +68,57 @@ Also thanks to <a href="https://github.com/Stoupy51">Stoupy51</a> for helping me
 <a href = "https://github.com/LTHCTheMaster/Magical-Elementalization/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=LTHCTheMaster/Magical-Elementalization"/>
 </a>
+
+## Releases History
+
+### 1.0 Beta **Mage Of LTHC** (old name)
+
+### 1.0 Beta 2 **Magical Elementalization**
+
+Renaming from Mage of LTHC to Magical Elementalization
+
+Add a lot of things, add sounds, optimize a lot of things
+
+### 1.0 Magical Elementalization
+
+Magical Elementalization 1.0:
+- 1.0 Beta Ended
+- 8 New Spells
+- 1 New Boss
+- Some Fix
+- Some Optimization
+- Full Wiki: https://magical-elementalization.fandom.com/wiki/Magical_Elementalization_Wiki
+
+### 1.0.1 Magical Elementalization - Magical Trader Fix
+
+- Magical Trader Fix
+
+### 1.1 Magical Elementalization ("Major Optimization Version")
+
+News:
+- Logical Magic and Paradoxal Magic essences and wands
+- Crafting codex
+- First Ritual: Mining Ritual
+
+Changes:
+- A lot of Optimization ( Big thanks to @Stoupy51 )
+- Some changes on the spawning of the Elementalized Boss
+- Fixes (a lot)
+
+Removes:
+- Crafting Recipes Advancements for listing the recipes
+
+### 1.2 Magical Elementalization - Rituals and Mental State/Health Update
+
+News:
+- Three new Rituals
+- Mental State/Health Update, "don't forget your pills"
+- Pills Added, you can use these pills to upgrade your Mental Health to the Very Good point
+- A Secret
+
+Changes:
+- Some Optimization
+- Some Fix
+
+Removes:
+- No Removes :)
