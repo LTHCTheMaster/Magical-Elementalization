@@ -1,22 +1,22 @@
 ## Craft checking (7 craft)
 
 # Save the data
-data modify storage lthc.mage:main Item set from entity @s Item.tag.ctc.traits
+data modify storage lthc.mage:main CraftingItem set from entity @s Item.tag.ctc.traits
 
 # Logical Wand craft checking
-execute if data storage lthc.mage:main Item.logical_magic run function lthc.mage:craft/check/logical_wand
+execute if data storage lthc.mage:main CraftingItem.logical_magic run function lthc.mage:craft/check/logical_wand
 
 # Paradoxal Wand craft checking
-execute if data storage lthc.mage:main Item.paradoxal_magic run function lthc.mage:craft/check/paradoxal_wand
+execute if data storage lthc.mage:main CraftingItem.paradoxal_magic run function lthc.mage:craft/check/paradoxal_wand
 
 # Ritual Core Component craft checking
-execute if data storage lthc.mage:main Item."magic/collector/pylon" run function lthc.mage:craft/check/ritual_core_component
+execute if data storage lthc.mage:main CraftingItem."magic/collector/pylon" run function lthc.mage:craft/check/ritual_core_component
 
 # Ritual Core Component Cored craft checking
-execute if data storage lthc.mage:main Item.ritual_core_component run function #lthc.mage:crafts_sub_groups/ritual_core_component
+execute if data storage lthc.mage:main CraftingItem.ritual_core_component run function #lthc.mage:crafts_sub_groups/ritual_core_component
 
 # MultiFarm Ritual MK1 craft checking
-execute if data storage lthc.mage:main Item.mining_ritual run function lthc.mage:craft/check/multi_farm_ritual_mk1
+execute if data storage lthc.mage:main CraftingItem.mining_ritual run function lthc.mage:craft/check/multi_farm_ritual_mk1
 
 # MultiFarm Ritual MK2 craft checking
-execute if data storage lthc.mage:main Item.mfrmk1 run function lthc.mage:craft/check/multi_farm_ritual_mk2
+execute if data storage lthc.mage:main CraftingItem.mfrmk1 run function lthc.mage:craft/check/multi_farm_ritual_mk2
