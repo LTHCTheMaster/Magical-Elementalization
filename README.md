@@ -21,7 +21,7 @@ This datapack add content based on magic essences (based on biomes).
 - Generators for Magical Essences (Pylons)
 - Capacitors
 - Rituals
-- Custom Sounds
+- <a href="./Resourcespack/assets/lthc.mage/sounds">Custom Sounds</a>
 - Translations
 - Mental State/Health System
 
