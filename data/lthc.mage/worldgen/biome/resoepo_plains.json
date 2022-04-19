@@ -1,0 +1,22 @@
+{
+    "temperature": 0.8,
+    "downfall": 0.4,
+    "precipitation": "none",
+    "temperature_modifier": "none",
+    "category": "nether",
+    "effects": {
+      "sky_color": 5214168,
+      "fog_color": 6888951,
+      "water_color": 4159204,
+      "water_fog_color": 329011,
+      "grass_color": 4031360,
+      "foliage_color": 4031360
+    },
+    "spawners": {},
+    "spawn_costs": {},
+    "carvers": {
+      "air": "minecraft:nether_cave"
+    },
+    "features": []
+  }
+  
