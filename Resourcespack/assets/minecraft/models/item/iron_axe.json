@@ -1,11 +1,11 @@
 {
-  "parent": "minecraft:item/handheld",
-  
-  "textures": {
-    "layer0": "minecraft:item/iron_axe"
-  },
+"parent":"minecraft:item/handheld",
 
-  "overrides": [
-    {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:boss_item/mangrove_axe"}
-  ]
+"textures":{
+"layer0":"minecraft:item/iron_axe"
+},
+
+"overrides":[
+{"predicate":{"custom_model_data":170000},"model":"lthc.mage:boss_item/mangrove_axe"}
+]
 }

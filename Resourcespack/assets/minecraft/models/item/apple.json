@@ -1,11 +1,11 @@
 {
-    "parent": "minecraft:item/generated",
+"parent":"minecraft:item/generated",
 
-    "textures": {
-      "layer0": "minecraft:item/apple"
-    },
+"textures":{
+"layer0":"minecraft:item/apple"
+},
 
-  "overrides": [
-    {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:mental_state/pills"}
-  ]
+"overrides":[
+{"predicate":{"custom_model_data":170000},"model":"lthc.mage:mental_state/pills"}
+]
 }

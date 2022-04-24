@@ -1,26 +1,26 @@
 {
-    "parent": "item/handheld_rod",
-    
-    "textures": {
-        "layer0": "item/warped_fungus_on_a_stick"
-    },
-    "overrides": [
-		{"predicate":{"custom_model_data":170000},"model":"lthc.mage:wands/mage_wand"},
-		{"predicate":{"custom_model_data":170001},"model":"lthc.mage:wands/color_wand"},
-        {"predicate":{"custom_model_data":170002},"model":"lthc.mage:wands/teleport_wand"},
-        {"predicate":{"custom_model_data":170003},"model":"lthc.mage:compact_spells/compact_color"},
-        {"predicate":{"custom_model_data":170004},"model":"lthc.mage:wands/forest_clearer"},
-        {"predicate":{"custom_model_data":170005},"model":"lthc.mage:wands/berserker_staff"},
-        {"predicate":{"custom_model_data":170006},"model":"lthc.mage:wands/wind_force"},
-        {"predicate":{"custom_model_data":170007},"model":"lthc.mage:wands/wall_staff"},
-        {"predicate":{"custom_model_data":170008},"model":"lthc.mage:wands/oxyheal_staff"},
-        {"predicate":{"custom_model_data":170009},"model":"lthc.mage:wands/life_bring"},
-        {"predicate":{"custom_model_data":170010},"model":"lthc.mage:wands/sacrifices_to_trees"},
-        {"predicate":{"custom_model_data":170011},"model":"lthc.mage:wands/black_hole"},
-        {"predicate":{"custom_model_data":170012},"model":"lthc.mage:wands/burning_problem"},
-        {"predicate":{"custom_model_data":170013},"model":"lthc.mage:wands/call_of_the_dark_magic"},
-        {"predicate":{"custom_model_data":170014},"model":"lthc.mage:mental_state/mental_reader"},
-        {"predicate":{"custom_model_data":170015},"model":"lthc.mage:wands/logical_wand"},
-        {"predicate":{"custom_model_data":170016},"model":"lthc.mage:wands/paradoxal_wand"}
-	]
+"parent":"item/handheld_rod",
+
+"textures":{
+"layer0":"item/warped_fungus_on_a_stick"
+},
+"overrides":[
+{"predicate":{"custom_model_data":170000},"model":"lthc.mage:wands/mage_wand"},
+{"predicate":{"custom_model_data":170001},"model":"lthc.mage:wands/color_wand"},
+{"predicate":{"custom_model_data":170002},"model":"lthc.mage:wands/teleport_wand"},
+{"predicate":{"custom_model_data":170003},"model":"lthc.mage:compact_spells/compact_color"},
+{"predicate":{"custom_model_data":170004},"model":"lthc.mage:wands/forest_clearer"},
+{"predicate":{"custom_model_data":170005},"model":"lthc.mage:wands/berserker_staff"},
+{"predicate":{"custom_model_data":170006},"model":"lthc.mage:wands/wind_force"},
+{"predicate":{"custom_model_data":170007},"model":"lthc.mage:wands/wall_staff"},
+{"predicate":{"custom_model_data":170008},"model":"lthc.mage:wands/oxyheal_staff"},
+{"predicate":{"custom_model_data":170009},"model":"lthc.mage:wands/life_bring"},
+{"predicate":{"custom_model_data":170010},"model":"lthc.mage:wands/sacrifices_to_trees"},
+{"predicate":{"custom_model_data":170011},"model":"lthc.mage:wands/black_hole"},
+{"predicate":{"custom_model_data":170012},"model":"lthc.mage:wands/burning_problem"},
+{"predicate":{"custom_model_data":170013},"model":"lthc.mage:wands/call_of_the_dark_magic"},
+{"predicate":{"custom_model_data":170014},"model":"lthc.mage:mental_state/mental_reader"},
+{"predicate":{"custom_model_data":170015},"model":"lthc.mage:wands/logical_wand"},
+{"predicate":{"custom_model_data":170016},"model":"lthc.mage:wands/paradoxal_wand"}
+]
 }

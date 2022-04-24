@@ -1,23 +1,23 @@
 {
-    "parent": "minecraft:item/generated",
-    
-    "textures": {
-      "layer0": "minecraft:item/glow_item_frame"
-    },
-  
-    "overrides": [
-          {"predicate": {"custom_model_data":170000}, "model": "lthc.mage:pylons/basic/acacia"},
-          {"predicate": {"custom_model_data":170001}, "model": "lthc.mage:pylons/basic/birch"},
-          {"predicate": {"custom_model_data":170002}, "model": "lthc.mage:pylons/basic/crimson"},
-          {"predicate": {"custom_model_data":170003}, "model": "lthc.mage:pylons/basic/dark_oak"},
-          {"predicate": {"custom_model_data":170004}, "model": "lthc.mage:pylons/basic/jungle"},
-          {"predicate": {"custom_model_data":170005}, "model": "lthc.mage:pylons/basic/oak"},
-          {"predicate": {"custom_model_data":170006}, "model": "lthc.mage:pylons/basic/spruce"},
-          {"predicate": {"custom_model_data":170007}, "model": "lthc.mage:pylons/basic/warped"},
-          {"predicate": {"custom_model_data":170009}, "model": "lthc.mage:capacitors/capacitor"},
-          {"predicate": {"custom_model_data":170010}, "model": "lthc.mage:ritual_core/mining_ritual"},
-          {"predicate": {"custom_model_data":170011}, "model": "lthc.mage:ritual_core/chopping_ritual"},
-          {"predicate": {"custom_model_data":170012}, "model": "lthc.mage:ritual_core/multifarm_ritual_mk1"},
-          {"predicate": {"custom_model_data":170013}, "model": "lthc.mage:ritual_core/multifarm_ritual_mk2"}
-    ]
+"parent":"minecraft:item/generated",
+
+"textures":{
+"layer0":"minecraft:item/glow_item_frame"
+},
+
+"overrides":[
+{"predicate":{"custom_model_data":170000},"model":"lthc.mage:pylons/basic/acacia"},
+{"predicate":{"custom_model_data":170001},"model":"lthc.mage:pylons/basic/birch"},
+{"predicate":{"custom_model_data":170002},"model":"lthc.mage:pylons/basic/crimson"},
+{"predicate":{"custom_model_data":170003},"model":"lthc.mage:pylons/basic/dark_oak"},
+{"predicate":{"custom_model_data":170004},"model":"lthc.mage:pylons/basic/jungle"},
+{"predicate":{"custom_model_data":170005},"model":"lthc.mage:pylons/basic/oak"},
+{"predicate":{"custom_model_data":170006},"model":"lthc.mage:pylons/basic/spruce"},
+{"predicate":{"custom_model_data":170007},"model":"lthc.mage:pylons/basic/warped"},
+{"predicate":{"custom_model_data":170009},"model":"lthc.mage:capacitors/capacitor"},
+{"predicate":{"custom_model_data":170010},"model":"lthc.mage:ritual_core/mining_ritual"},
+{"predicate":{"custom_model_data":170011},"model":"lthc.mage:ritual_core/chopping_ritual"},
+{"predicate":{"custom_model_data":170012},"model":"lthc.mage:ritual_core/multifarm_ritual_mk1"},
+{"predicate":{"custom_model_data":170013},"model":"lthc.mage:ritual_core/multifarm_ritual_mk2"}
+]
 }
