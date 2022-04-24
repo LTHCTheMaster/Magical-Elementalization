@@ -69,6 +69,10 @@ Also thanks to <a href="https://github.com/Stoupy51">Stoupy51</a> for helping me
   <img src = "https://contrib.rocks/image?repo=LTHCTheMaster/Magical-Elementalization"/>
 </a>
 
+## Direct Resources Pack Link
+
+<a href="https://github.com/LTHCTheMaster/Magical-Elementalization/raw/Dev/magical_elementalization_rp.zip">https://github.com/LTHCTheMaster/Magical-Elementalization/raw/Dev/magical_elementalization_rp.zip</a>
+
 ## Releases History
 
 ### 1.0 Beta **Mage Of LTHC** (old name)
@@ -108,7 +112,7 @@ Changes:
 Removes:
 - Crafting Recipes Advancements for listing the recipes
 
-### 1.2 Magical Elementalization - Rituals and Mental State/Health Update
+### 1.3 Magical Elementalization - Rituals and Mental State/Health Update
 
 News:
 - Three new Rituals
