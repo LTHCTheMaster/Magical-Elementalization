@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "lthc.mage:wands/berserker_staff"
-	}
-}
+{"parent":"item/handheld_rod","textures":{"layer0":"lthc.mage:wands/berserker_staff"}}

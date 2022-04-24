@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "lthc.mage:wands/call_of_the_dark_magic"
-	}
-}
+{"parent":"item/handheld_rod","textures":{"layer0":"lthc.mage:wands/call_of_the_dark_magic"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-	"textures": {
-		"layer0": "lthc.mage:compact_spells/compact_color"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"lthc.mage:compact_spells/compact_color"}}

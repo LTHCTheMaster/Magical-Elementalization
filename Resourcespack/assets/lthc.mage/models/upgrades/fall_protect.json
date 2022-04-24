@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-	"textures": {
-		"layer0": "lthc.mage:upgrades/fall_protect"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"lthc.mage:upgrades/fall_protect"}}

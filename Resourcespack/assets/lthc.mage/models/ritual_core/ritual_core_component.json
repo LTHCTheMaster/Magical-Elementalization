@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "lthc.mage:ritual_core/ritual_core_component"
-    }
-  }
+{"parent":"minecraft:item/generated","textures":{"layer0":"lthc.mage:ritual_core/ritual_core_component"}}

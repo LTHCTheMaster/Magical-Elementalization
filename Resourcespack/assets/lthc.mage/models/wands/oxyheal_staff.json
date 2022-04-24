@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "lthc.mage:wands/oxyheal_staff"
-	}
-}
+{"parent":"item/handheld_rod","textures":{"layer0":"lthc.mage:wands/oxyheal_staff"}}

@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "lthc.mage:wands/sacrifices_to_trees"
-	}
-}
+{"parent":"item/handheld_rod","textures":{"layer0":"lthc.mage:wands/sacrifices_to_trees"}}

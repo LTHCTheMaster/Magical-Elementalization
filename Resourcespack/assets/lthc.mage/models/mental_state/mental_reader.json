@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "lthc.mage:mental_state/mental_reader"
-	}
-}
+{"parent":"item/handheld_rod","textures":{"layer0":"lthc.mage:mental_state/mental_reader"}}

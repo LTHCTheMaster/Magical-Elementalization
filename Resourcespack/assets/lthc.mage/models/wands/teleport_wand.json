@@ -1,6 +1,1 @@
-{
-    "parent": "item/handheld_rod",
-	"textures": {
-		"layer0": "lthc.mage:wands/teleport_wand"
-	}
-}
+{"parent":"item/handheld_rod","textures":{"layer0":"lthc.mage:wands/teleport_wand"}}
