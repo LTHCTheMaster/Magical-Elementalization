@@ -22,6 +22,10 @@
                                     "translate": "Can sometimes allow you to have more strength"
                                 },
                                 {
+                                    "translate": "Stand on an anvil, have the upgrade in offhand and a helmet in mainhand, and the magic power will be unleashed!",
+                                    "color": "white"
+                                },
+                                {
                                     "text": "Magical Elementalization",
                                     "color": "blue",
                                     "italic": true
