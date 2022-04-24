@@ -126,3 +126,14 @@ Changes:
 
 Removes:
 - No Removes :)
+
+### 1.4 Magical Elementalization - Upgrades and Resources Optimization Update
+
+News:
+- Upgrade system
+
+Changes:
+- Resources Pack optimization
+
+Removes:
+- No Removes :)
