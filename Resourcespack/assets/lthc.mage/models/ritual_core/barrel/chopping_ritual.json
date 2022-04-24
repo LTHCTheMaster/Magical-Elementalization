@@ -1,6 +1,1 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "lthc.mage:ritual_core/chopping_ritual"
-	}
-}
+{"parent":"block/cube_all","textures":{"1":"lthc.mage:maps/blocks_map"},"elements":[{"from":[0,0,0],"to":[16,16,16],"faces":{"north":{"uv":[12,0,13.333,1.333],"texture":"#1"},"east":{"uv":[12,0,13.333,1.333],"texture":"#1"},"south":{"uv":[12,0,13.333,1.333],"texture":"#1"},"west":{"uv":[12,0,13.333,1.333],"texture":"#1"},"up":{"uv":[12,0,13.333,1.333],"texture":"#1"},"down":{"uv":[12,0,13.333,1.333],"texture":"#1"}}}]}

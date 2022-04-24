@@ -1,6 +1,1 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "lthc.mage:capacitors/capacitor"
-	}
-}
+{"parent":"block/cube_all","textures":{"1":"lthc.mage:maps/blocks_map"},"elements":[{"from":[0,0,0],"to":[16,16,16],"faces":{"north":{"uv":[10.666,0,11.999,1.333],"texture":"#1"},"east":{"uv":[10.666,0,11.999,1.333],"texture":"#1"},"south":{"uv":[10.666,0,11.999,1.333],"texture":"#1"},"west":{"uv":[10.666,0,11.999,1.333],"texture":"#1"},"up":{"uv":[10.666,0,11.999,1.333],"texture":"#1"},"down":{"uv":[10.666,0,11.999,1.333],"texture":"#1"}}}]}
