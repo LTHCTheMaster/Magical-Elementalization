@@ -1,6 +1,1 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "lthc.mage:ritual_core/multifarm_ritual_mk2"
-	}
-}
+{"parent":"block/cube_all","textures":{"1":"lthc.mage:maps/blocks_map"},"elements":[{"from":[0,0,0],"to":[16,16,16],"faces":{"north":{"uv":[13.333,0,14.666,1.333],"texture":"#1"},"east":{"uv":[13.333,0,14.666,1.333],"texture":"#1"},"south":{"uv":[13.333,0,14.666,1.333],"texture":"#1"},"west":{"uv":[13.333,0,14.666,1.333],"texture":"#1"},"up":{"uv":[13.333,0,14.666,1.333],"texture":"#1"},"down":{"uv":[13.333,0,14.666,1.333],"texture":"#1"}}}]}
