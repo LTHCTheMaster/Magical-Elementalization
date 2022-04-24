@@ -112,7 +112,7 @@ Changes:
 Removes:
 - Crafting Recipes Advancements for listing the recipes
 
-### 1.3 Magical Elementalization - Rituals and Mental State/Health Update
+### 1.2 Magical Elementalization - Rituals and Mental State/Health Update
 
 News:
 - Three new Rituals
@@ -127,7 +127,7 @@ Changes:
 Removes:
 - No Removes :)
 
-### 1.4 Magical Elementalization - Upgrades and Resources Optimization Update
+### 1.3 Magical Elementalization - Upgrades and Resources Optimization Update
 
 News:
 - Upgrade system
