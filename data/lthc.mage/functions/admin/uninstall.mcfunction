@@ -8,6 +8,8 @@ scoreboard objectives remove lthc.mage.capacitor_interact_detect
 scoreboard objectives remove lthc.mage.mental_state
 scoreboard objectives remove lthc.mage.current_charged
 scoreboard objectives remove lthc.mage.data
+scoreboard objectives remove lthc.mage.info
+scoreboard objectives remove lthc.mage.secret
 
 # Clear from player custom items
 clear @a #lthc.mage:custom_items{lthc.mage.custom_items:1b}
