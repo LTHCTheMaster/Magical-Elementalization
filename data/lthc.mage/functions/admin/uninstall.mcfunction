@@ -18,6 +18,9 @@ clear @a #lthc.mage:custom_items{lthc.mage.custom_items:1b}
 execute as @e[type=glow_item_frame,tag=lthc.mage.destroyable] run setblock ~ ~ ~ air
 kill @e[type=glow_item_frame,tag=lthc.mage.destroyable]
 
+# Clear custom entities
+kill @e[type=#lthc.mage:valid_entities,tag=lthc.mage.entities]
+
 # Clear schedule
 schedule clear lthc.mage:loops/11ticks
 schedule clear lthc.mage:loops/8ticks

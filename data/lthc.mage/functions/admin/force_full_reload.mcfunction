@@ -18,3 +18,5 @@ schedule function lthc.mage:schedule 1t replace
 
 # Saves that the datapack was started/loaded
 scoreboard players set #lthc.mage.loaded lthc.mage.data 1
+
+function lthc.mage:loading/post_load

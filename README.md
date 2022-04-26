@@ -23,9 +23,11 @@ This datapack add content based on magic essences (based on biomes).
 - Generators for Magical Essences (Pylons)
 - Capacitors
 - Rituals
-- <a href="./Resourcespack/assets/lthc.mage/sounds">Custom Sounds</a>
-- <a href="./Resourcespack/assets/minecraft/lang">Translations</a>
+- <a href="./Resourcespack/assets/lthc.mage/sounds">🎶 Custom Sounds</a>
+- <a href="./Resourcespack/assets/minecraft/lang">📒 Translations</a>
 - Mental State/Health System
+- Upgrade System
+- <a href="#admin">⚙️ Admin Functions</a>
 
 ### 💽 Versions
 | ✅   | 1.18.2 |
@@ -72,6 +74,16 @@ Also thanks to <a href="https://github.com/Stoupy51">Stoupy51</a> for helping me
 ## Direct Resources Pack Link
 
 <a href="https://github.com/LTHCTheMaster/Magical-Elementalization/raw/Dev/magical_elementalization_rp.zip">https://github.com/LTHCTheMaster/Magical-Elementalization/raw/Dev/magical_elementalization_rp.zip</a>
+
+<div id="admin">
+
+## ⚙️ Admin Functions
+
+- Force a full reloading of functions: ``/function lthc.mage:admin/force_full_reload``
+- Have some stats on the current state of the datapack: ``/function lthc.mage:admin/stats``
+- Uninstall the datapack: ``/function lthc.mage:admin/uninstall``
+
+</div>
 
 ## Releases History
 
