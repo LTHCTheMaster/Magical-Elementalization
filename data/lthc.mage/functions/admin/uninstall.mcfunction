@@ -38,5 +38,6 @@ datapack disable "file/magical_elementalization_v1.3.zip"
 datapack disable "file/magical_elementalization_v1.3"
 datapack disable "file/magical_elementalization.zip"
 datapack disable "file/magical_elementalization"
+datapack disable "file/Magical-Elementalization"
 
 tellraw @a [{"text":"Magical Elementalization was succesfully unloaded and uninstalled", "color": "white"}]

@@ -1,4 +1,4 @@
-function give:lthc.mage/lthc.mage.book
+function give:lthc.mage/book
 
 ## Mental purity/illness Data definition
 # Default Mental State : 300
