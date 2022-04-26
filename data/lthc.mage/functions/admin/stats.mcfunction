@@ -15,3 +15,6 @@ scoreboard players operation #lthc.mage.temp lthc.mage.current_charged -= #lthc.
 tellraw @s ["",{"text":"Blocks/Rituals: ","color":"gray"},{"score":{"name":"#temp","objective":"lthc.mage.data"},"color":"blue"}]
 
 tellraw @s ["",{"text":"Blocks/Other: ","color":"gray"},{"score":{"name":"#temp","objective":"lthc.mage.current_charged"},"color":"blue"}]
+
+execute store result score #lthc.mage.temp lthc.mage.data if entity @e[type=#lthc.mage:valid_entities,tag=lthc.mage.entities]
+tellraw @s ["",{"text":"Entities: ","color":"gray"},{"score":{"name":"#temp","objective":"lthc.mage.data"},"color":"gold"}]
