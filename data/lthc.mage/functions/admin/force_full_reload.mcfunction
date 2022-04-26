@@ -20,3 +20,5 @@ schedule function lthc.mage:schedule 1t replace
 scoreboard players set #lthc.mage.loaded lthc.mage.data 1
 
 function lthc.mage:loading/post_load
+
+playsound ui.button.click master @s ~ ~ ~ 1.0 1.0 1.0

@@ -18,3 +18,5 @@ tellraw @s ["",{"text":"Blocks/Other: ","color":"gray"},{"score":{"name":"#temp"
 
 execute store result score #lthc.mage.temp lthc.mage.data if entity @e[type=#lthc.mage:valid_entities,tag=lthc.mage.entities]
 tellraw @s ["",{"text":"Entities: ","color":"gray"},{"score":{"name":"#temp","objective":"lthc.mage.data"},"color":"gold"}]
+
+playsound ui.button.click master @s ~ ~ ~ 1.0 1.0 1.0
