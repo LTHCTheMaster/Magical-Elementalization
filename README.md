@@ -82,6 +82,7 @@ Also thanks to <a href="https://github.com/Stoupy51">Stoupy51</a> for helping me
 - Force a full reloading of functions: ``/function lthc.mage:admin/force_full_reload``
 - Have some stats on the current state of the datapack: ``/function lthc.mage:admin/stats``
 - Uninstall the datapack: ``/function lthc.mage:admin/uninstall``
+- Open the "Admin Menu": ``/function lthc.mage:admin/menu``
 
 </div>
 
