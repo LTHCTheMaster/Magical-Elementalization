@@ -1,33 +1,33 @@
 {
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:command_block",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/essences\":1b, item:1b, compact_thermo:1b}, id: \"compact_thermo_essence\", from: \"lthc.mage\"}}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170017,display: {Name:'{\"translate\": \"Compact Thermo Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                            "function": "set_lore",
-                            "lore": [
-                                {
-                                    "text": "Magical Elementalization",
-                                    "color": "blue",
-                                    "italic": true
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:command_block",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag" : "{ctc: {traits: {\"magic/essences\":1b, item:1b, compact_thermo:1b}, id: \"compact_thermo_essence\", from: \"lthc.mage\"}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{lthc.mage.custom_items:1b,CustomModelData: 170017,display: {Name:'{\"translate\": \"Compact Thermo Essence\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								{
+									"text": "Magical Elementalization",
+									"color": "blue",
+									"italic": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }

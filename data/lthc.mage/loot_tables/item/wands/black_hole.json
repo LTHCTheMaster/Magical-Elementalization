@@ -1,37 +1,37 @@
 {
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:warped_fungus_on_a_stick",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"black_hole\", from: \"lthc.mage\"}}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.all_durability:1b,CustomModelData: 170011,display: {Name:'{\"translate\": \"Black Hole\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                            "function": "set_lore",
-                            "lore": [
-                                " ",
-                                {"translate":"click and also have compact end essence in offhand to call the black hole's power"},
-                                " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue013", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
-                                {
-                                    "text": "Magical Elementalization",
-                                    "color": "blue",
-                                    "italic": true
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:warped_fungus_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"black_hole\", from: \"lthc.mage\"}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{lthc.mage.custom_items:1b,lthc.mage.all_durability:1b,CustomModelData: 170011,display: {Name:'{\"translate\": \"Black Hole\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								" ",
+								{"translate":"click and also have compact end essence in offhand to call the black hole's power"},
+								" ",
+								{"text": "\u0020\u0020\u0020\u0020\u0020\ue013", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								{
+									"text": "Magical Elementalization",
+									"color": "blue",
+									"italic": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }

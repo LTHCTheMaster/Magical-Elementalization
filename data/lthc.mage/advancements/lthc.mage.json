@@ -1,24 +1,24 @@
 {
-    "display": {
-        "title": {
-            "text": "Magical Elementalization",
-            "color": "#DDEEFF"
-        },
-        "description": {
-            "translate": "v1.3.0",
-            "color": "#DDEEFF"
-        },
-        "icon": {
-            "item": "warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170000}"
-        },
-        "announce_to_chat": false,
-        "show_toast": false
-    },
-    "parent": "global:lthcthemaster",
-    "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
-        }
-    }
+	"display": {
+		"title": {
+			"text": "Magical Elementalization",
+			"color": "#DDEEFF"
+		},
+		"description": {
+			"translate": "v1.3.0",
+			"color": "#DDEEFF"
+		},
+		"icon": {
+			"item": "warped_fungus_on_a_stick",
+			"nbt": "{CustomModelData:170000}"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "global:lthcthemaster",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
 }

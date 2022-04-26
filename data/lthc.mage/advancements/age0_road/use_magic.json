@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170000}"
-        },
-        "title": {
-            "translate": "Use Magic"
-        },
-        "description": "",
-        "show_toast": false,
-        "announce_to_chat": false,
-        "hidden": false
-    },
-    "criteria": {
-        "auto":{
-            "trigger": "tick"
-        }
-    },
-    "parent": "lthc.mage:age0_road/lthc.mage"
+	"display": {
+		"icon": {
+			"item": "minecraft:warped_fungus_on_a_stick",
+			"nbt": "{CustomModelData:170000}"
+		},
+		"title": {
+			"translate": "Use Magic"
+		},
+		"description": "",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"auto":{
+			"trigger": "tick"
+		}
+	},
+	"parent": "lthc.mage:age0_road/lthc.mage"
 }

@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170013}"
-        },
-        "title": {
-            "translate": "Use Call of the Dark Magic"
-        },
-        "description": "",
-        "show_toast": true,
-        "announce_to_chat": true,
-        "hidden": false
-    },
-    "criteria": {
-        "auto":{
-            "trigger": "impossible"
-        }
-    },
-    "parent": "lthc.mage:age0_road/sub_parts/unsafe_power"
+	"display": {
+		"icon": {
+			"item": "minecraft:warped_fungus_on_a_stick",
+			"nbt": "{CustomModelData:170013}"
+		},
+		"title": {
+			"translate": "Use Call of the Dark Magic"
+		},
+		"description": "",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"auto":{
+			"trigger": "impossible"
+		}
+	},
+	"parent": "lthc.mage:age0_road/sub_parts/unsafe_power"
 }

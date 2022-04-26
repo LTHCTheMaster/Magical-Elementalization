@@ -1,37 +1,37 @@
 {
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:warped_fungus_on_a_stick",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"call_of_the_dark_magic\", from: \"lthc.mage\"}}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170013,display: {Name:'{\"translate\": \"Call of the Dark Magic\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                            "function": "set_lore",
-                            "lore": [
-                                " ",
-                                {"translate":"click and also have compact fungus essence in offhand to use a strange dark power"},
-                                " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue014", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
-                                {
-                                    "text": "Magical Elementalization",
-                                    "color": "blue",
-                                    "italic": true
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:warped_fungus_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"call_of_the_dark_magic\", from: \"lthc.mage\"}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{lthc.mage.custom_items:1b,CustomModelData: 170013,display: {Name:'{\"translate\": \"Call of the Dark Magic\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								" ",
+								{"translate":"click and also have compact fungus essence in offhand to use a strange dark power"},
+								" ",
+								{"text": "\u0020\u0020\u0020\u0020\u0020\ue014", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								{
+									"text": "Magical Elementalization",
+									"color": "blue",
+									"italic": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }

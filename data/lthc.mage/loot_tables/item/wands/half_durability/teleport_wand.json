@@ -1,37 +1,37 @@
 {
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:warped_fungus_on_a_stick",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"teleport_wand\", from: \"lthc.mage\"}}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.half_durability:1b,CustomModelData: 170002,display: {Name:'{\"translate\": \"Teleport Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                            "function": "set_lore",
-                            "lore": [
-                                " ",
-                                {"translate":"click and also have hydro essence in offhand to teleport yourself further."},
-                                " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue006", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
-                                {
-                                    "text": "Magical Elementalization",
-                                    "color": "blue",
-                                    "italic": true
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:warped_fungus_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"teleport_wand\", from: \"lthc.mage\"}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{lthc.mage.custom_items:1b,lthc.mage.half_durability:1b,CustomModelData: 170002,display: {Name:'{\"translate\": \"Teleport Wand\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								" ",
+								{"translate":"click and also have hydro essence in offhand to teleport yourself further."},
+								" ",
+								{"text": "\u0020\u0020\u0020\u0020\u0020\ue006", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								{
+									"text": "Magical Elementalization",
+									"color": "blue",
+									"italic": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }

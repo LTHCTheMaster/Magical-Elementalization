@@ -1,33 +1,33 @@
 {
-    "condition": "alternative",
-    "terms": [
-        {
-            "condition": "entity_properties",
-            "entity": "this",
-            "predicate": {
-                "equipment": {
-                    "mainhand": {
-                        "items": [
-                            "warped_fungus_on_a_stick"
-                        ],
-                        "nbt": "{ctc: {id: \"compact_color_spells\", from: \"lthc.mage\"}}"
-                    }
-                }
-            }
-        },
-        {
-            "condition": "entity_properties",
-            "entity": "this",
-            "predicate": {
-                "equipment": {
-                    "offhand": {
-                        "items": [
-                            "warped_fungus_on_a_stick"
-                        ],
-                        "nbt": "{ctc: {id: \"compact_color_spells\", from: \"lthc.mage\"}}"
-                    }
-                }
-            }
-        }
-    ]
+	"condition": "alternative",
+	"terms": [
+		{
+			"condition": "entity_properties",
+			"entity": "this",
+			"predicate": {
+				"equipment": {
+					"mainhand": {
+						"items": [
+							"warped_fungus_on_a_stick"
+						],
+						"nbt": "{ctc: {id: \"compact_color_spells\", from: \"lthc.mage\"}}"
+					}
+				}
+			}
+		},
+		{
+			"condition": "entity_properties",
+			"entity": "this",
+			"predicate": {
+				"equipment": {
+					"offhand": {
+						"items": [
+							"warped_fungus_on_a_stick"
+						],
+						"nbt": "{ctc: {id: \"compact_color_spells\", from: \"lthc.mage\"}}"
+					}
+				}
+			}
+		}
+	]
 }

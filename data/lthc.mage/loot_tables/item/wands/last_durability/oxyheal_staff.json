@@ -1,37 +1,37 @@
 {
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:warped_fungus_on_a_stick",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"oxyheal_staff\", from: \"lthc.mage\"}}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,lthc.mage.last_durability:1b,CustomModelData: 170008,display: {Name:'{\"translate\": \"OxyHeal Staff\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                            "function": "set_lore",
-                            "lore": [
-                                " ",
-                                {"translate":"click and also have gas essence in offhand to heal yourself"},
-                                " ",
-                                {"text": "\u0020\u0020\u0020\u0020\u0020\ue005", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
-                                {
-                                    "text": "Magical Elementalization",
-                                    "color": "blue",
-                                    "italic": true
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:warped_fungus_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"oxyheal_staff\", from: \"lthc.mage\"}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{lthc.mage.custom_items:1b,lthc.mage.last_durability:1b,CustomModelData: 170008,display: {Name:'{\"translate\": \"OxyHeal Staff\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								" ",
+								{"translate":"click and also have gas essence in offhand to heal yourself"},
+								" ",
+								{"text": "\u0020\u0020\u0020\u0020\u0020\ue005", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								{
+									"text": "Magical Elementalization",
+									"color": "blue",
+									"italic": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }

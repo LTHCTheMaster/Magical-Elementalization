@@ -1,137 +1,137 @@
 {
-    "condition": "alternative",
-    "terms": [
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "desert"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "badlands"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "eroded_badlands"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "wooded_badlands"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "savanna"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "savanna_plateau"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "windswept_savanna"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:cave/thermal_caves"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:cave/desert_caves"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:ancient_sands"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:arid_highlands"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:ashen_savanna"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:desert_oasis"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:desert_spires"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:gravel_desert"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:hot_shrubland"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:savanna_badlands"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:savanna_slopes"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:volcanic_crater"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:volcanic_peaks"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:warped_mesa"
-            }
-        },
-        {
-            "condition": "location_check",
-            "predicate": {
-                "biome": "terralith:white_mesa"
-            }
-        }
-    ]
+	"condition": "alternative",
+	"terms": [
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "desert"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "badlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "eroded_badlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wooded_badlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "savanna"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "savanna_plateau"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "windswept_savanna"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:cave/thermal_caves"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:cave/desert_caves"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:ancient_sands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:arid_highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:ashen_savanna"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:desert_oasis"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:desert_spires"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:gravel_desert"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:hot_shrubland"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:savanna_badlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:savanna_slopes"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:volcanic_crater"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:volcanic_peaks"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:warped_mesa"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:white_mesa"
+			}
+		}
+	]
 }

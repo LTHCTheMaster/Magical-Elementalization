@@ -1,51 +1,51 @@
 [
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "predicate": {
-            "block": {
-                "tag": "anvil"
-            }
-        }
-    },
-    {
-        "condition": "entity_properties",
-        "entity": "this",
-        "predicate": {
-            "equipment": {
-                "mainhand": {
-                    "tag": "lthc.mage:helmets"
-                }
-            }
-        }
-    },
-    {
-        "condition": "inverted",
-        "term": {
-            "condition": "entity_properties",
-            "entity": "this",
-            "predicate": {
-                "equipment": {
-                    "mainhand": {
-                        "tag": "lthc.mage:helmets",
-                        "nbt": "{ctc: {traits: {\"magic/magically_upgraded\": 1b}}}"
-                    }
-                }
-            }
-        }
-    },
-    {
-        "condition": "entity_properties",
-        "entity": "this",
-        "predicate": {
-            "equipment": {
-                "offhand": {
-                    "items": [
-                        "command_block"
-                    ],
-                    "nbt": "{ctc: {traits: {\"magic/upgrade\":1b}, from: \"lthc.mage\"}}"
-                }
-            }
-        }
-    }
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"predicate": {
+			"block": {
+				"tag": "anvil"
+			}
+		}
+	},
+	{
+		"condition": "entity_properties",
+		"entity": "this",
+		"predicate": {
+			"equipment": {
+				"mainhand": {
+					"tag": "lthc.mage:helmets"
+				}
+			}
+		}
+	},
+	{
+		"condition": "inverted",
+		"term": {
+			"condition": "entity_properties",
+			"entity": "this",
+			"predicate": {
+				"equipment": {
+					"mainhand": {
+						"tag": "lthc.mage:helmets",
+						"nbt": "{ctc: {traits: {\"magic/magically_upgraded\": 1b}}}"
+					}
+				}
+			}
+		}
+	},
+	{
+		"condition": "entity_properties",
+		"entity": "this",
+		"predicate": {
+			"equipment": {
+				"offhand": {
+					"items": [
+						"command_block"
+					],
+					"nbt": "{ctc: {traits: {\"magic/upgrade\":1b}, from: \"lthc.mage\"}}"
+				}
+			}
+		}
+	}
 ]

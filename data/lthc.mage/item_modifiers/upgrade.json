@@ -1,14 +1,14 @@
 {
-    "function": "minecraft:copy_nbt",
-    "source": {
-        "type": "minecraft:storage",
-        "source": "lthc.mage:main"
-    },
-    "ops": [
-        {
-            "source": "ItemToUpgrade.tag",
-            "target": "{}",
-            "op": "merge"
-        }
-    ]
+	"function": "minecraft:copy_nbt",
+	"source": {
+		"type": "minecraft:storage",
+		"source": "lthc.mage:main"
+	},
+	"ops": [
+		{
+			"source": "ItemToUpgrade.tag",
+			"target": "{}",
+			"op": "merge"
+		}
+	]
 }

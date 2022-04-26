@@ -1,23 +1,23 @@
 {
-    "display": {
-        "title": {
-            "translate": "Magic",
-            "color": "#DDEEFF"
-        },
-        "description": {
-            "translate": "The most simple base is waiting Magical Trader",
-            "color": "#DDEEFF"
-        },
-        "icon": {
-            "item": "emerald"
-        },
-        "background": "lthc.mage:textures/advancements/background.png",
-        "announce_to_chat": false,
-        "show_toast": true
-    },
-    "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
-        }
-    }
+	"display": {
+		"title": {
+			"translate": "Magic",
+			"color": "#DDEEFF"
+		},
+		"description": {
+			"translate": "The most simple base is waiting Magical Trader",
+			"color": "#DDEEFF"
+		},
+		"icon": {
+			"item": "emerald"
+		},
+		"background": "lthc.mage:textures/advancements/background.png",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
 }

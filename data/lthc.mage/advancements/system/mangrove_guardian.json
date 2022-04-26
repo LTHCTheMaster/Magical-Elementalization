@@ -1,16 +1,16 @@
 {
-    "criteria": {
-        "unlock": {
-            "trigger": "player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:vindicator",
-                    "nbt": "{Tags:[\"lthc.mage.entities.mangrove_guardian\"]}"
-                }
-            }
-        }
-    },
-    "rewards": {
-        "function": "lthc.mage:entities/boss/mangrove_guardian_death"
-    }
+	"criteria": {
+		"unlock": {
+			"trigger": "player_killed_entity",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:vindicator",
+					"nbt": "{Tags:[\"lthc.mage.entities.mangrove_guardian\"]}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.mage:entities/boss/mangrove_guardian_death"
+	}
 }

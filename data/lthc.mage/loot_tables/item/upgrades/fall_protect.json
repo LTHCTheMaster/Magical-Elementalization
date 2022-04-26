@@ -1,40 +1,40 @@
 {
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:command_block",
-                    "functions": [
-                        {
-                            "function": "minecraft:set_nbt",
-                            "tag" : "{ctc: {traits: {\"magic/upgrade\":1b, \"armor/utils/upgrades\":1b, item:1b, fall_protect:1b}, id: \"fall_protect\", from: \"lthc.mage\"}}"
-                        },
-                        {
-                          "function": "minecraft:set_nbt",
-                          "tag": "{lthc.mage.custom_items:1b,CustomModelData: 170022,display: {Name:'{\"translate\": \"Fall Protect Upgrade\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-                        },
-                        {
-                            "function": "set_lore",
-                            "lore": [
-                                {
-                                    "translate": "Can sometimes save you from fall"
-                                },
-                                {
-                                    "translate": "Stand on an anvil, have the upgrade in offhand and a helmet in mainhand, and the magic power will be unleashed!",
-                                    "color": "white"
-                                },
-                                {
-                                    "text": "Magical Elementalization",
-                                    "color": "blue",
-                                    "italic": true
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }
-    ]
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:command_block",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag" : "{ctc: {traits: {\"magic/upgrade\":1b, \"armor/utils/upgrades\":1b, item:1b, fall_protect:1b}, id: \"fall_protect\", from: \"lthc.mage\"}}"
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{lthc.mage.custom_items:1b,CustomModelData: 170022,display: {Name:'{\"translate\": \"Fall Protect Upgrade\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								{
+									"translate": "Can sometimes save you from fall"
+								},
+								{
+									"translate": "Stand on an anvil, have the upgrade in offhand and a helmet in mainhand, and the magic power will be unleashed!",
+									"color": "white"
+								},
+								{
+									"text": "Magical Elementalization",
+									"color": "blue",
+									"italic": true
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
 }

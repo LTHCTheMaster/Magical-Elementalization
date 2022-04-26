@@ -1,45 +1,45 @@
 {
-    "temperature": 0.8,
-    "downfall": 0.4,
-    "precipitation": "none",
-    "temperature_modifier": "none",
-    "category": "plains",
-    "creature_spawn_probability": 0.2,
-    "effects": {
-      "sky_color": 3760812,
-      "fog_color": 14740735,
-      "water_color": 22015,
-      "water_fog_color": 102,
-      "grass_color": 2031360,
-      "foliage_color": 2031360
-    },
-    "spawners": {
-      "ambient": [
-        {
-          "type": "minecraft:cow",
-          "weight": 1,
-          "minCount": 1,
-          "maxCount": 6
-        },
-        {
-          "type": "minecraft:sheep",
-          "weight": 0,
-          "minCount": 1,
-          "maxCount": 6
-        }
-      ]
-    },
-    "spawn_costs": {},
-    "carvers": {
-      "air": [
-        "minecraft:nether_cave",
-        "minecraft:canyon"
-      ],
-      "liquid": [
-        "minecraft:cave_extra_underground",
-        "minecraft:cave"
-      ]
-    },
-    "features": []
-  }
-  
+	"temperature": 0.8,
+	"downfall": 0.4,
+	"precipitation": "none",
+	"temperature_modifier": "none",
+	"category": "plains",
+	"creature_spawn_probability": 0.2,
+	"effects": {
+		"sky_color": 3760812,
+		"fog_color": 14740735,
+		"water_color": 22015,
+		"water_fog_color": 102,
+		"grass_color": 2031360,
+		"foliage_color": 2031360
+	},
+	"spawners": {
+		"ambient": [
+		{
+			"type": "minecraft:cow",
+			"weight": 1,
+			"minCount": 1,
+			"maxCount": 6
+		},
+		{
+			"type": "minecraft:sheep",
+			"weight": 0,
+			"minCount": 1,
+			"maxCount": 6
+		}
+		]
+	},
+	"spawn_costs": {},
+	"carvers": {
+		"air": [
+		"minecraft:nether_cave",
+		"minecraft:canyon"
+		],
+		"liquid": [
+		"minecraft:cave_extra_underground",
+		"minecraft:cave"
+		]
+	},
+	"features": []
+	}
+	

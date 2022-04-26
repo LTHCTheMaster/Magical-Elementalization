@@ -1,38 +1,38 @@
 {
-    "type": "minecraft:overworld",
-    "generator": {
-      "type": "minecraft:noise",
-      "seed": -763637338,
-      "settings": "minecraft:large_biomes",
-      "biome_source": {
-        "type": "minecraft:multi_noise",
-        "biomes": [
-          {
-            "biome": "lthc.mage:eoso_plains",
-            "parameters": {
-              "temperature": 0.5,
-              "humidity": 0.4,
-              "continentalness": 0.5,
-              "erosion": 0.5,
-              "weirdness": 0,
-              "depth": 0.5,
-              "offset": 0
-            }
-          },
-          {
-            "biome": "lthc.mage:resoepo_plains",
-            "parameters": {
-              "temperature": 0.5,
-              "humidity": 0.2,
-              "continentalness": 0.5,
-              "erosion": 0.5,
-              "weirdness": 0,
-              "depth": 0.5,
-              "offset": 0
-            }
-          }
-        ]
-      }
-    }
-  }
-  
+	"type": "minecraft:overworld",
+	"generator": {
+		"type": "minecraft:noise",
+		"seed": -763637338,
+		"settings": "minecraft:large_biomes",
+		"biome_source": {
+		"type": "minecraft:multi_noise",
+		"biomes": [
+			{
+			"biome": "lthc.mage:eoso_plains",
+			"parameters": {
+				"temperature": 0.5,
+				"humidity": 0.4,
+				"continentalness": 0.5,
+				"erosion": 0.5,
+				"weirdness": 0,
+				"depth": 0.5,
+				"offset": 0
+			}
+			},
+			{
+			"biome": "lthc.mage:resoepo_plains",
+			"parameters": {
+				"temperature": 0.5,
+				"humidity": 0.2,
+				"continentalness": 0.5,
+				"erosion": 0.5,
+				"weirdness": 0,
+				"depth": 0.5,
+				"offset": 0
+			}
+			}
+		]
+		}
+	}
+	}
+	

@@ -1,98 +1,98 @@
 Custom Items: 58
 
 warped_fungus_on_a_stick:
-    170000 : mage wand
-    -------------------------------------------------------------------------------
-    170001 : color wand
-    170002 : teleport wand
-    -------------------------------------------------------------------------------
-    170003 : compact color spell
-    -------------------------------------------------------------------------------
-    170004 : forest clearer
-    170005 : berserker staff
-    170006 : wind force
-    170007 : wall staff
-    170008 : oxyheal staff
-    170009 : life bring
-    170010 : sacrifices to trees
-    170011 : black hole
-    170012 : burning problem
-    -------------------------------------------------------------------------------
-    170013 : call of the dark magic
-    -------------------------------------------------------------------------------
-    170014 : mental reader
-    -------------------------------------------------------------------------------
-    170015 : logical wand
-    170016 : paradoxal wand
+	170000 : mage wand
+	-------------------------------------------------------------------------------
+	170001 : color wand
+	170002 : teleport wand
+	-------------------------------------------------------------------------------
+	170003 : compact color spell
+	-------------------------------------------------------------------------------
+	170004 : forest clearer
+	170005 : berserker staff
+	170006 : wind force
+	170007 : wall staff
+	170008 : oxyheal staff
+	170009 : life bring
+	170010 : sacrifices to trees
+	170011 : black hole
+	170012 : burning problem
+	-------------------------------------------------------------------------------
+	170013 : call of the dark magic
+	-------------------------------------------------------------------------------
+	170014 : mental reader
+	-------------------------------------------------------------------------------
+	170015 : logical wand
+	170016 : paradoxal wand
 
 apple:
-    170000 : pills
+	170000 : pills
 
 command_block:
-    170000 : aero essence
-    170001 : celestial essence
-    170002 : color essence
-    170003 : end essence
-    170004 : fungus essence
-    170005 : gas essence
-    170006 : hydro essence
-    170007 : phyto essence
-    170008 : thermo essence
-    -------------------------------------------------------------------------------
-    170009 : compact aero essence
-    170010 : compact celestial essence
-    170011 : compact color essence
-    170012 : compact end essence
-    170013 : compact fungus essence
-    170014 : compact gas essence
-    170015 : compact hydro essence
-    170016 : compact phyto essence
-    170017 : compact thermo essence
-    -------------------------------------------------------------------------------
-    170018 : logical magic essence
-    170019 : paradoxal magic essence
-    -------------------------------------------------------------------------------
-    170020 : ritual core component
-    -------------------------------------------------------------------------------
-    170021 : poison protect upgrade
-    170022 : fall protect upgrade
-    170023 : magical knight upgrade
-    170024 : creeper power upgrade
-    170025 : secret upgrade
+	170000 : aero essence
+	170001 : celestial essence
+	170002 : color essence
+	170003 : end essence
+	170004 : fungus essence
+	170005 : gas essence
+	170006 : hydro essence
+	170007 : phyto essence
+	170008 : thermo essence
+	-------------------------------------------------------------------------------
+	170009 : compact aero essence
+	170010 : compact celestial essence
+	170011 : compact color essence
+	170012 : compact end essence
+	170013 : compact fungus essence
+	170014 : compact gas essence
+	170015 : compact hydro essence
+	170016 : compact phyto essence
+	170017 : compact thermo essence
+	-------------------------------------------------------------------------------
+	170018 : logical magic essence
+	170019 : paradoxal magic essence
+	-------------------------------------------------------------------------------
+	170020 : ritual core component
+	-------------------------------------------------------------------------------
+	170021 : poison protect upgrade
+	170022 : fall protect upgrade
+	170023 : magical knight upgrade
+	170024 : creeper power upgrade
+	170025 : secret upgrade
 
 iron_axe:
-    170000 : mangrove axe
+	170000 : mangrove axe
 
 glow_item_frame:
-    170000 : acacia pylon
-    170001 : birch pylon
-    170002 : crimson pylon
-    170003 : dark oak pylon
-    170004 : jungle pylon
-    170005 : oak pylon
-    170006 : spruce pylon
-    170007 : warped pylon
-    -------------------------------------------------------------------------------
-    170009 : capacitor
-    -------------------------------------------------------------------------------
-    170010 : mining ritual
-    170011 : chopping ritual
-    170012 : multifarm ritual mk1
-    170013 : multifarm ritual mk2
+	170000 : acacia pylon
+	170001 : birch pylon
+	170002 : crimson pylon
+	170003 : dark oak pylon
+	170004 : jungle pylon
+	170005 : oak pylon
+	170006 : spruce pylon
+	170007 : warped pylon
+	-------------------------------------------------------------------------------
+	170009 : capacitor
+	-------------------------------------------------------------------------------
+	170010 : mining ritual
+	170011 : chopping ritual
+	170012 : multifarm ritual mk1
+	170013 : multifarm ritual mk2
 
 barrel:
-    170000 : acacia pylon
-    170001 : birch pylon
-    170002 : crimson pylon
-    170003 : dark oak pylon
-    170004 : jungle pylon
-    170005 : oak pylon
-    170006 : spruce pylon
-    170007 : warped pylon
-    -------------------------------------------------------------------------------
-    170009 : capacitor
-    -------------------------------------------------------------------------------
-    170010 : mining ritual
-    170011 : chopping ritual
-    170012 : multifarm ritual mk1
-    170013 : multifarm ritual mk2
+	170000 : acacia pylon
+	170001 : birch pylon
+	170002 : crimson pylon
+	170003 : dark oak pylon
+	170004 : jungle pylon
+	170005 : oak pylon
+	170006 : spruce pylon
+	170007 : warped pylon
+	-------------------------------------------------------------------------------
+	170009 : capacitor
+	-------------------------------------------------------------------------------
+	170010 : mining ritual
+	170011 : chopping ritual
+	170012 : multifarm ritual mk1
+	170013 : multifarm ritual mk2

@@ -1,57 +1,57 @@
 [
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "predicate": {
-            "block": {
-                "blocks": [
-                    "crafting_table"
-                ]
-            }
-        }
-    },
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "offsetX": 2,
-        "offsetZ": 2,
-        "predicate": {
-            "block": {
-                "tag": "lthc.mage:logs_cftalt"
-            }
-        }
-    },
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "offsetX": -2,
-        "offsetZ": 2,
-        "predicate": {
-            "block": {
-                "tag": "lthc.mage:logs_cftalt"
-            }
-        }
-    },
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "offsetX": 2,
-        "offsetZ": -2,
-        "predicate": {
-            "block": {
-                "tag": "lthc.mage:logs_cftalt"
-            }
-        }
-    },
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "offsetX": -2,
-        "offsetZ": -2,
-        "predicate": {
-            "block": {
-                "tag": "lthc.mage:logs_cftalt"
-            }
-        }
-    }
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"predicate": {
+			"block": {
+				"blocks": [
+					"crafting_table"
+				]
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"offsetX": 2,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "lthc.mage:logs_cftalt"
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"offsetX": -2,
+		"offsetZ": 2,
+		"predicate": {
+			"block": {
+				"tag": "lthc.mage:logs_cftalt"
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"offsetX": 2,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "lthc.mage:logs_cftalt"
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"offsetX": -2,
+		"offsetZ": -2,
+		"predicate": {
+			"block": {
+				"tag": "lthc.mage:logs_cftalt"
+			}
+		}
+	}
 ]

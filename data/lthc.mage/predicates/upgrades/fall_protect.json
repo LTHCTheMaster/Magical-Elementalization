@@ -1,35 +1,35 @@
 [
-    {
-        "condition": "entity_properties",
-        "entity": "this",
-        "predicate": {
-            "equipment": {
-                "head": {
-                    "tag": "lthc.mage:helmets",
-                    "nbt": "{ctc: {traits: {poison_protect:1b}}}"
-                }
-            }
-        }
-    },
-    {
-        "condition": "location_check",
-        "offsetY": -1,
-        "predicate": {
-            "block": {
-                "tag": "lthc.mage:air"
-            }
-        }
-    },
-    {
-        "condition": "inverted",
-        "term": {
-            "condition": "location_check",
-            "offsetY": -2,
-            "predicate": {
-                "block": {
-                    "tag": "lthc.mage:air"
-                }
-            }
-        }
-    }
+	{
+		"condition": "entity_properties",
+		"entity": "this",
+		"predicate": {
+			"equipment": {
+				"head": {
+					"tag": "lthc.mage:helmets",
+					"nbt": "{ctc: {traits: {poison_protect:1b}}}"
+				}
+			}
+		}
+	},
+	{
+		"condition": "location_check",
+		"offsetY": -1,
+		"predicate": {
+			"block": {
+				"tag": "lthc.mage:air"
+			}
+		}
+	},
+	{
+		"condition": "inverted",
+		"term": {
+			"condition": "location_check",
+			"offsetY": -2,
+			"predicate": {
+				"block": {
+					"tag": "lthc.mage:air"
+				}
+			}
+		}
+	}
 ]

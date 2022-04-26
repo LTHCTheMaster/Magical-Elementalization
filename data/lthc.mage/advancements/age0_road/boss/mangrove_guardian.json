@@ -1,37 +1,37 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:vine"
-        },
-        "title": "Mangrove Battle",
-        "description": {
-            "translate": "Defeat the Mangrove Guardian",
-            "extra": [
-                {
-                    "translate": "\nafter summonning him by dropping"
-                },
-                {
-                    "translate": "\na sugar cane on a cross of"
-                },
-                {
-                    "translate": "\nlogs and/or leaves in a \"Phyto\" biome"
-                }
-            ]
-        },
-        "show_toast": true,
-        "announce_to_chat": true,
-        "frame": "goal"
-    },
-    "criteria": {
-        "unlock": {
-            "trigger": "player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:vindicator",
-                    "nbt": "{Tags:[\"lthc.mage.entities.mangrove_guardian\"]}"
-                }
-            }
-        }
-    },
-    "parent": "lthc.mage:age0_road/lthc.mage"
+	"display": {
+		"icon": {
+			"item": "minecraft:vine"
+		},
+		"title": "Mangrove Battle",
+		"description": {
+			"translate": "Defeat the Mangrove Guardian",
+			"extra": [
+				{
+					"translate": "\nafter summonning him by dropping"
+				},
+				{
+					"translate": "\na sugar cane on a cross of"
+				},
+				{
+					"translate": "\nlogs and/or leaves in a \"Phyto\" biome"
+				}
+			]
+		},
+		"show_toast": true,
+		"announce_to_chat": true,
+		"frame": "goal"
+	},
+	"criteria": {
+		"unlock": {
+			"trigger": "player_killed_entity",
+			"conditions": {
+				"entity": {
+					"type": "minecraft:vindicator",
+					"nbt": "{Tags:[\"lthc.mage.entities.mangrove_guardian\"]}"
+				}
+			}
+		}
+	},
+	"parent": "lthc.mage:age0_road/lthc.mage"
 }

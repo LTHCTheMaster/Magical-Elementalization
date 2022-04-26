@@ -1,42 +1,42 @@
 {
-    "type": "entity",
-    "pools": [
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_aero"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_celestial"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_color"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_end"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_gas"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_hydro"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_phyto"
-                },
-                {
-                    "type": "loot_table",
-                    "name": "lthc.mage:item/essences/compact_thermo"
-                }
-            ]
-        }
-    ]
+	"type": "entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_aero"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_celestial"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_color"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_end"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_gas"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_hydro"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_phyto"
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.mage:item/essences/compact_thermo"
+				}
+			]
+		}
+	]
 }

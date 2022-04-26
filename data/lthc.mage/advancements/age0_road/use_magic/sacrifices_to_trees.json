@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:warped_fungus_on_a_stick",
-            "nbt": "{CustomModelData:170010}"
-        },
-        "title": {
-            "translate": "Use Sacrifices to Trees"
-        },
-        "description": "",
-        "show_toast": true,
-        "announce_to_chat": true,
-        "hidden": false
-    },
-    "criteria": {
-        "auto":{
-            "trigger": "impossible"
-        }
-    },
-    "parent": "lthc.mage:age0_road/sub_parts/sub_parts/nature"
+	"display": {
+		"icon": {
+			"item": "minecraft:warped_fungus_on_a_stick",
+			"nbt": "{CustomModelData:170010}"
+		},
+		"title": {
+			"translate": "Use Sacrifices to Trees"
+		},
+		"description": "",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"auto":{
+			"trigger": "impossible"
+		}
+	},
+	"parent": "lthc.mage:age0_road/sub_parts/sub_parts/nature"
 }

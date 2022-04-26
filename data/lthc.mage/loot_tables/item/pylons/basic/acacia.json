@@ -1,33 +1,33 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:barrel",
-            "functions": [
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{ctc: {traits: {\"magic/collector/pylon\":1b, \"magic/functional/block\":1b, block:1b}, id: \"acacia_collector_pylon\", from: \"lthc.mage\"}}"
-              },
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170000,display: {Name:'{\"translate\": \"Acacia Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-              },
-              {
-                  "function": "set_lore",
-                  "lore": [
-                      {
-                          "text": "Magical Elementalization",
-                          "color": "blue",
-                          "italic": true
-                      }
-                  ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+	"pools": [
+		{
+		"rolls": 1,
+		"entries": [
+			{
+			"type": "minecraft:item",
+			"name": "minecraft:barrel",
+			"functions": [
+				{
+				"function": "minecraft:set_nbt",
+				"tag": "{ctc: {traits: {\"magic/collector/pylon\":1b, \"magic/functional/block\":1b, block:1b}, id: \"acacia_collector_pylon\", from: \"lthc.mage\"}}"
+				},
+				{
+				"function": "minecraft:set_nbt",
+				"tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170000,display: {Name:'{\"translate\": \"Acacia Collector Pylon\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+				},
+				{
+					"function": "set_lore",
+					"lore": [
+						{
+							"text": "Magical Elementalization",
+							"color": "blue",
+							"italic": true
+						}
+					]
+				}
+			]
+			}
+		]
+		}
+	]
+	}

@@ -1,14 +1,14 @@
 {
-    "condition": "entity_properties",
-    "entity": "this",
-    "predicate": {
-        "equipment": {
-            "offhand": {
-                "items": [
-                    "command_block"
-                ],
-                "nbt": "{ctc: {id: \"compact_end_essence\", from: \"lthc.mage\"}}"
-            }
-        }
-    }
+	"condition": "entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"offhand": {
+				"items": [
+					"command_block"
+				],
+				"nbt": "{ctc: {id: \"compact_end_essence\", from: \"lthc.mage\"}}"
+			}
+		}
+	}
 }

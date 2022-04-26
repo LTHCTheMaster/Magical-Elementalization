@@ -1,33 +1,33 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:barrel",
-            "functions": [
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{ctc: {traits: {\"magic/ritual\":1b, \"magic/functional/block\":1b, block:1b, mining_ritual:1b}, id: \"mining_ritual\", from: \"lthc.mage\"}}"
-              },
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170010,display: {Name:'{\"translate\": \"Mining Ritual\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
-              },
-              {
-                  "function": "set_lore",
-                  "lore": [
-                      {
-                          "text": "Magical Elementalization",
-                          "color": "blue",
-                          "italic": true
-                      }
-                  ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+	"pools": [
+		{
+		"rolls": 1,
+		"entries": [
+			{
+			"type": "minecraft:item",
+			"name": "minecraft:barrel",
+			"functions": [
+				{
+				"function": "minecraft:set_nbt",
+				"tag": "{ctc: {traits: {\"magic/ritual\":1b, \"magic/functional/block\":1b, block:1b, mining_ritual:1b}, id: \"mining_ritual\", from: \"lthc.mage\"}}"
+				},
+				{
+				"function": "minecraft:set_nbt",
+				"tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170010,display: {Name:'{\"translate\": \"Mining Ritual\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+				},
+				{
+					"function": "set_lore",
+					"lore": [
+						{
+							"text": "Magical Elementalization",
+							"color": "blue",
+							"italic": true
+						}
+					]
+				}
+			]
+			}
+		]
+		}
+	]
+	}
