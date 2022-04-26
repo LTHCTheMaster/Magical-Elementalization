@@ -1,4 +1,4 @@
-# Open the menu
+# Open a menu like system
 gamerule sendCommandFeedback false
 schedule function lthc.mage:admin/menu/feedback_true_mode_restore 1t replace
 playsound ui.button.click master @s ~ ~ ~ 1.0 1.0 1.0
