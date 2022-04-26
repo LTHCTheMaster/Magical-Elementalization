@@ -79,6 +79,8 @@ glow_item_frame:
 	170011 : chopping ritual
 	170012 : multifarm ritual mk1
 	170013 : multifarm ritual mk2
+	-------------------------------------------------------------------------------
+	170014 : portal
 
 barrel:
 	170000 : acacia pylon
@@ -96,3 +98,5 @@ barrel:
 	170011 : chopping ritual
 	170012 : multifarm ritual mk1
 	170013 : multifarm ritual mk2
+	-------------------------------------------------------------------------------
+	170014 : portal
