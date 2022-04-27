@@ -1,0 +1,33 @@
+{
+	"pools": [
+		{
+		"rolls": 1,
+		"entries": [
+			{
+			"type": "minecraft:item",
+			"name": "minecraft:barrel",
+			"functions": [
+				{
+				"function": "minecraft:set_nbt",
+				"tag": "{ctc: {traits: {portal:1b, block:1b}, id: \"portal\", from: \"lthc.mage\"}}"
+				},
+				{
+				"function": "minecraft:set_nbt",
+				"tag": "{BlockEntityTag:{Lock:\"LTHCMage_L\"},lthc.mage.custom_items:1b,CustomModelData: 170014,display: {Name:'{\"translate\": \"Magic Portal\", \"color\": \"#DDEEFF\", \"italic\": false}'}}"
+				},
+				{
+					"function": "set_lore",
+					"lore": [
+						{
+							"text": "Magical Elementalization",
+							"color": "blue",
+							"italic": true
+						}
+					]
+				}
+			]
+			}
+		]
+		}
+	]
+	}
