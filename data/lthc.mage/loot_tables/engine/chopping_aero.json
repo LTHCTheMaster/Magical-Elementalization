@@ -7,7 +7,7 @@
 				{
 					"weight": 3,
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/aero",
+					"name": "lthc.mage:item/components/essences/aero",
 					"functions": [
 						{
 							"function": "set_count",

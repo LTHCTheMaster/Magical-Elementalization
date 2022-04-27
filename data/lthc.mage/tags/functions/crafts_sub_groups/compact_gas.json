@@ -1,6 +1,6 @@
 {
 	"values": [
-		"lthc.mage:craft/check/oxyheal_staff",
-		"lthc.mage:craft/check/burning_problem"
+		"lthc.mage:custom/crafting/check/oxyheal_staff",
+		"lthc.mage:custom/crafting/check/burning_problem"
 	]
 }

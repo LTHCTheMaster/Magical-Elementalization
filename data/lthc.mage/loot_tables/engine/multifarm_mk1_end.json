@@ -7,7 +7,7 @@
 				{
 					"weight": 3,
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/end",
+					"name": "lthc.mage:item/components/essences/end",
 					"functions": [
 						{
 							"function": "set_count",

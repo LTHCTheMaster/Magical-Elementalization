@@ -6,47 +6,47 @@
 			"entries": [
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/berserker_staff"
+					"name": "lthc.mage:item/items/all_spells/wands/berserker_staff"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/black_hole"
+					"name": "lthc.mage:item/items/all_spells/wands/black_hole"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/burning_problem"
+					"name": "lthc.mage:item/items/all_spells/wands/burning_problem"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/color_wand"
+					"name": "lthc.mage:item/items/all_spells/wands/color_wand"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/forest_clearer"
+					"name": "lthc.mage:item/items/all_spells/wands/forest_clearer"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/life_bring"
+					"name": "lthc.mage:item/items/all_spells/wands/life_bring"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/oxyheal_staff"
+					"name": "lthc.mage:item/items/all_spells/wands/oxyheal_staff"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/sacrifices_to_trees"
+					"name": "lthc.mage:item/items/all_spells/wands/sacrifices_to_trees"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/teleport_wand"
+					"name": "lthc.mage:item/items/all_spells/wands/teleport_wand"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/wall_staff"
+					"name": "lthc.mage:item/items/all_spells/wands/wall_staff"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/wands/wind_force"
+					"name": "lthc.mage:item/items/all_spells/wands/wind_force"
 				},
 				{
 					"type": "loot_table",

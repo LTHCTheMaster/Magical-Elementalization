@@ -1,5 +1,5 @@
 {
 	"values": [
-		"lthc.mage:loading/post_load"
+		"lthc.mage:core/loading/post_load"
 	]
 }

@@ -7,7 +7,7 @@
 				{
 					"weight": 3,
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/fungus",
+					"name": "lthc.mage:item/components/essences/fungus",
 					"functions": [
 						{
 							"function": "set_count",

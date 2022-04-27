@@ -1,7 +1,7 @@
 {
 	"values": [
-		"lthc.mage:craft/check/forest_clearer",
-		"lthc.mage:craft/check/life_bring",
-		"lthc.mage:craft/check/sacrifices_to_trees"
+		"lthc.mage:custom/crafting/check/forest_clearer",
+		"lthc.mage:custom/crafting/check/life_bring",
+		"lthc.mage:custom/crafting/check/sacrifices_to_trees"
 	]
 }

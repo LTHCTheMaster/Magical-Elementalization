@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:block_object_life/place/birch_pylon/1"
+		"function": "lthc.mage:custom/blocks/place/birch_pylon/1"
 	}
 }

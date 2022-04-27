@@ -1,6 +1,6 @@
 {
 	"values": [
-		"lthc.mage:loops/utils/spells_check_classic",
-		"lthc.mage:loops/utils/spells_check_advanced"
+		"lthc.mage:core/loops/utils/spells_check_classic",
+		"lthc.mage:core/loops/utils/spells_check_advanced"
 	]
 }

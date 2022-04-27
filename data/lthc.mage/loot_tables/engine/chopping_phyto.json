@@ -7,7 +7,7 @@
 				{
 					"weight": 3,
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/phyto",
+					"name": "lthc.mage:item/components/essences/phyto",
 					"functions": [
 						{
 							"function": "set_count",

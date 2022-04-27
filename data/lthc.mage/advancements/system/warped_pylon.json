@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:block_object_life/place/warped_pylon/1"
+		"function": "lthc.mage:custom/blocks/place/warped_pylon/1"
 	}
 }

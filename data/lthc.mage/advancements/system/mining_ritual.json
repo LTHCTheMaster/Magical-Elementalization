@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:block_object_life/place/mining_ritual/1"
+		"function": "lthc.mage:custom/blocks/place/mining_ritual/1"
 	}
 }

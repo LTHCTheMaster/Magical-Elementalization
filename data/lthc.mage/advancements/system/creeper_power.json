@@ -24,6 +24,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:upgrades/creeper_power"
+		"function": "lthc.mage:components/upgrades/creeper_power"
 	}
 }

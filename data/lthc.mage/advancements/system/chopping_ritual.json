@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:block_object_life/place/chopping_ritual/1"
+		"function": "lthc.mage:custom/blocks/place/chopping_ritual/1"
 	}
 }

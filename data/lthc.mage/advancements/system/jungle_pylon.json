@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:block_object_life/place/jungle_pylon/1"
+		"function": "lthc.mage:custom/blocks/place/jungle_pylon/1"
 	}
 }

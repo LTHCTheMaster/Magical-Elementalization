@@ -6,39 +6,39 @@
 			"entries": [
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/aero"
+					"name": "lthc.mage:item/components/essences/aero"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/celestial"
+					"name": "lthc.mage:item/components/essences/celestial"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/color"
+					"name": "lthc.mage:item/components/essences/color"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/end"
+					"name": "lthc.mage:item/components/essences/end"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/fungus"
+					"name": "lthc.mage:item/components/essences/fungus"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/gas"
+					"name": "lthc.mage:item/components/essences/gas"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/hydro"
+					"name": "lthc.mage:item/components/essences/hydro"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/phyto"
+					"name": "lthc.mage:item/components/essences/phyto"
 				},
 				{
 					"type": "loot_table",
-					"name": "lthc.mage:item/essences/thermo"
+					"name": "lthc.mage:item/components/essences/thermo"
 				}
 			]
 		}

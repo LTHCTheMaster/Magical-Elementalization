@@ -10,7 +10,7 @@
 {"predicate":{"custom_model_data":170005},"model":"lthc.mage:pylons/basic/barrel/oak"},
 {"predicate":{"custom_model_data":170006},"model":"lthc.mage:pylons/basic/barrel/spruce"},
 {"predicate":{"custom_model_data":170007},"model":"lthc.mage:pylons/basic/barrel/warped"},
-{"predicate":{"custom_model_data":170009},"model":"lthc.mage:capacitors/barrel/capacitor"},
+{"predicate":{"custom_model_data":170009},"model":"lthc.mage:components/capacitors/barrel/capacitor"},
 {"predicate":{"custom_model_data":170010},"model":"lthc.mage:ritual_core/barrel/mining_ritual"},
 {"predicate":{"custom_model_data":170011},"model":"lthc.mage:ritual_core/barrel/chopping_ritual"},
 {"predicate":{"custom_model_data":170012},"model":"lthc.mage:ritual_core/barrel/multifarm_ritual_mk1"},

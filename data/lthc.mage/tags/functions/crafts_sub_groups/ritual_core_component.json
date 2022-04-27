@@ -1,6 +1,6 @@
 {
 	"values": [
-		"lthc.mage:craft/check/mining_ritual",
-		"lthc.mage:craft/check/chopping_ritual"
+		"lthc.mage:custom/crafting/check/mining_ritual",
+		"lthc.mage:custom/crafting/check/chopping_ritual"
 	]
 }

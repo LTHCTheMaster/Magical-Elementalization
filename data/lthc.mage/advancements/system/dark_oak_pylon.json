@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:block_object_life/place/dark_oak_pylon/1"
+		"function": "lthc.mage:custom/blocks/place/dark_oak_pylon/1"
 	}
 }

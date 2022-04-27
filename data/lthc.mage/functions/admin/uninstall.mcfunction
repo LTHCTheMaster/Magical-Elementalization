@@ -22,16 +22,16 @@ kill @e[type=glow_item_frame,tag=lthc.mage.destroyable]
 kill @e[type=#lthc.mage:valid_entities,tag=lthc.mage.entities]
 
 # Clear schedule
-schedule clear lthc.mage:loops/11ticks
-schedule clear lthc.mage:loops/8ticks
-schedule clear lthc.mage:loops/2ticks
-schedule clear lthc.mage:loops/tick
-schedule clear lthc.mage:craft/check
-schedule clear lthc.mage:craft/check2
-schedule clear lthc.mage:craft/check3
+schedule clear lthc.mage:core/loops/11ticks
+schedule clear lthc.mage:core/loops/8ticks
+schedule clear lthc.mage:core/loops/2ticks
+schedule clear lthc.mage:core/loops/tick
+schedule clear lthc.mage:custom/crafting/check
+schedule clear lthc.mage:custom/crafting/check2
+schedule clear lthc.mage:custom/crafting/check3
 schedule clear lthc.mage:entities/boss/manage_summon_boss
 
-schedule clear lthc.mage:loading/post_load
+schedule clear lthc.mage:core/loading/post_load
 
 # Try disable the pack if the name didn't changed
 datapack disable "file/magical_elementalization_v1.3.zip"
