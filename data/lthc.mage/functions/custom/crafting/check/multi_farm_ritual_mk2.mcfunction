@@ -1,5 +1,4 @@
-## Check the craft of the multifarm rituel mk1
-
+## Check the craft of the multifarm rituel mk2
 # Set the verification score to 0
 scoreboard players set @s lthc.mage.data 0
 
@@ -10,4 +9,4 @@ execute positioned ~-2 ~ ~2 as @e[type=#lthc.mage:allowed_frame,distance=..1,sor
 execute positioned ~2 ~ ~-2 as @e[type=#lthc.mage:allowed_frame,distance=..1,sort=nearest,limit=1] if data entity @s Item.tag.ctc.traits.mfrmk1 positioned ~-2 ~ ~2 as @e[type=item,predicate=lthc.mage:casc/casc,distance=..1,sort=nearest,limit=1,nbt={Item:{Count:1b,tag:{ctc:{traits:{mfrmk1: 1b}}}}}] run scoreboard players add @s lthc.mage.data 1
 
 # If the verification score is 4, the craft is good and the craft start
-execute if score @s lthc.mage.data matches 4 run function lthc.mage:custom/crafting/result/multi_farm_ritual_mk1
+execute if score @s lthc.mage.data matches 4 run function lthc.mage:custom/crafting/result/multi_farm_ritual_mk2
