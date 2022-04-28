@@ -124,5 +124,11 @@
 "sounds": [
 "lthc.mage:mental_reader"
 ]
+},
+"block_place": {
+"subtitle": "Magical Block Placement",
+"sounds": [
+"lthc.mage:block_place"
+]
 }
 }
