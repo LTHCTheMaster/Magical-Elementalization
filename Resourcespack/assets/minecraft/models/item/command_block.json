@@ -27,6 +27,7 @@
 {"predicate":{"custom_model_data":170022},"model":"lthc.mage:components/upgrades/fall_protect"},
 {"predicate":{"custom_model_data":170023},"model":"lthc.mage:components/upgrades/magical_knight"},
 {"predicate":{"custom_model_data":170024},"model":"lthc.mage:components/upgrades/creeper_power"},
-{"predicate":{"custom_model_data":170025},"model":"lthc.mage:components/upgrades/secret_upgrade"}
+{"predicate":{"custom_model_data":170025},"model":"lthc.mage:components/upgrades/secret_upgrade"},
+{"predicate":{"custom_model_data":170026},"model":"lthc.mage:components/essences/advanced/rainbow_essences"}
 ]
 }

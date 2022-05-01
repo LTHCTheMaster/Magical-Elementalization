@@ -1,5 +1,3 @@
-Custom Items: 58
-
 warped_fungus_on_a_stick:
 	170000 : mage wand
 	-------------------------------------------------------------------------------
@@ -59,32 +57,13 @@ command_block:
 	170023 : magical knight upgrade
 	170024 : creeper power upgrade
 	170025 : secret upgrade
+	-------------------------------------------------------------------------------
+	170026 : rainbow essence
 
 iron_axe:
 	170000 : mangrove axe
 
-glow_item_frame:
-	170000 : acacia pylon
-	170001 : birch pylon
-	170002 : crimson pylon
-	170003 : dark oak pylon
-	170004 : jungle pylon
-	170005 : oak pylon
-	170006 : spruce pylon
-	170007 : warped pylon
-	-------------------------------------------------------------------------------
-	170009 : capacitor
-	-------------------------------------------------------------------------------
-	170010 : mining ritual
-	170011 : chopping ritual
-	170012 : multifarm ritual mk1
-	170013 : multifarm ritual mk2
-	-------------------------------------------------------------------------------
-	170014 : portal
-	-------------------------------------------------------------------------------
-	170015 : compactor
-
-barrel:
+glow_item_frame and barrel:
 	170000 : acacia pylon
 	170001 : birch pylon
 	170002 : crimson pylon
