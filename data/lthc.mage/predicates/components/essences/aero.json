@@ -46,6 +46,12 @@
 		{
 			"condition": "location_check",
 			"predicate": {
+				"biome": "terralith:alpha_islands_winter"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
 				"biome": "terralith:alpine_grove"
 			}
 		},
@@ -53,6 +59,12 @@
 			"condition": "location_check",
 			"predicate": {
 				"biome": "terralith:alpine_highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:cloud_forest"
 			}
 		},
 		{
@@ -107,6 +119,12 @@
 			"condition": "location_check",
 			"predicate": {
 				"biome": "terralith:temperate_highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:yosemite_cliffs"
 			}
 		}
 	]

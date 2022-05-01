@@ -12,6 +12,12 @@
 			"predicate": {
 				"biome": "terralith:cave/fungal_caves"
 			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "terralith:cave/infested_caves"
+			}
 		}
 	]
 }
