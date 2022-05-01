@@ -1,5 +1,5 @@
 # Save data
-data modify storage lthc.mage:main ItemForCapacitor set from entity @p[tag=lthc.mage.capacitor_filler] SelectedItem.tag.ctc.traits
+data modify storage lthc.mage:main ItemForCapacitor set from entity @p[tag=lthc.mage.interact_with_block] SelectedItem.tag.ctc.traits
 
 # Aero
 execute if data storage lthc.mage:main ItemForCapacitor.compact_aero if score @s lthc.mage.data matches 0..1 run function lthc.mage:components/capacitors/x5/essences/aero
