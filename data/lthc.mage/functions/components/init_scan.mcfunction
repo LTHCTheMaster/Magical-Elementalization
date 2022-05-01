@@ -1,4 +1,5 @@
-tag @s add lthc.mage.interact_with_block
-function lthc.mage:components/raycast_to_entity_detect
-tag @s remove lthc.mage.interact_with_block
-scoreboard players set @s lthc.mage.capacitor_interact_detect 0
+# Save data for verifying
+execute store result score #compcap_in lthc.mage.data run data get entity @s SelectedItem.Count
+
+# Run the sequel if there is more than 0 item in the mainhand of the player
+execute if score #compcap_in lthc.mage.data matches 1.. run function lthc.mage:components/init_scan_second_step
