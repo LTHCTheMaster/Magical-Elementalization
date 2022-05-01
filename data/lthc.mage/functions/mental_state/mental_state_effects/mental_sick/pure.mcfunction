@@ -5,5 +5,5 @@ scoreboard players operation #lthc.mage.ms lthc.mage.data %= #lthc.mage.210 lthc
 execute if score #lthc.mage.ms lthc.mage.data matches 0 run give @s rotten_flesh 5
 execute if score #lthc.mage.ms lthc.mage.data matches 1..100 run playsound entity.creeper.primed master @s ~ ~ ~ 1.0 1.0 1.0
 execute if score #lthc.mage.ms lthc.mage.data matches 71..150 run playsound lthc.mage:call_of_the_dark_magic master @s ~ ~ ~ 1.0 1.0 1.0
-execute if score #lthc.mage.ms lthc.mage.data matches 151..155 run tp ~ ~12 ~
+execute if score #lthc.mage.ms lthc.mage.data matches 151..155 run tp ~ ~13 ~
 kill @e[type=area_effect_cloud,tag=lthc.mage.mental_state_calculator]

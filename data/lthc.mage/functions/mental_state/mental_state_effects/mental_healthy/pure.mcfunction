@@ -4,5 +4,5 @@ execute store result score #lthc.mage.ms lthc.mage.data run data get entity @e[t
 scoreboard players operation #lthc.mage.ms lthc.mage.data %= #lthc.mage.218 lthc.mage.data
 execute if score #lthc.mage.ms lthc.mage.data matches 0 run give @s apple 3
 execute if score #lthc.mage.ms lthc.mage.data matches 1 run xp add @s 10 points
-execute if score #lthc.mage.ms lthc.mage.data matches 2 run loot give @s loot lthc.mage:loot_calculate/mangrove_guardian_loot
+execute if score #lthc.mage.ms lthc.mage.data matches 2 if predicate lthc.mage:luck/8 run loot give @s loot lthc.mage:loot_calculate/mangrove_guardian_loot
 kill @e[type=area_effect_cloud,tag=lthc.mage.mental_state_calculator]
