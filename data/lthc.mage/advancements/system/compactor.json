@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:barrel",
+				"item": {
+					"nbt": "{ctc:{id: \"compactor\", from: \"lthc.mage\"}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.mage:custom/blocks/place/compactor/1"
+	}
+}
