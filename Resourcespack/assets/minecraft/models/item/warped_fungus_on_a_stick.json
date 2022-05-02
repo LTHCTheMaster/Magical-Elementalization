@@ -21,6 +21,7 @@
 {"predicate":{"custom_model_data":170013},"model":"lthc.mage:items/all_spells/wands/call_of_the_dark_magic"},
 {"predicate":{"custom_model_data":170014},"model":"lthc.mage:mental_state/mental_reader"},
 {"predicate":{"custom_model_data":170015},"model":"lthc.mage:items/all_spells/wands/logical_wand"},
-{"predicate":{"custom_model_data":170016},"model":"lthc.mage:items/all_spells/wands/paradoxal_wand"}
+{"predicate":{"custom_model_data":170016},"model":"lthc.mage:items/all_spells/wands/paradoxal_wand"},
+{"predicate":{"custom_model_data":170017},"model":"lthc.mage:items/all_spells/wands/thunderbolt_chain_wand"}
 ]
 }

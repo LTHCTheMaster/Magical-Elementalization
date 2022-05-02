@@ -20,6 +20,7 @@ compact gas essence
 compact hydro essence
 compact phyto essence
 compact thermo essence
+compactor
 creeper power upgrade
 crimson pylon
 dark oak pylon
@@ -55,4 +56,7 @@ secret upgrade
 spruce pylon
 teleport wand
 thermo essence
+thunderbolt chain wand
 wall staff
+warped pylon
+wind force
