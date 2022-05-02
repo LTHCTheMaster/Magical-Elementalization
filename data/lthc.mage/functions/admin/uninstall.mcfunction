@@ -29,6 +29,7 @@ schedule clear lthc.mage:core/loops/tick
 schedule clear lthc.mage:custom/crafting/check
 schedule clear lthc.mage:custom/crafting/check2
 schedule clear lthc.mage:custom/crafting/check3
+schedule clear lthc.mage:custom/crafting/check_dimensional
 schedule clear lthc.mage:entities/boss/manage_summon_boss
 
 schedule clear lthc.mage:core/loading/post_load

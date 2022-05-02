@@ -13,4 +13,3 @@ loot spawn ~ ~1 ~ loot lthc.mage:item/ritual_core/ritual_core_component
 
 # Play the sound of the craft
 playsound lthc.mage:craft master @a[distance=..7] ~ ~ ~ 1.0 1.0 0.5
-
