@@ -21,3 +21,5 @@ loot spawn ~ ~ ~ loot lthc.mage:item/components/essences/compact_thermo
 # ADVANCED ESSENCES
 loot spawn ~ ~ ~ loot lthc.mage:item/components/essences/logical_magic
 loot spawn ~ ~ ~ loot lthc.mage:item/components/essences/paradoxal_magic
+# BETTER ADVANCED ESSENCES
+loot spawn ~ ~ ~ loot lthc.mage:item/components/essences/rainbow_essences
