@@ -9,7 +9,6 @@ scoreboard objectives remove lthc.mage.mental_state
 scoreboard objectives remove lthc.mage.current_charged
 scoreboard objectives remove lthc.mage.data
 scoreboard objectives remove lthc.mage.info
-scoreboard objectives remove lthc.mage.secret
 scoreboard objectives remove lthc.mage.duration
 
 # Clear from player custom items
