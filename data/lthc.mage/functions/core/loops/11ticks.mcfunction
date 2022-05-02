@@ -7,8 +7,5 @@ execute as @a[predicate=lthc.mage:selected/upgrades_applying] run function lthc.
 # Upgrade Working
 execute as @a[predicate=lthc.mage:components/upgrades/helmets_helded] run function lthc.mage:components/upgrades/work
 
-# Check for portals using
-execute as @a at @s positioned ~ ~-1 ~ if block ~ ~ ~ barrier if entity @e[type=glow_item_frame,tag=lthc.mage.magic_portal_placed] run function lthc.mage:controller/magic_portal_used
-
 # Auto schedule
 schedule function lthc.mage:core/loops/11ticks 11t replace
