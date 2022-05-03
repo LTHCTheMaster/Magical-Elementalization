@@ -19,9 +19,9 @@
 							"function": "set_lore",
 							"lore": [
 								" ",
-								{"translate":"click and also have compact fungus essence in offhand to use a strange dark power"},
+								{"translate":"click and also have rainbow essence in offhand to use a powerfull electrical energy"},
 								" ",
-								{"text": "\u0020\u0020\u0020\u0020\u0020\ue014", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								{"text": "\u0020\u0020\u0020\u0020\u0020\ue022", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
 								{
 									"text": "Magical Elementalization",
 									"color": "blue",

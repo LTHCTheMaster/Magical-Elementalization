@@ -14,5 +14,6 @@ loot spawn ~ ~ ~ loot lthc.mage:item/items/all_spells/wands/wall_staff
 loot spawn ~ ~ ~ loot lthc.mage:item/items/all_spells/wands/call_of_the_dark_magic
 loot spawn ~ ~ ~ loot lthc.mage:item/items/all_spells/wands/logical_wand
 loot spawn ~ ~ ~ loot lthc.mage:item/items/all_spells/wands/paradoxal_wand
+loot spawn ~ ~ ~ loot lthc.mage:item/items/all_spells/wands/thunderbolt_chain_wand
 # SPELLS
 loot spawn ~ ~ ~ loot lthc.mage:item/compact_spells/compact_color
