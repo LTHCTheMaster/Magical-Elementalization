@@ -35,4 +35,4 @@ execute if predicate lthc.mage:selected/burning_problem if predicate lthc.mage:s
 execute if predicate lthc.mage:selected/call_of_the_dark_magic if predicate lthc.mage:selected/compact_fungus_essences run function lthc.mage:items/all_spells/call_of_the_dark_magic/init/classic
 
 # Thunderbolt Chain Wand
-execute if predicate lthc.mage:selected/thunderbolt_chain_wand if predicate lthc.mage:selected/rainbow_essences run function lthc.mage:items/all_spells/wands/init/thunderbolt_chain_wand/init_classic
+execute if predicate lthc.mage:selected/thunderbolt_chain_wand if predicate lthc.mage:selected/rainbow_essences anchored eyes run function lthc.mage:items/all_spells/wands/init/thunderbolt_chain_wand/init_classic
