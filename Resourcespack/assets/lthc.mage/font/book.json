@@ -22,6 +22,8 @@
 {"type":"bitmap","file":"lthc.mage:fonts/mining_ritual.png","ascent":12,"height":70,"chars":["\uea19"]},
 {"type":"bitmap","file":"lthc.mage:fonts/chopping_ritual.png","ascent":12,"height":70,"chars":["\uea20"]},
 {"type":"bitmap","file":"lthc.mage:fonts/mfrmk1.png","ascent":12,"height":70,"chars":["\uea21"]},
-{"type":"bitmap","file":"lthc.mage:fonts/mfrmk2.png","ascent":12,"height":70,"chars":["\uea22"]}
+{"type":"bitmap","file":"lthc.mage:fonts/mfrmk2.png","ascent":12,"height":70,"chars":["\uea22"]},
+{"type":"bitmap","file":"lthc.mage:fonts/rainbow_essence.png","ascent":12,"height":70,"chars":["\uea23"]},
+{"type":"bitmap","file":"lthc.mage:fonts/thunderbolt_chain_wand.png","ascent":12,"height":70,"chars":["\uea24"]}
 ]
 }
