@@ -2,6 +2,7 @@ function give:lthc.mage/book
 
 scoreboard players set @s lthc.mage.wand_click_detect 0
 scoreboard players set @s lthc.mage.capacitor_interact_detect 0
+scoreboard players set @s lthc.mage.info 0
 
 ## Mental purity/illness Data definition
 # Default Mental State : 300

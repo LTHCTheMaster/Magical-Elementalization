@@ -1,6 +1,6 @@
 function lthc.mage:gen/utils/random_position
 
-scoreboard players set #max_attempts lthc.mage.data 20
+scoreboard players set #max_attempts lthc.mage.data 10
 execute at @s run function lthc.mage:gen/utils/find_adjacent_air
 
 #Placing Ore

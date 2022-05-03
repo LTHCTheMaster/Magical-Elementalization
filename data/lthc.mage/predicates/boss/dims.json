@@ -1,0 +1,17 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "location_check",
+            "predicate": {
+                "dimension": "the_end"
+            }
+        },
+        {
+            "condition": "location_check",
+            "predicate": {
+                "dimension": "the_nether"
+            }
+        }
+    ]
+}
