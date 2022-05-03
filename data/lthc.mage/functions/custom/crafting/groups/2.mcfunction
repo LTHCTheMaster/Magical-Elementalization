@@ -1,4 +1,4 @@
-## Craft checking (7 craft)
+## Craft checking (8 craft)
 
 # Save the data
 data modify storage lthc.mage:main CraftingItem set from entity @s Item.tag.ctc.traits
@@ -20,3 +20,6 @@ execute if data storage lthc.mage:main CraftingItem.mining_ritual run function l
 
 # MultiFarm Ritual MK2 craft checking
 execute if data storage lthc.mage:main CraftingItem.mfrmk1 run function lthc.mage:custom/crafting/check/multi_farm_ritual_mk2
+
+# Thunderbolt Chain Wand craft checking
+execute if data storage lthc.mage:main CraftingItem.rainbow run function lthc.mage:custom/crafting/check/thunderbolt_chain_wand
