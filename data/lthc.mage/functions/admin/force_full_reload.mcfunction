@@ -12,6 +12,7 @@ gamerule maxCommandChainLength 2147483647
 
 function lthc.mage:core/loading/score
 function lthc.mage:core/loading/data
+function lthc.mage:core/loading/loop_control_reset
 
 # Start loops
 schedule function lthc.mage:schedule 1t replace
