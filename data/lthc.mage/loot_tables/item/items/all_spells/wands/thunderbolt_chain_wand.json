@@ -9,7 +9,7 @@
 					"functions": [
 						{
 							"function": "minecraft:set_nbt",
-							"tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"call_of_the_dark_magic\", from: \"lthc.mage\"}}"
+							"tag" : "{ctc: {traits: {\"magic/wands\":1b, \"magic/functional/item\":1b, item:1b}, id: \"thunderbolt_chain_wand\", from: \"lthc.mage\"}}"
 						},
 						{
 							"function": "minecraft:set_nbt",
@@ -21,7 +21,7 @@
 								" ",
 								{"translate":"click and also have rainbow essence in offhand to use a powerfull electrical energy"},
 								" ",
-								{"text": "\u0020\u0020\u0020\u0020\u0020\ue022", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								{"text": "\u0020\u0020\u0020\u0020\u0020\ue022\ue022", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
 								{
 									"text": "Magical Elementalization",
 									"color": "blue",

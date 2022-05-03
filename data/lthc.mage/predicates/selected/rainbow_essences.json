@@ -1,0 +1,18 @@
+{
+	"condition": "entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"offhand": {
+				"items": [
+					"command_block"
+				],
+				"nbt": "{ctc: {id: \"rainbow_essence\", from: \"lthc.mage\"}}",
+                "count": {
+                    "min": 2,
+                    "max": 64
+                }
+			}
+		}
+	}
+}

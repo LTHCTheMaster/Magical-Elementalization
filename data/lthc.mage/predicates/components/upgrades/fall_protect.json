@@ -6,7 +6,7 @@
 			"equipment": {
 				"head": {
 					"tag": "lthc.mage:helmets",
-					"nbt": "{ctc: {traits: {poison_protect:1b}}}"
+					"nbt": "{ctc: {traits: {fall_protect:1b}}}"
 				}
 			}
 		}
