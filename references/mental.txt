@@ -16,6 +16,7 @@ count of last used => lthc.mage.current_charged (default: 0)
 | 101	 | Logical Wand			 |
 | 102	 | Paradoxal Wand		 |
 | 103	 | Call of the Dark Magic |
+| 104	 | Thunderbolt Chain Wand |
 | 201	 | Compact Color Spell	|
 | 301	 | Berserker Staff		|
 | 302	 | Oxyheal Staff			|
