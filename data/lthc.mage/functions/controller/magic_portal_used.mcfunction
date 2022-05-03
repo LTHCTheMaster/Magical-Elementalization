@@ -1,5 +1,6 @@
 effect give @s slow_falling 25 0 true
 effect give @s resistance 25 0 true
+tag @s add lthc.mage.just_used_portal
 execute if score @s lthc.mage.mental_state matches ..125 run scoreboard players set @s lthc.mage.duration 76000
 execute if score @s lthc.mage.mental_state matches 126..280 run scoreboard players set @s lthc.mage.duration 48000
 execute if score @s lthc.mage.mental_state matches 281..334 run scoreboard players set @s lthc.mage.duration 24000

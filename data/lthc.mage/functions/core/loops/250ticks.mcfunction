@@ -1,5 +1,6 @@
 # Calculate when eject players from dimension
-execute as @a[scores={lthc.mage.duration=250..}] at @s run function lthc.mage:controller/check_portal
+execute as @a[tag=!lthc.mage.just_used_portal,scores={lthc.mage.duration=250..}] at @s run function lthc.mage:controller/check_portal
+execute as @a[tag=lthc.mage.just_used_portal] run tag @s remove lthc.mage.just_used_portal
 
 #################################
 
