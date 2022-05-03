@@ -176,3 +176,17 @@ Tweaks:
 - A little more efficient pills
 - Some tweaks on the Magical Trader
 - Bosses' loots
+
+### 1.4.1 Magical Elementalization - Fixes
+
+News:
+
+- Nothing
+
+Changes:
+
+- Fixes (a division by zero)
+
+Removes:
+
+- No Removes :)
