@@ -5,7 +5,9 @@
 ![latest release](https://img.shields.io/github/v/release/LTHCTheMaster/Magical-Elementalization?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHCTheMaster/Magical-Elementalization?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHCTheMaster/Magical-Elementalization/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHCTheMaster/Magical-Elementalization?color=gold)
 
 <img src="./pack.png" width="64px"></img>
- 
+
+<img src="./img/img.png" width="960px"></img>
+
 </div>
 
 ## 🤔 What is this?
@@ -150,3 +152,27 @@ Changes:
 
 Removes:
 - No Removes :)
+
+### 1.4 Magical Elementalization - Tweaking and quality update
+
+News:
+
+- One new essences and a corresponding spell
+- An acces to the dimension by an unbreakable portal that you can find by mining
+- A compactor which is a breakable block that you can find by mining
+
+Changes:
+
+- Some animated textures instead of fixed textures
+- A lot of tweaks
+
+Removes:
+
+- No Removes :)
+
+Tweaks:
+
+- A little bit more common pills
+- A little more efficient pills
+- Some tweaks on the Magical Trader
+- Bosses' loots
