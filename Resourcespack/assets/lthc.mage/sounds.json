@@ -2,133 +2,133 @@
 "essences": {
 "subtitle":"Essences Generation",
 "sounds": [
-"lthc.mage:essences"
+"lthc.mage:machines/essences"
 ]
 },
 "essences2": {
 "subtitle":"Essences Generation",
 "sounds": [
-"lthc.mage:essences2"
+"lthc.mage:machines/essences2"
 ]
 },
 "boss_sound": {
 "subtitle":"Magical Elementalization's Boss",
 "sounds": [
-"lthc.mage:boss_sound"
+"lthc.mage:bosses/boss_sound"
 ]
 },
 "mangrove_axe": {
 "subtitle":"Mangrove Axe Power",
 "sounds": [
-"lthc.mage:mangrove_axe"
+"lthc.mage:objects/mangrove_axe"
 ]
 },
 "tp_wand": {
 "subtitle":"Teleporting with wand",
 "sounds": [
-"lthc.mage:tp_wand"
+"lthc.mage:wand/tp_wand"
 ]
 },
 "color_wand": {
 "subtitle":"Color Wand used",
 "sounds": [
-"lthc.mage:color_wand"
+"lthc.mage:wand/color_wand"
 ]
 },
 "forest_clearer": {
 "subtitle":"Clearing the forest",
 "sounds": [
-"lthc.mage:forest_clearer"
+"lthc.mage:spells/forest_clearer"
 ]
 },
 "craft": {
 "subtitle": "Magic Craft",
 "sounds": [
-"lthc.mage:craft"
+"lthc.mage:machines/craft"
 ]
 },
 "berserker_staff": {
 "subtitle": "Berserker Staff",
 "sounds": [
-"lthc.mage:berserker_staff"
+"lthc.mage:staff/berserker_staff"
 ]
 },
 "wind_force": {
 "subtitle": "Wind Force",
 "sounds": [
-"lthc.mage:wind_force"
+"lthc.mage:spells/wind_force"
 ]
 },
 "wall_staff": {
 "subtitle": "Someone is becoming a wall",
 "sounds": [
-"lthc.mage:wall_staff"
+"lthc.mage:staff/wall_staff"
 ]
 },
 "oxyheal_staff": {
 "subtitle": "Someone is healing himself with oxygen",
 "sounds": [
-"lthc.mage:oxyheal_staff"
+"lthc.mage:staff/oxyheal_staff"
 ]
 },
 "life_bring": {
 "subtitle": "Bringing the life",
 "sounds": [
-"lthc.mage:life_bring"
+"lthc.mage:spells/life_bring"
 ]
 },
 "sacrifices_to_trees": {
 "subtitle": "Sacrifices for the God of Trees",
 "sounds": [
-"lthc.mage:sacrifices_to_trees"
+"lthc.mage:spells/sacrifices_to_trees"
 ]
 },
 "black_hole": {
 "subtitle": "Black Hole using",
 "sounds": [
-"lthc.mage:black_hole"
+"lthc.mage:spells/black_hole"
 ]
 },
 "burning_problem": {
 "subtitle": "There is a Burning Issue",
 "sounds": [
-"lthc.mage:burning_problem"
+"lthc.mage:spells/burning_problem"
 ]
 },
 "call_of_the_dark_magic": {
 "subtitle": "Strange dark magic",
 "sounds": [
-"lthc.mage:call_of_the_dark_magic"
+"lthc.mage:spells/call_of_the_dark_magic"
 ]
 },
 "elementalized_boss": {
 "subtitle": "Elementalized Boss",
 "sounds": [
-"lthc.mage:elementalized_boss"
+"lthc.mage:bosses/elementalized_boss"
 ]
 },
 "logical_wand": {
 "subtitle": "Logical Power",
 "sounds": [
-"lthc.mage:logical_wand"
+"lthc.mage:wand/logical_wand"
 ]
 },
 "paradoxal_wand": {
 "subtitle": "Paradoxal Power",
 "sounds": [
-"lthc.mage:paradoxal_wand"
+"lthc.mage:wand/paradoxal_wand"
 ]
 },
 "mental_reader": {
 "subtitle": "Mental Reading",
 "sounds": [
-"lthc.mage:mental_reader"
+"lthc.mage:objects/mental_reader"
 ]
 },
 "block_place": {
 "subtitle": "Magical Block Placement",
 "sounds": [
-"lthc.mage:block_place"
+"lthc.mage:machines/block_place"
 ]
 }
 }
