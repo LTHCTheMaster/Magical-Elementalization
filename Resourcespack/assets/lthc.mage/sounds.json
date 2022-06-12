@@ -130,5 +130,35 @@
 "sounds": [
 "lthc.mage:machines/block_place"
 ]
+},
+"mental0": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/sound0_effect_mental"
+]
+},
+"mental1": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/sound1_effect_mental"
+]
+},
+"mental2": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/i_will_chase_you"
+]
+},
+"mental3": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/play_with_me"
+]
+},
+"mental4": {
+"subtitle": "",
+"sounds": [
+"lthc.mage:mental_health/joy"
+]
 }
 }
