@@ -19,8 +19,8 @@ scoreboard players add #lthc.mage.lm lthc.mage.data 1
 execute if score #lthc.mage.lm lthc.mage.data matches 125.. run function lthc.mage:core/loops/250ticks
 scoreboard players add #lthc.mage.lm lthc.mage.current_charged 1
 execute if score #lthc.mage.lm lthc.mage.current_charged matches 150.. run function lthc.mage:core/loops/300ticks
-scoreboard players add #lthc.mage.lm lthc.mage.mental_state 1
-execute if score #lthc.mage.lm lthc.mage.mental_state matches 10.. run function lthc.mage:core/loops/20ticks
+scoreboard players add #lthc.mage.lm lthc.mage.mental_state_2 1
+execute if score #lthc.mage.lm lthc.mage.mental_state_2 matches 10.. run function lthc.mage:core/loops/20ticks
 scoreboard players add #lthc.mage.lm lthc.mage.duration 1
 execute if score #lthc.mage.lm lthc.mage.duration matches 15.. run function lthc.mage:core/loops/30ticks
 

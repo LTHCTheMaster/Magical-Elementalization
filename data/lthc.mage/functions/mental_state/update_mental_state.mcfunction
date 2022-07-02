@@ -1,4 +1,3 @@
-execute if score @s lthc.mage.current_charged matches 1..3 run function lthc.mage:mental_state/internal/1_3
-execute if score @s lthc.mage.current_charged matches 4..8 run function lthc.mage:mental_state/internal/4_8
-execute if score @s lthc.mage.current_charged matches 9..15 run function lthc.mage:mental_state/internal/9_15
-execute if score @s lthc.mage.current_charged matches 16.. run function lthc.mage:mental_state/internal/16_16more
+execute if score @s lthc.mage.mental_state matches 1..2 if score @s lthc.mage.mental_state_2 matches 0.. run function lthc.mage:mental_state/update_mental_state_2
+execute if score @s lthc.mage.mental_state matches 3..4 if score @s lthc.mage.mental_state_2 matches 0.. if predicate lthc.mage:luck/50 run function lthc.mage:mental_state/update_mental_state_2
+execute if score @s lthc.mage.mental_state_2 matches 0.. run function lthc.mage:mental_state/update_mental_state_2

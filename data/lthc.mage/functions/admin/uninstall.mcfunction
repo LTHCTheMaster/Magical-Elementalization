@@ -5,7 +5,7 @@ kill @e[type=marker,tag=lthc.mage]
 # Remove scores
 scoreboard objectives remove lthc.mage.wand_click_detect
 scoreboard objectives remove lthc.mage.capacitor_interact_detect
-scoreboard objectives remove lthc.mage.mental_state
+scoreboard objectives remove lthc.mage.mental_state_2
 scoreboard objectives remove lthc.mage.current_charged
 scoreboard objectives remove lthc.mage.data
 scoreboard objectives remove lthc.mage.info
