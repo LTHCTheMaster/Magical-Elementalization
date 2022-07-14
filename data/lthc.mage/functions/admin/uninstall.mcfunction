@@ -6,6 +6,7 @@ kill @e[type=marker,tag=lthc.mage]
 scoreboard objectives remove lthc.mage.wand_click_detect
 scoreboard objectives remove lthc.mage.capacitor_interact_detect
 scoreboard objectives remove lthc.mage.mental_state_2
+scoreboard objectives remove lthc.mage.mental_state
 scoreboard objectives remove lthc.mage.current_charged
 scoreboard objectives remove lthc.mage.data
 scoreboard objectives remove lthc.mage.info
@@ -35,8 +36,8 @@ schedule clear lthc.mage:entities/boss/manage_summon_boss
 schedule clear lthc.mage:core/loading/post_load
 
 # Try disable the pack if the name didn't changed
-datapack disable "file/magical_elementalization_v1.4.1.zip"
-datapack disable "file/magical_elementalization_v1.4.1"
+datapack disable "file/magical_elementalization_v1.5.zip"
+datapack disable "file/magical_elementalization_v1.5"
 datapack disable "file/magical_elementalization.zip"
 datapack disable "file/magical_elementalization"
 datapack disable "file/Magical-Elementalization"
