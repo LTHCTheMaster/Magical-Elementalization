@@ -6,3 +6,4 @@ execute if entity @s[tag=lthc.mage.pylon.jungle_placed] run function lthc.mage:c
 execute if entity @s[tag=lthc.mage.pylon.oak_placed] run function lthc.mage:custom/blocks/pylons/basic/oak/destroy
 execute if entity @s[tag=lthc.mage.pylon.spruce_placed] run function lthc.mage:custom/blocks/pylons/basic/spruce/destroy
 execute if entity @s[tag=lthc.mage.pylon.warped_placed] run function lthc.mage:custom/blocks/pylons/basic/warped/destroy
+execute if entity @s[tag=lthc.mage.pylon.mangrove_placed] run function lthc.mage:custom/blocks/pylons/basic/mangrove/destroy

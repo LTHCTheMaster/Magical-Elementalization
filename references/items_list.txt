@@ -37,6 +37,7 @@ logical wand
 mage wand
 magical knight upgrade
 mangrove axe
+mangrove pylon
 mental reader
 mining ritual
 multifarm ritual mk1

@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:barrel",
+				"item": {
+					"nbt": "{ctc:{id: \"mangrove_collector_pylon\", from: \"lthc.mage\"}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.mage:custom/blocks/place/mangrove_pylon/1"
+	}
+}
