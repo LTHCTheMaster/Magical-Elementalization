@@ -32,7 +32,7 @@ This datapack add content based on magic essences (based on biomes).
 - <a href="#admin">⚙️ Admin Functions</a>
 
 ### 💽 Versions
-| ✅   | 1.18.2 |
+| ✅   | 1.19.x |
 | --- | --------------- |
 | ✅   | Singleplayer    |
 | ✅   | Multiplayer     |
@@ -44,7 +44,7 @@ This datapack add content based on magic essences (based on biomes).
 | ❓   | Realms          |
 | ❌   | Bukkit          |
 | ⚠   | Spigot          |
-| ❌   | Paper           |
+| ⚠   | Paper           |
 | ❌   | Waterfall       |
 
 ## ▶️ How i start?
@@ -62,10 +62,6 @@ This datapack is inspired of the Thaumcraft mod (by Azanor (<a href="https://www
 Thanks to DataWorld discord (<a href="https://discord.me/dataworld">link</a>). Also thanks to Azanor and Hashs for their works which inspired me
 
 Also thanks to <a href="https://github.com/Stoupy51">Stoupy51</a> for helping me in optimization
-
-## 📖 Wiki
-
-<a href="https://magical-elementalization.fandom.com/wiki/Magical_Elementalization_Wiki">Wiki here!</a>
 
 ## 🤝 Contributors
 
@@ -186,6 +182,21 @@ News:
 Changes:
 
 - Fixes (a division by zero)
+
+Removes:
+
+- No Removes :)
+
+### 1.5 Magical Elementalization - (release for mc 1.19) - Mental Health System Rework
+
+News:
+
+- Mangrove Collector Pylon
+- Few things for the new Mental State/Health System
+
+Changes:
+
+- The Mental State/Health System (<a href="./details/mental1.5.md">more details here</a>)
 
 Removes:
 

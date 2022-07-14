@@ -1,5 +1,7 @@
 # Set the version of the datapack
-scoreboard players set #lthc.mage.version lthc.mage.data 010401
+scoreboard players set #lthc.mage.version lthc.mage.data 010500
+
+scoreboard objectives remove lthc.mage.mental_state
 
 # Update Scores
 function lthc.mage:core/loading/score
