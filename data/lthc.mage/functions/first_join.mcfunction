@@ -5,7 +5,7 @@ scoreboard players set @s lthc.mage.capacitor_interact_detect 0
 scoreboard players set @s lthc.mage.info 0
 
 ## Mental purity/illness Data definition
-# Default Mental State : 300
+# Default Mental State : 100 and 5
 execute unless score @s lthc.mage.mental_state_2 matches -2147483648..2147483647 run scoreboard players set @s lthc.mage.mental_state_2 100
 execute run scoreboard players set @s lthc.mage.mental_state 5
 # Default last used spell : 0

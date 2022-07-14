@@ -5,16 +5,16 @@ count of last used => lthc.mage.current_charged (default: 0)
 
 	lthc.mage.mental_state => state          => "duration"
 	---------------------- => -------------- => -----------
-	0                      => Hell           => "unlimited"
-	1                      => Really Bad ++  => 20
-	2                      => Really Bad +   => 35
-	3                      => Really Bad     => 55
-	4                      => Bad            => 90
-	5                      => Neutral        => 200
-	6                      => Good           => 500
-	7                      => Really Good    => 1111
-	8                      => Really Good +  => 2300
-	9                      => Really Good ++ => 4750
+	0                      => Hell           => 20
+	1                      => Really Bad ++  => 35
+	2                      => Really Bad +   => 55
+	3                      => Really Bad     => 90
+	4                      => Bad            => 200
+	5                      => Neutral        => 500
+	6                      => Good           => 1111
+	7                      => Really Good    => 2300
+	8                      => Really Good +  => 4750
+	9                      => Really Good ++ => 10235
 	10                     => Heaven         => "unlimited"
 
 | Score | last used spell		|
