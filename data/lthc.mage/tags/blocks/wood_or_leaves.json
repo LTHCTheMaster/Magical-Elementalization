@@ -8,6 +8,7 @@
 		"#oak_logs",
 		"#spruce_logs",
 		"#warped_stems",
+		"#mangrove_logs",
 		"acacia_leaves",
 		"birch_leaves",
 		"nether_wart_block",
@@ -15,6 +16,11 @@
 		"jungle_leaves",
 		"oak_leaves",
 		"spruce_leaves",
-		"warped_wart_block"
+		"warped_wart_block",
+		"azalea_leaves",
+		"flowering_azalea_leaves",
+		"mangrove_leaves",
+		"azalea",
+		"flowering_azalea"
 	]
 }
