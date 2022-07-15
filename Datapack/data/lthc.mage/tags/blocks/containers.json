@@ -1,0 +1,14 @@
+{
+    "values": [
+        "hopper",
+        "chest",
+        "trapped_chest",
+        "barrel",
+        "dispenser",
+        "dropper",
+        "furnace",
+        "smoker",
+        "blast_furnace",
+        "#shulker_boxes"
+    ]
+}

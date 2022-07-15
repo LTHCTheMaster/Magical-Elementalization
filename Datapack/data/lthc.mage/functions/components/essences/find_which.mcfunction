@@ -1,9 +1,6 @@
-execute if entity @s[tag=lthc.mage.pylons.aero] run loot spawn ~ ~1 ~ loot lthc.mage:item/components/essences/aero
-execute if entity @s[tag=lthc.mage.pylons.end] run loot spawn ~ ~1 ~ loot lthc.mage:item/components/essences/end
-execute if entity @s[tag=lthc.mage.pylons.fungus] run function lthc.mage:components/essences/gen/fungus
-execute if entity @s[tag=lthc.mage.pylons.hydro] run function lthc.mage:components/essences/gen/hydro
-execute if entity @s[tag=lthc.mage.pylons.thermo] run loot spawn ~ ~1 ~ loot lthc.mage:item/components/essences/thermo
-execute if entity @s[tag=lthc.mage.pylons.thermo2] run function lthc.mage:components/essences/gen/thermo
-execute if entity @s[tag=lthc.mage.pylons.phyto] run function lthc.mage:components/essences/gen/phyto
+scoreboard players set #is_there lthc.mage.data 0
+execute store success score #is_there lthc.mage.data if block ~ ~1 ~ #lthc.mage:containers
+execute if score #is_there lthc.mage.data matches 0 run function lthc.mage:components/essences/supports/natural
+execute if score #is_there lthc.mage.data matches 1 run function lthc.mage:components/essences/supports/containers
 
 function lthc.mage:components/essences/effects
