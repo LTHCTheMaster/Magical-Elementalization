@@ -21,7 +21,10 @@
 								" ",
 								{"translate":"click and also have phyto essence in offhand to use the forest clearing power."},
 								" ",
-								{"text": "\u0020\u0020\u0020\u0020\u0020\ue007", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								[
+									{"text": "\u0020\u0020\u0020\u0020\u0020"},
+									{"text": "\ue007", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+								],
 								{
 									"text": "Magical Elementalization",
 									"color": "blue",

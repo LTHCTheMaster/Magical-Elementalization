@@ -21,7 +21,10 @@
 								" ",
 								{"translate":"click and also have compact gas essence in offhand to burn a lot of things"},
 								" ",
-								{"text": "\u0020\u0020\u0020\u0020\u0020\ue015", "font": "lthc.mage:essences_display", "color": "#FFFFFF"},
+								[
+									{"text": "\u0020\u0020\u0020\u0020\u0020"},
+									{"text": "\ue015", "font": "lthc.mage:essences_display", "color": "#FFFFFF"}
+								],
 								{
 									"text": "Magical Elementalization",
 									"color": "blue",
