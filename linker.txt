@@ -1,0 +1,1 @@
+mklinker C:\Users\miste\AppData\Roaming\.minecraft C:\Users\miste\Desktop\MC\DPacking\Server\world\datapacks\Magical-Elementalization
