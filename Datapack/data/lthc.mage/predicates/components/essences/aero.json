@@ -126,6 +126,72 @@
 			"predicate": {
 				"biome": "terralith:yosemite_cliffs"
 			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:cool_stony_canyons"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:cool_stony_peaks"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:forested_highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:glacial_cliffs"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:granite_canyon"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:highland_plains"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:highland_tropical_rainforest"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:huangshan_highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:jade_highlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:cool_stony_canyons"
+			}
 		}
 	]
 }

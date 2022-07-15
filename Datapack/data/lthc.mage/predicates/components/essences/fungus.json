@@ -18,6 +18,30 @@
 			"predicate": {
 				"biome": "terralith:cave/infested_caves"
 			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:fungous_dripstone_caves"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:lush_fungous_dripstone_caves"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:mushroom_caves"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:mushroom_island"
+			}
 		}
 	]
 }

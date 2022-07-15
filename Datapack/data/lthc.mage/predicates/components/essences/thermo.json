@@ -132,6 +132,42 @@
 			"predicate": {
 				"biome": "terralith:white_mesa"
 			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "stardust:the_underground"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:dry_savanna"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:jacaranda_savanna"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:savanna_badlands"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:savanna_basaltic_incursions"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:wooded_savanna"
+			}
 		}
 	]
 }

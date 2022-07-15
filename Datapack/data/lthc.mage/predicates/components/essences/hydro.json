@@ -174,6 +174,72 @@
 			"predicate": {
 				"biome": "terralith:alpha_islands_winter"
 			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:flooded_savanna"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:savanna_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:badlands_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:black_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:deep_desert_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:desert_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:gravelly_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:icy_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:jungle_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:lantern_river"
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"biome": "wythers:tropical_forest_river"
+			}
 		}
 	]
 }
