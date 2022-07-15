@@ -201,3 +201,23 @@ Changes:
 Removes:
 
 - No Removes :)
+
+### 1.5.1 Magical Elementalization - Fixes And Improvements
+
+News:
+
+- Full mangrove support
+
+Changes:
+
+- More worldgen datapacks compatibility
+- Collector Pylons can sometimes fail to generate essences
+- You can place a container above a collector pylon to auto collect essences
+
+Removes:
+
+- No Removes :)
+
+Fixes:
+
+- Wrong lore on spells
