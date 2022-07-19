@@ -53,7 +53,6 @@ This datapack add content based on magic essences (based on biomes).
 | ❌   | Bukkit          |
 | ⚠   | Spigot          |
 | ⚠   | Paper           |
-| ❌   | Waterfall       |
 
 ## ▶️ How i start?
 
