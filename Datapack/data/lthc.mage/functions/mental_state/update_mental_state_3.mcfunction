@@ -37,5 +37,5 @@ execute if score #success lthc.mage.data matches 0 store success score #success 
 execute if score #success lthc.mage.data matches 0 store success score #success lthc.mage.data if score @s lthc.mage.mental_state matches 9 if score @s lthc.mage.mental_state_2 matches ..0 run function lthc.mage:mental_state/update_mental_state/9_to_8
 
 ## 9 AND 10
-execute if score #success lthc.mage.data matches 0 store success score #success lthc.mage.data if score @s lthc.mage.mental_state matches 8 if score @s lthc.mage.mental_state_2 matches 10235.. run function lthc.mage:mental_state/update_mental_state/state_up
-execute if score #success lthc.mage.data matches 0 store success score #success lthc.mage.data if score @s lthc.mage.mental_state matches 9 if score @s lthc.mage.mental_state_2 matches ..0 run function lthc.mage:mental_state/update_mental_state/10_to_9
+execute if score #success lthc.mage.data matches 0 store success score #success lthc.mage.data if score @s lthc.mage.mental_state matches 9 if score @s lthc.mage.mental_state_2 matches 10235.. run function lthc.mage:mental_state/update_mental_state/state_up
+execute if score #success lthc.mage.data matches 0 store success score #success lthc.mage.data if score @s lthc.mage.mental_state matches 10 if score @s lthc.mage.mental_state_2 matches ..0 run function lthc.mage:mental_state/update_mental_state/10_to_9
