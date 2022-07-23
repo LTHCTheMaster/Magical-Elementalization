@@ -228,3 +228,22 @@ Removes:
 Fixes:
 
 - Wrong lore on spells
+
+### 1.6 Magical Elementalization - Magical Trader Rework
+
+News:
+
+- No News :( but good changes
+
+Changes:
+
+- Killable Magical Trader
+- More Special Magical Trader
+
+Removes:
+
+- No Removes :)
+
+Fixes:
+
+- Wrong lore on spells

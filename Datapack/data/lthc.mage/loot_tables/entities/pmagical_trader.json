@@ -1,0 +1,57 @@
+{
+    "type": "entity",
+    "pools": [
+        {
+            "rolls": {
+                "type": "binomial",
+                "n": {
+                    "type": "uniform",
+                    "min": 7,
+                    "max": 11
+                },
+                "p": 0.13
+            },
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:item/mental_state/pills",
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "type": "uniform",
+                                "min": 2,
+                                "max": 7
+                            }
+                        },
+                        {
+                            "function": "set_count",
+                            "add": true,
+                            "conditions": [
+                                {
+                                    "condition": "random_chance_with_looting",
+                                    "chance": 0.12,
+                                    "looting_multiplier": 2
+                                }
+                            ],
+                            "count": {
+                                "type": "uniform",
+                                "min": 2,
+                                "max": 6
+                            }
+                        }
+                    ],
+                    "weight": 2
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:engine/multifarm_mk1_hydro"
+                },
+                {
+                    "type": "loot_table",
+                    "name": "lthc.mage:loot_calculate/mangrove_guardian_loot"
+                }
+            ]
+        }
+    ]
+}
