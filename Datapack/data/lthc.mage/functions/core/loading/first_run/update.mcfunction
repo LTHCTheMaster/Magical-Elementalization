@@ -1,5 +1,5 @@
 # Set the version of the datapack
-scoreboard players set #lthc.mage.version lthc.mage.data 010500
+scoreboard players set #lthc.mage.version lthc.mage.data 010600
 
 scoreboard objectives remove lthc.mage.mental_state
 

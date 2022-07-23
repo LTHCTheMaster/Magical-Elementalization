@@ -36,8 +36,8 @@ schedule clear lthc.mage:entities/boss/manage_summon_boss
 schedule clear lthc.mage:core/loading/post_load
 
 # Try disable the pack if the name didn't changed
-datapack disable "file/magical_elementalization_v1.5.zip"
-datapack disable "file/magical_elementalization_v1.5"
+datapack disable "file/magical_elementalization_v1.6.zip"
+datapack disable "file/magical_elementalization_v1.6"
 datapack disable "file/magical_elementalization.zip"
 datapack disable "file/magical_elementalization"
 datapack disable "file/Magical-Elementalization"
