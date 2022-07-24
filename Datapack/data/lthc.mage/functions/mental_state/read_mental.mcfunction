@@ -1,3 +1,4 @@
+function lthc.mage:mental_state/update_mental_state_3
 execute if score @s lthc.mage.mental_state matches 0 run function lthc.mage:mental_state/mental_reader/hell
 execute if score @s lthc.mage.mental_state matches 1 run function lthc.mage:mental_state/mental_reader/really_bad_pp
 execute if score @s lthc.mage.mental_state matches 2 run function lthc.mage:mental_state/mental_reader/really_bad_p
