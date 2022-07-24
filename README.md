@@ -244,6 +244,16 @@ Removes:
 
 - No Removes :)
 
-Fixes:
+### 1.6.1 Magical Elementalization - Fixes
 
-- Wrong lore on spells
+News:
+
+- No News :( but good changes
+
+Changes:
+
+- Fixes
+
+Removes:
+
+- No Removes :)
