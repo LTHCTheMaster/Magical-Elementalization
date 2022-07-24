@@ -121,5 +121,17 @@
 "\nWork with any essences": "\nFonctionne avec toutes les essences.",
 "Compact Essences": "Essences Compactes",
 "\nsame for each essences": "\nla même pour chaque essence.",
-"\nWork with any pylons": "\nFonctionne avec tous les pylônes."
+"\nWork with any pylons": "\nFonctionne avec tous les pylônes.",
+
+"__comments": "mental state",
+"Bad - ":"Mauvais - ",
+"Good - ":"Bon - ",
+"Hell - ":"Enfer - ",
+"Neutral - ":"Neutre - ",
+"Really Bad + - ":"Très mauvais + - ",
+"Really Bad ++ - ":"Très mauvais ++ - ",
+"Really Good + - ":"Très bon + - ",
+"Really Good ++ - ":"Très bon ++ - ",
+"Really Good":"Très bon"
+
 }
