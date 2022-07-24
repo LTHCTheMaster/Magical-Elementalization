@@ -257,3 +257,17 @@ Changes:
 Removes:
 
 - No Removes :)
+
+### 1.7 Magical Elementalization - Always more tiny things
+
+News:
+
+- Always more tiny things
+
+Changes:
+
+- No Changes :|
+
+Removes:
+
+- No Removes :)

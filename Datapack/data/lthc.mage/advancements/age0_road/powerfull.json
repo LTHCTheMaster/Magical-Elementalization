@@ -1,0 +1,21 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:glowstone_dust"
+		},
+		"title": {
+			"translate": "God Thanks you"
+		},
+		"description": "",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false,
+        "frame": "challenge"
+	},
+	"criteria": {
+		"auto":{
+			"trigger": "impossible"
+		}
+	},
+	"parent": "lthc.mage:age0_road/lthc.mage"
+}

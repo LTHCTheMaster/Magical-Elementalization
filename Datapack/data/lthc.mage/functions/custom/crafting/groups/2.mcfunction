@@ -1,7 +1,8 @@
-## Craft checking (8 craft)
+## Craft checking (9 craft)
 
 # Save the data
 data modify storage lthc.mage:main CraftingItem set from entity @s Item.tag.ctc.traits
+data modify storage lthc.mage:main CraftingItemAll set from entity @s Item
 
 # Logical Wand craft checking
 execute if data storage lthc.mage:main CraftingItem.logical_magic run function lthc.mage:custom/crafting/check/logical_wand
@@ -23,3 +24,6 @@ execute if data storage lthc.mage:main CraftingItem.mfrmk1 run function lthc.mag
 
 # Thunderbolt Chain Wand craft checking
 execute if data storage lthc.mage:main CraftingItem.rainbow run function lthc.mage:custom/crafting/check/thunderbolt_chain_wand
+
+# Hidden Upgrade of the Mangrove Axe
+execute if data storage lthc.mage:main CraftingItemAll.lthc.mage.m_axerun run function lthc.mage:custom/crafting/check/amaxe
