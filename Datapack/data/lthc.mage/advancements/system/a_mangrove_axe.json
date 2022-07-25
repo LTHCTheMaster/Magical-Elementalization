@@ -7,7 +7,7 @@
 					"items": [
 						"minecraft:iron_axe"
 					],
-					"nbt": "{lthc.mage.m_axe:1b}"
+					"nbt": "{lthc.mage.am_axe:1b}"
 				},
 				"player": [
 					{
@@ -26,6 +26,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.mage:items/other/boss_objects/mg_ray_init"
+		"function": "lthc.mage:items/other/boss_objects/amg_ray_init"
 	}
 }

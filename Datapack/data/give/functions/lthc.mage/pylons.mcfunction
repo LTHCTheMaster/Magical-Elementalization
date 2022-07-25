@@ -7,3 +7,4 @@ loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/jungle
 loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/oak
 loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/spruce
 loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/warped
+loot spawn ~ ~ ~ loot lthc.mage:item/pylons/basic/mangrove

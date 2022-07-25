@@ -2,7 +2,7 @@
 
 # Save the data
 data modify storage lthc.mage:main CraftingItem set from entity @s Item.tag.ctc.traits
-data modify storage lthc.mage:main CraftingItemAll set from entity @s Item
+data modify storage lthc.mage:main CraftingItemAll set from entity @s Item.tag
 
 # Logical Wand craft checking
 execute if data storage lthc.mage:main CraftingItem.logical_magic run function lthc.mage:custom/crafting/check/logical_wand

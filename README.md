@@ -4,9 +4,11 @@
 
 ![latest release](https://img.shields.io/github/v/release/LTHCTheMaster/Magical-Elementalization?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHCTheMaster/Magical-Elementalization?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHCTheMaster/Magical-Elementalization/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHCTheMaster/Magical-Elementalization?color=gold)
 
-<img src="./Datapack/pack.png" width="64px"></img>
+<img src="./Datapack/pack.png" width="128px"></img>
 
 <img src="./img/img.png" width="960px"></img>
+
+<img src="./img/img2.png" width="960px"></img>
 
 </div>
 
