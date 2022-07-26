@@ -26,4 +26,4 @@ execute if data storage lthc.mage:main CraftingItem.mfrmk1 run function lthc.mag
 execute if data storage lthc.mage:main CraftingItem.rainbow run function lthc.mage:custom/crafting/check/thunderbolt_chain_wand
 
 # Hidden Upgrade of the Mangrove Axe
-execute if data storage lthc.mage:main CraftingItemAll.lthc.mage.m_axerun run function lthc.mage:custom/crafting/check/amaxe
+execute if data storage lthc.mage:main CraftingItemAll."lthc.mage.m_axe" run function lthc.mage:custom/crafting/check/amaxe
