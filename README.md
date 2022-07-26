@@ -275,3 +275,12 @@ Changes:
 Removes:
 
 - No Removes :)
+
+### 1.8 Magical Elementalization - Tiny Quality Tweaks
+
+Changes:
+
+- Some tiny quality tweaks for a best experience
+- RP Optimization
+
+The next version will be released in a relatively long time. Sorry.
