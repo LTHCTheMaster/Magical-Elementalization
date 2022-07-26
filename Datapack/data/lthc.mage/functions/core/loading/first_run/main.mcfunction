@@ -1,5 +1,5 @@
 # Set the version of the datapack
-scoreboard players set #lthc.mage.version lthc.mage.data 010601
+scoreboard players set #lthc.mage.version lthc.mage.data 010800
 
 # Create Scores
 function lthc.mage:core/loading/score
