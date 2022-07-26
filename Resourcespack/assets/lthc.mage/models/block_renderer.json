@@ -1,0 +1,33 @@
+{
+    "gui_light": "side",
+    "ambientocclusion": false,
+    "textures": {
+        "down": "#all",
+        "up": "#all",
+        "north": "#all",
+        "east": "#all",
+        "south": "#all",
+        "west": "#all"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#down", "cullface": "down" },
+                "up":    { "texture": "#up", "cullface": "up" },
+                "north": { "texture": "#north", "cullface": "north" },
+                "south": { "texture": "#south", "cullface": "south" },
+                "west":  { "texture": "#west", "cullface": "west" },
+                "east":  { "texture": "#east", "cullface": "east" }
+            },
+            "shade": false
+        }
+    ],
+    "display": {
+        "fixed": {
+			"rotation": [ -90, 0, 0 ],
+			"translation": [ 0, 0, -16 ],
+			"scale": [2.005, 2.005, 2.005]
+		}
+    }
+}
