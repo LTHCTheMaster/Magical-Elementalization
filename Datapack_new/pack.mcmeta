@@ -1,0 +1,17 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": [
+			"",
+			{
+				"text": "Magical",
+				"color": "yellow"
+			},
+			{
+				"text": " Elementalization",
+				"color": "light_purple"
+			}
+		],
+		"author": "LTHCTheMaster"
+	}
+}
