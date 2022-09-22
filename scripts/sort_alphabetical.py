@@ -1,0 +1,7 @@
+file = open('./references/items_list.txt', 'r')
+contents = file.readlines()
+file.close()
+contents.sort()
+file = open('./references/items_list.txt', 'w')
+file.write(''.join(contents))
+file.close()
