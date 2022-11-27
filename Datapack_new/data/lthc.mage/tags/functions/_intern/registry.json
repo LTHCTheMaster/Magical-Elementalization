@@ -1,0 +1,8 @@
+{
+    "values": [
+        "lthc.mage:init/_intern/sub_parts/parts/registry/blocks",
+		"lthc.mage:init/_intern/sub_parts/parts/registry/items",
+		"lthc.mage:init/_intern/sub_parts/parts/registry/foods",
+		"lthc.mage:init/_intern/sub_parts/parts/registry/guides"
+    ]
+}
