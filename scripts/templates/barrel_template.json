@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+	"ud": "lthc.mage:pylons/template",
+	"sides": "lthc.mage:pylons/template"
+	},
+	"elements": [{
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 16, 16 ],
+		"faces": {
+			"north": { "texture": "#sides" },
+			"east": { "texture": "#sides" },
+			"south": { "texture": "#sides" },
+			"west": { "texture": "#sides" },
+			"up": { "texture": "#ud" },
+			"down": { "texture": "#ud" }
+		}
+	}]
+}

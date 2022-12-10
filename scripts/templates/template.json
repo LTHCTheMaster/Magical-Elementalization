@@ -1,0 +1,20 @@
+{
+	"parent": "lthc.mage:block_renderer",
+	"textures": {
+	"ud": "lthc.mage:pylons/template",
+	"sides": "lthc.mage:pylons/template"
+	},
+	"elements": [{
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 16, 16 ],
+		"faces": {
+			"north": { "texture": "#sides", "cullface": "north" },
+			"east": { "texture": "#sides", "cullface": "east" },
+			"south": { "texture": "#sides", "cullface": "south" },
+			"west": { "texture": "#sides", "cullface": "west" },
+			"up": { "texture": "#ud", "cullface": "up" },
+			"down": { "texture": "#ud", "cullface": "down" }
+		},
+		"shade": false
+	}]
+}
