@@ -1,1 +1,1 @@
-scoreboard players set #tick_2 lthc.advancenergy.data 0
+scoreboard players set #tick_2 lthc.mage.data 0
