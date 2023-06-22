@@ -1,18 +1,18 @@
 {
 	"display": {
-		"title": "LTHCTheMaster",
-		"description": "",
-		"icon": {
-			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner: \"LTHCTheMaster\"}"
-		},
-		"show_toast": false,
-		"announce_to_chat": false
+	"title": "LTHCTheMaster",
+	"description": "",
+	"icon": {
+		"item": "minecraft:player_head",
+		"nbt": "{SkullOwner: {Id: [I; -1033085151, 71650885, -1959746804, 982326108], Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTY3NTE2MjUyNjI5NiwKICAicHJvZmlsZUlkIiA6ICJjMjZjNWYyMTA0NDU0ZTQ1OGIzMGEzMGMzYThkMWI1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMVEhDVGhlTWFzdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmZTcwYTc0MzU5NGQ1OGYxOTMxZGQyMWRiZmJjYjg5YTFmNWI5NzA5NjJlNjRjYjE0Y2Q0ZmRhOTgxMTJmMWEiCiAgICB9CiAgfQp9\"}]}}}"
+	},
+	"show_toast": false,
+	"announce_to_chat": false
 	},
 	"parent": "global:root",
 	"criteria": {
-		"trigger": {
-			"trigger": "minecraft:tick"
-		}
+	"trigger": {
+		"trigger": "minecraft:tick"
+	}
 	}
 }

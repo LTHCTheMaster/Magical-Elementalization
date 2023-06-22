@@ -1,6 +1,6 @@
 {
-	"values": [
-		"#smithed.custom_block:load",
-		"#lthc.mage:load/load"
+  "values": [
+	"#smithed.custom_block:load",
+	"#lthc.mage:load/load"
 	]
 }

@@ -14,7 +14,6 @@ execute as @e[type=marker,tag=lthc.mage.loading_marker] at @s run forceload add 
 # Chunkload convention chunk
 execute in overworld run forceload add -30000000 1600
 
-
 # Init the gamerules
 gamerule maxCommandChainLength 2147483647
 
